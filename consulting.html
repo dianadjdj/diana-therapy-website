@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clinical Supervision, Consultation & Corporate Wellness | Diana Chu, LMFT, RDT</title>
+  <meta name="description" content="BBS-approved clinical supervision toward licensure, consultation groups for clinicians, and corporate wellness for tech companies. Diana Chu, LMFT, RDT. Available worldwide.">
+  <link rel="canonical" href="https://dianachutherapy.com/consulting.html">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <meta name="theme-color" content="#2C2416">
+  <meta name="geo.region" content="US-CA">
+  <meta name="geo.placename" content="San Francisco, California">
+  <meta property="og:title" content="Clinical Supervision, Consultation & Corporate Wellness | Diana Chu, LMFT, RDT">
+  <meta property="og:description" content="BBS-approved clinical supervision, consultation groups for clinicians, and corporate wellness for tech companies. Available worldwide.">
+  <meta property="og:url" content="https://dianachutherapy.com/consulting.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Diana Chu Therapy">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Clinical Supervision & Corporate Wellness | Diana Chu, LMFT, RDT">
+  <meta name="twitter:description" content="BBS-approved supervision, clinician consultation groups, and corporate wellness for tech companies. Available worldwide.">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dianachutherapy.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Consulting & Supervision", "item": "https://dianachutherapy.com/consulting.html" }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://dianachutherapy.com/consulting.html#webpage",
+        "url": "https://dianachutherapy.com/consulting.html",
+        "name": "Clinical Supervision, Consultation & Corporate Wellness | Diana Chu, LMFT, RDT",
+        "description": "BBS-approved clinical supervision toward licensure, consultation groups for clinicians, and corporate wellness for tech companies. Available worldwide.",
+        "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "Service",
+        "name": "Clinical Supervision Toward Licensure",
+        "provider": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
+        "serviceType": "Clinical Supervision",
+        "description": "BBS-approved individual clinical supervision for AMFTs, APCCs, and ASWs working toward licensure in California.",
+        "areaServed": { "@type": "State", "name": "California" }
+      },
+      {
+        "@type": "Service",
+        "name": "Clinician Consultation Group",
+        "provider": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
+        "serviceType": "Professional Consultation",
+        "description": "Consultation groups for licensed clinicians seeking peer support, case consultation, and professional development. Available worldwide.",
+        "areaServed": { "@type": "Country", "name": "Worldwide" }
+      },
+      {
+        "@type": "Service",
+        "name": "Corporate Wellness Consulting",
+        "provider": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
+        "serviceType": "Corporate Wellness",
+        "description": "Corporate wellness consulting for tech companies and teams. Focus areas include burnout prevention, team resilience, and leadership mental health. Available worldwide.",
+        "areaServed": { "@type": "Country", "name": "Worldwide" }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Raleway:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/CustomEase.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.1/dist/lenis.min.js" defer></script>
+
+  <link rel="stylesheet" href="css/styles.css">
+
+  <style>
+    /* ── Consulting page layout ── */
+    .consulting-section {
+      padding: 100px 0;
+      border-bottom: 1px solid rgba(44,36,22,0.07);
+    }
+    .consulting-section:nth-child(odd) { background: var(--warm-white); }
+    .consulting-section:nth-child(even) { background: var(--cream); }
+
+    .consulting-layout {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 72px;
+      align-items: start;
+    }
+
+    /* Left: main content */
+    .consulting-content .service-number {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold-dark);
+      margin-bottom: 16px;
+      display: block;
+    }
+    .consulting-content h2 {
+      font-family: var(--font-serif);
+      font-size: clamp(26px, 2.8vw, 42px);
+      font-weight: 400;
+      color: var(--dark);
+      line-height: 1.2;
+      margin: 0 0 24px;
+      max-width: 20ch;
+    }
+    .consulting-content .lead {
+      font-size: 16px;
+      line-height: 1.85;
+      color: var(--text-light);
+      max-width: 56ch;
+      margin-bottom: 40px;
+    }
+
+    /* Feature grid */
+    .consulting-features {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+    .consulting-feature {
+      padding: 24px;
+      background: var(--warm-white-2);
+      border-top: 2px solid var(--gold);
+      border-radius: 0 0 2px 2px;
+    }
+    .consulting-section:nth-child(even) .consulting-feature {
+      background: rgba(245,240,234,0.7);
+    }
+    .consulting-feature h3 {
+      font-family: var(--font-sans);
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      color: var(--dark);
+      margin-bottom: 8px;
+    }
+    .consulting-feature p {
+      font-size: 14px;
+      line-height: 1.75;
+      color: var(--text-light);
+      margin: 0;
+    }
+
+    /* Right: meta card */
+    .consulting-meta {
+      background: var(--dark);
+      padding: 36px 28px;
+      position: sticky;
+      top: calc(var(--nav-height) + 32px);
+    }
+    .consulting-meta__row {
+      margin-bottom: 24px;
+    }
+    .consulting-meta__row:last-of-type {
+      margin-bottom: 32px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid rgba(245,240,234,0.1);
+    }
+    .consulting-meta__label {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 6px;
+    }
+    .consulting-meta__value {
+      font-family: var(--font-sans);
+      font-size: 14px;
+      font-weight: 500;
+      color: rgba(245,240,234,0.9);
+      line-height: 1.5;
+      margin: 0;
+    }
+    .consulting-meta .btn {
+      width: 100%;
+      justify-content: center;
+      margin-top: 0;
+      white-space: nowrap;
+      font-size: 13px;
+    }
+
+    @media (max-width: 900px) {
+      .consulting-layout {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .consulting-meta {
+        position: static;
+      }
+      .consulting-features {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <nav class="nav scrolled" aria-label="Main navigation">
+    <div class="nav__inner">
+      <a href="index.html" class="nav__logo">Diana Chu Therapy</a>
+      <ul class="nav__links">
+        <li><a href="index.html" class="nav__link">Home</a></li>
+        <li><a href="about.html" class="nav__link">About</a></li>
+        <li><a href="services.html" class="nav__link">Services</a></li>
+        <li><a href="consulting.html" class="nav__link active">Consulting</a></li>
+        <li><a href="faq.html" class="nav__link">FAQ</a></li>
+        <li><a href="blog.html" class="nav__link">Blog</a></li>
+        <li><a href="contact.html" class="nav__cta">Book a Consultation</a></li>
+      </ul>
+      <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <main id="main-content">
+
+    <header class="page-hero">
+      <div class="container">
+        <span class="eyebrow page-hero__label reveal-line">Professional Services</span>
+        <h1 class="page-hero__heading reveal">Supervision,<br>Consultation &amp;<br>Corporate Wellness.</h1>
+        <p class="page-hero__body fade-up">For clinicians building their practice and organizations investing in their people. Available worldwide.</p>
+      </div>
+    </header>
+
+    <!-- CLINICAL SUPERVISION -->
+    <section class="consulting-section" id="supervision" aria-labelledby="supervision-heading">
+      <div class="container">
+        <div class="consulting-layout">
+          <div class="consulting-content">
+            <span class="service-number">01</span>
+            <h2 id="supervision-heading">Clinical Supervision Toward Licensure</h2>
+            <p class="lead">Individual supervision for AMFTs, APCCs, and ASWs working toward licensure in California. Diana is a BBS-approved supervisor with a practice rooted in relational, somatic, and experiential approaches. Supervision is a space to think carefully about your clinical work, develop your therapeutic identity, and build confidence as a practitioner.</p>
+
+            <div class="consulting-features">
+              <div class="consulting-feature">
+                <h3>BBS-Approved Supervision</h3>
+                <p>Hours count toward AMFT, APCC, and ASW licensure requirements. Compliant with California BBS standards.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Relational and Experiential Focus</h3>
+                <p>Supervision informed by Diana's training in drama therapy, somatic approaches, and interpersonal dynamics. Not just case review.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Support for Complex Cases</h3>
+                <p>Executives, founders, high-achieving clients, trauma, and couples work. Specialty population experience available.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Professional Development</h3>
+                <p>Guidance on building a private practice, niche development, and career direction alongside clinical skill building.</p>
+              </div>
+            </div>
+
+            <a href="mailto:dianachutherapy@gmail.com?subject=Clinical Supervision Inquiry" class="btn btn--primary">Inquire About Supervision <span class="btn-arrow">→</span></a>
+          </div>
+
+          <div class="consulting-meta">
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Format</span>
+              <p class="consulting-meta__value">Individual, telehealth</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Available</span>
+              <p class="consulting-meta__value">California</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Credential</span>
+              <p class="consulting-meta__value">BBS-Approved Supervisor</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Pricing</span>
+              <p class="consulting-meta__value">Inquire for rates</p>
+            </div>
+            <a href="mailto:dianachutherapy@gmail.com?subject=Clinical Supervision Inquiry" class="btn btn--outline-light">Get in Touch <span class="btn-arrow">→</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONSULTATION GROUPS -->
+    <section class="consulting-section" id="consultation-groups" aria-labelledby="groups-heading">
+      <div class="container">
+        <div class="consulting-layout">
+          <div class="consulting-content">
+            <span class="service-number">02</span>
+            <h2 id="groups-heading">Consultation Groups for Clinicians</h2>
+            <p class="lead">A small, ongoing consultation group for licensed therapists who want to think more rigorously about their clinical work. Diana has facilitated groups for clinicians working with high-achieving clients and is opening space for a new cohort. Groups are kept intentionally small to allow for real depth and trust to develop over time.</p>
+
+            <div class="consulting-features">
+              <div class="consulting-feature">
+                <h3>Case Consultation</h3>
+                <p>Bring your stuck cases, countertransference, and clinical questions to a facilitated group that takes the work seriously.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Peer Community</h3>
+                <p>Build lasting collegial relationships with other thoughtful clinicians. Private practice can be isolating. This is a corrective for that.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Specialty Focus</h3>
+                <p>Groups are shaped around shared clinical interests. Current focus: high-achieving clients, executives, founders, and couples.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>New Cohort Forming</h3>
+                <p>Spots in the next group are limited. Reach out now to learn more and be considered for an upcoming opening.</p>
+              </div>
+            </div>
+
+            <a href="mailto:dianachutherapy@gmail.com?subject=Consultation Group Interest" class="btn btn--primary">Inquire About the Group <span class="btn-arrow">→</span></a>
+          </div>
+
+          <div class="consulting-meta">
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Format</span>
+              <p class="consulting-meta__value">Small group, telehealth</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Available</span>
+              <p class="consulting-meta__value">Worldwide</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Status</span>
+              <p class="consulting-meta__value">New cohort forming</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Pricing</span>
+              <p class="consulting-meta__value">Inquire for rates</p>
+            </div>
+            <a href="mailto:dianachutherapy@gmail.com?subject=Consultation Group Interest" class="btn btn--outline-light">Get in Touch <span class="btn-arrow">→</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CORPORATE WELLNESS -->
+    <section class="consulting-section" id="corporate-wellness" aria-labelledby="corporate-heading">
+      <div class="container">
+        <div class="consulting-layout">
+          <div class="consulting-content">
+            <span class="service-number">03</span>
+            <h2 id="corporate-heading">Corporate Wellness for Tech Companies</h2>
+            <p class="lead">Diana partners with tech companies, People teams, and ERG groups to bring clinical expertise directly into the workplace. Drawing on her work as an Interpersonal Dynamics Facilitator at Stanford GSB and her experience with executives and founders, she brings a credible, grounded perspective on what high-performing teams actually need to sustain themselves.</p>
+
+            <div class="consulting-features">
+              <div class="consulting-feature">
+                <h3>Burnout Prevention</h3>
+                <p>Workshops and speaking engagements on recognizing, addressing, and preventing burnout in high-demand environments.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Team Resilience</h3>
+                <p>Programming designed to help teams communicate under pressure, process setbacks, and sustain performance over time.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>ERG and Affinity Group Support</h3>
+                <p>Facilitated conversations and mental health programming for employee resource groups. Thoughtful, clinically grounded, not generic wellness content.</p>
+              </div>
+              <div class="consulting-feature">
+                <h3>Leadership Mental Health</h3>
+                <p>Targeted support for managers and leaders navigating the psychological weight of leading people through uncertainty and growth.</p>
+              </div>
+            </div>
+
+            <a href="mailto:dianachutherapy@gmail.com?subject=Corporate Wellness Inquiry" class="btn btn--primary">Inquire About Corporate Wellness <span class="btn-arrow">→</span></a>
+          </div>
+
+          <div class="consulting-meta">
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Format</span>
+              <p class="consulting-meta__value">Workshops, talks, facilitation</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Available</span>
+              <p class="consulting-meta__value">Worldwide</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Background</span>
+              <p class="consulting-meta__value">Stanford GSB Facilitator</p>
+            </div>
+            <div class="consulting-meta__row">
+              <span class="consulting-meta__label">Pricing</span>
+              <p class="consulting-meta__value">Inquire for rates</p>
+            </div>
+            <a href="mailto:dianachutherapy@gmail.com?subject=Corporate Wellness Inquiry" class="btn btn--outline-light">Get in Touch <span class="btn-arrow">→</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-dark" aria-labelledby="cta-consulting-heading">
+      <div class="cta-dark__texture" aria-hidden="true"></div>
+      <div class="container">
+        <span class="eyebrow cta-dark__label reveal-line">Get in Touch</span>
+        <h2 id="cta-consulting-heading" class="cta-dark__heading reveal">Not sure which service fits?</h2>
+        <p class="cta-dark__body fade-up">Send an email with a brief description of what you are looking for. Diana will respond within two business days.</p>
+        <div class="cta-dark__actions">
+          <a href="mailto:dianachutherapy@gmail.com" class="btn btn--outline-light">Email Diana <span class="btn-arrow">→</span></a>
+          <a href="services.html" class="btn btn--outline-light" style="border-color: rgba(245,240,234,0.2); opacity: 0.8;">View Therapy Services</a>
+        </div>
+        <p class="cta-dark__note">Supervision &nbsp;·&nbsp; Consultation &nbsp;·&nbsp; Corporate Wellness &nbsp;·&nbsp; Worldwide</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer__top">
+        <div class="footer__brand">
+          <a href="index.html" class="footer__logo">Diana Chu Therapy</a>
+          <p class="footer__tagline">Private telehealth therapy for executives, founders, and high-achieving professionals.</p>
+          <a href="tel:+14158903040" class="footer__contact-link">(415) 890-3040</a>
+          <a href="mailto:dianachutherapy@gmail.com" class="footer__contact-link">dianachutherapy@gmail.com</a>
+          <a href="https://share.google/8qhp60gUKz67ggrEi" target="_blank" rel="noopener" class="footer__contact-link">View on Google</a>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Locations</h3>
+          <address class="footer__location">
+            <a href="san-francisco-therapist.html" class="footer__nav-link" style="font-weight:600;font-size:inherit;"><strong>California</strong></a>
+            San Francisco Bay Area<br>Serving all of CA via telehealth
+          </address>
+          <address class="footer__location" style="margin-top: 16px;">
+            <a href="florida-therapist.html" class="footer__nav-link" style="font-weight:600;font-size:inherit;"><strong>Florida</strong></a>
+            Miami &amp; South Florida<br>Serving all of FL via telehealth
+          </address>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Credentials</h3>
+          <address class="footer__location">
+            <strong>LMFT #105546 &nbsp;&middot;&nbsp; RDT #659</strong>
+            MA Counseling Psychology, CIIS<br>Licensed in CA &amp; FL
+          </address>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Navigate</h3>
+          <ul class="footer__nav-list">
+            <li><a href="index.html" class="footer__nav-link">Home</a></li>
+            <li><a href="about.html" class="footer__nav-link">About Diana</a></li>
+            <li><a href="services.html" class="footer__nav-link">Services</a></li>
+            <li><a href="consulting.html" class="footer__nav-link">Consulting</a></li>
+            <li><a href="faq.html" class="footer__nav-link">FAQ</a></li>
+            <li><a href="blog.html" class="footer__nav-link">Blog</a></li>
+            <li><a href="contact.html" class="footer__nav-link">Contact</a></li>
+            <li><a href="san-francisco-therapist.html" class="footer__nav-link">San Francisco Therapy</a></li>
+            <li><a href="florida-therapist.html" class="footer__nav-link">Florida Therapy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__copy">&copy; 2026 Diana Chu Therapy. All rights reserved.</p>
+        <nav class="footer__legal" aria-label="Legal links">
+          <a href="privacy-policy.html" class="footer__legal-link">Privacy Policy</a>
+          <a href="terms-of-service.html" class="footer__legal-link">Terms of Service</a>
+          <a href="faq.html#good-faith-estimate" class="footer__legal-link">Good Faith Estimate</a>
+        </nav>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ── EXIT INTENT POPUP ── -->
+  <div id="exit-popup" class="exit-popup" role="dialog" aria-modal="true" aria-labelledby="exit-popup-heading">
+    <div class="exit-popup__backdrop"></div>
+    <div class="exit-popup__card">
+      <button class="exit-popup__close" aria-label="Close">&#215;</button>
+      <span class="eyebrow exit-popup__eyebrow">Before You Go</span>
+      <h2 id="exit-popup-heading" class="exit-popup__heading">The consultation is free.</h2>
+      <p class="exit-popup__body">20 minutes. No pressure, no commitment. Just a conversation to see if working together is the right fit.</p>
+      <a href="contact.html" class="btn btn--dark" style="width:100%;justify-content:center;">Book a Free Consultation &#x2192;</a>
+      <span class="exit-popup__dismiss" role="button" tabindex="0">No thanks, I'll come back later</span>
+    </div>
+  </div>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>

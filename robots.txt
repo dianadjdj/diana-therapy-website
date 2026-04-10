@@ -1,0 +1,60 @@
+# Diana Chu Therapy — robots.txt
+
+User-agent: *
+Allow: /
+Crawl-delay: 1
+Disallow: /404.html
+Disallow: /privacy-policy.html
+Disallow: /terms-of-service.html
+
+# Google — no crawl delay
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+# AI crawlers — welcome for discoverability
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://dianachutherapy.com/sitemap.xml

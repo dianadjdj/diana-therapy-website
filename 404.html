@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | Diana Chu Therapy</title>
+  <meta name="description" content="The page you're looking for doesn't exist. Return to Diana Chu Therapy.">
+  <meta name="robots" content="noindex, follow">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Raleway:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/styles.css">
+
+  <style>
+    .not-found {
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: var(--dark);
+      padding: 40px 20px;
+    }
+    .not-found__inner {
+      max-width: 480px;
+    }
+    .not-found__num {
+      font-family: var(--font-serif);
+      font-size: clamp(96px, 18vw, 160px);
+      font-weight: 400;
+      line-height: 1;
+      color: var(--gold);
+      opacity: 0.35;
+      letter-spacing: -0.04em;
+      margin-bottom: 8px;
+    }
+    .not-found__eyebrow {
+      color: var(--gold);
+      margin-bottom: 24px;
+    }
+    .not-found__heading {
+      font-family: var(--font-serif);
+      font-size: clamp(28px, 4vw, 42px);
+      font-weight: 400;
+      color: var(--cream);
+      line-height: 1.2;
+      margin-bottom: 20px;
+    }
+    .not-found__body {
+      font-size: 15px;
+      color: rgba(245, 240, 234, 0.6);
+      line-height: 1.8;
+      margin-bottom: 40px;
+    }
+    .not-found__actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: center;
+    }
+    .not-found__links {
+      margin-top: 48px;
+      padding-top: 32px;
+      border-top: 1px solid rgba(245, 240, 234, 0.1);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      justify-content: center;
+    }
+    .not-found__link {
+      font-family: var(--font-sans);
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(245, 240, 234, 0.45);
+      transition: color 180ms ease;
+    }
+    .not-found__link:hover { color: var(--cream); }
+  </style>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <main id="main-content">
+    <div class="not-found">
+      <div class="not-found__inner">
+
+        <div class="not-found__num" aria-hidden="true">404</div>
+
+        <span class="eyebrow not-found__eyebrow">Page Not Found</span>
+
+        <h1 class="not-found__heading">This page doesn't exist.</h1>
+
+        <p class="not-found__body">The link may be broken, or the page may have moved. Let's get you back on track.</p>
+
+        <div class="not-found__actions">
+          <a href="index.html" class="btn btn--outline-light">Go Home <span class="btn-arrow">→</span></a>
+          <a href="contact.html" class="btn btn--outline-light" style="border-color: rgba(245,240,234,0.2); opacity: 0.7;">Book a Consultation</a>
+        </div>
+
+        <nav class="not-found__links" aria-label="Site links">
+          <a href="about.html" class="not-found__link">About</a>
+          <a href="services.html" class="not-found__link">Services</a>
+          <a href="faq.html" class="not-found__link">FAQ</a>
+          <a href="blog.html" class="not-found__link">Blog</a>
+          <a href="contact.html" class="not-found__link">Contact</a>
+        </nav>
+
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>
