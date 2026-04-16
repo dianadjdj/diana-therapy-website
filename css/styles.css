@@ -1048,6 +1048,10 @@ h1, h2, h3, h4 {
   background-image: url('../images/blog-do-i-need-therapy.jpg');
   background-size: cover; background-position: center;
 }
+.blog-card__image-bg--founders-sleep {
+  background-image: url('../images/blog-founders-sleep.jpg'), linear-gradient(160deg, #1a1510 0%, #2C2416 45%, #3D3020 100%);
+  background-size: cover; background-position: center;
+}
 .blog-card__meta {
   display: flex;
   align-items: center;
@@ -1270,6 +1274,15 @@ h1, h2, h3, h4 {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+.footer__nav-subheading {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(196, 168, 130, 0.65);
+  margin: 22px 0 10px;
 }
 .footer__nav-link {
   font-family: var(--font-sans);

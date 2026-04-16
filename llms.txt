@@ -131,6 +131,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [Couples Therapy for Founders](https://dianachutherapy.com/blog/couples-therapy-founders.html): Why standard couples therapy fails high-achieving couples and what a specialized approach does differently
 - [Telehealth for Executives](https://dianachutherapy.com/blog/telehealth-therapy-executives.html): Why telehealth is often the superior format for busy executives: efficiency, privacy, and clinical effectiveness
 - [Founder Identity After Exit](https://dianachutherapy.com/blog/founder-identity-after-exit.html): The emotional reality of selling a company, the grief cycle founders experience, and how therapy helps
+- [Why Founders Don't Sleep: The Psychology of Hypervigilance](https://dianachutherapy.com/blog/founders-sleep-hypervigilance.html): Why venture-backed founders lie awake at 2am running threat scenarios, what hypervigilance does to the nervous system, and what actually changes the pattern
 
 ## Site Pages
 
@@ -140,6 +141,15 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [FAQ](https://dianachutherapy.com/faq.html): Fees, insurance, telehealth, confidentiality, Good Faith Estimate
 - [Blog](https://dianachutherapy.com/blog.html): Articles on executive mental health, leadership psychology, and high-performance well-being
 - [Contact](https://dianachutherapy.com/contact.html): Book a free consultation
+- [Therapy for Founders](https://dianachutherapy.com/therapy-for-founders.html): Topic hub on the patterns founders bring to therapy and how Diana works with them
+- [Executive Burnout Therapy](https://dianachutherapy.com/executive-burnout-therapy.html): Topic hub on what executive burnout looks like in high performers and how clinical treatment differs from coaching or wellness
+- [California Therapist](https://dianachutherapy.com/california-therapist.html): Statewide California hub linking to all California city pages and covering the distinct pressure profiles of the Bay Area, Silicon Valley, Los Angeles, and San Diego
+- [San Francisco Therapist](https://dianachutherapy.com/san-francisco-therapist.html): Geo landing page for California Bay Area executives and founders
+- [Palo Alto Therapist](https://dianachutherapy.com/palo-alto-therapist.html): Geo landing page for Silicon Valley founders, Stanford GSB alumni, and Sand Hill Road executives
+- [Los Angeles Therapist](https://dianachutherapy.com/los-angeles-therapist.html): Geo landing page for LA founders, entertainment and creator-economy executives, and DTC brand founders
+- [San Diego Therapist](https://dianachutherapy.com/san-diego-therapist.html): Geo landing page for San Diego biotech, medical device, and defense tech executives
+- [Miami Therapist](https://dianachutherapy.com/miami-therapist.html): Geo landing page for Miami fintech, crypto, and relocated founders from SF or NYC
+- [Florida Therapist](https://dianachutherapy.com/florida-therapist.html): Geo landing page for Florida executives and founders statewide
 
 ## Entity Summary
 
