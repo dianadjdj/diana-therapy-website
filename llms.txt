@@ -139,6 +139,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [Decision Fatigue in Leadership](https://dianachutherapy.com/blog/decision-fatigue-executives.html): Why decision fatigue worsens with seniority, how it shows up, and what actually helps
 - [The Loneliness of Leadership](https://dianachutherapy.com/blog/loneliness-of-leadership.html): Why leadership loneliness is common among executives and founders, and what to do about it
 - [Do High Achievers Actually Need Therapy?](https://dianachutherapy.com/blog/do-i-need-therapy-executives.html): A direct answer for high-achievers who keep deferring therapy because they're functioning well on paper
+- [A Founder's First Therapy Session](https://dianachutherapy.com/blog/first-therapy-session-founder.html): What actually happens in a first therapy session when you're a founder, what the therapist is listening for, what they don't do, and how trust starts
 
 ## Site Pages
 
@@ -150,6 +151,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [Contact](https://dianachutherapy.com/contact.html): Book a free consultation
 - [Therapy for Founders](https://dianachutherapy.com/therapy-for-founders.html): Topic hub on the patterns founders bring to therapy and how Diana works with them
 - [Executive Burnout Therapy](https://dianachutherapy.com/executive-burnout-therapy.html): Topic hub on what executive burnout looks like in high performers and how clinical treatment differs from coaching or wellness
+- [Therapy for Family Office Principals](https://dianachutherapy.com/family-office-therapy.html): Landing page for family office principals, operating founders, next-generation family members, and surviving spouses. Covers confidentiality architecture (cash-pay, no third-party disclosure), the clinical patterns principals bring to therapy, and the referral process for advisors and gatekeepers
 - [California Therapist](https://dianachutherapy.com/california-therapist.html): Statewide California hub linking to all California city pages and covering the distinct pressure profiles of the Bay Area, Silicon Valley, Los Angeles, and San Diego
 - [San Francisco Therapist](https://dianachutherapy.com/san-francisco-therapist.html): Geo landing page for California Bay Area executives and founders
 - [Palo Alto Therapist](https://dianachutherapy.com/palo-alto-therapist.html): Geo landing page for Silicon Valley founders, Stanford GSB alumni, and Sand Hill Road executives
@@ -158,6 +160,11 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [Miami Therapist](https://dianachutherapy.com/miami-therapist.html): Geo landing page for Miami fintech, crypto, and relocated founders from SF or NYC
 - [Tampa, Orlando, Jacksonville Therapist](https://dianachutherapy.com/tampa-orlando-jacksonville-therapist.html): Geo landing page for executives in Tampa, Orlando, Jacksonville, and across non-Miami Florida
 - [Florida Therapist](https://dianachutherapy.com/florida-therapist.html): Geo landing page for Florida executives and founders statewide
+
+## In-Depth Guides
+
+- [Founder Mental Health: What the Data Actually Shows](https://dianachutherapy.com/guides/founder-mental-health-statistics.html): Statistic-led pillar on founder mental health research, clinical patterns, and what moves the needle. Cites Freeman UCSF, Deloitte, Vistage, HBR, and APA; links to every related blog post on the site
+- [Best Therapist for Founders in California: What to Look For](https://dianachutherapy.com/guides/best-therapist-for-founders-california.html): Guide-format pillar on choosing a California-licensed therapist as a founder. Covers credentials, clinical depth, practice structure, red flags, cost expectations, geography, and consultation questions. Links to state and city pages, service pages, and related blog posts
 
 ## Entity Summary
 

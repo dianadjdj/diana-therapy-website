@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" href="../favicon.png" sizes="32x32">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Perfectionism Trap for High Achievers | Diana Chu, LMFT</title>
-  <meta name="description" content="Perfectionism drives high achievers forward, until it doesn't. A therapist on healthy standards vs. perfectionism that's costing you.">
+  <meta name="description" content="Perfectionism drives high achievers forward, until it doesn't. A therapist on the difference between healthy standards and perfectionism that costs you.">
   <link rel="canonical" href="https://dianachutherapy.com/blog/perfectionism-high-achievers.html">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <meta name="theme-color" content="#2C2416">
@@ -27,7 +27,8 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
   <meta property="article:author" content="Diana Chu">
-  <meta property="article:published_time" content="2026-03-15">
+  <meta property="article:published_time" content="2025-08-12">
+  <meta property="article:modified_time" content="2026-04-24">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="The Perfectionism Trap: When High Standards Become a Liability">
   <meta name="twitter:description" content="Perfectionism drives high achievers forward, until it doesn't. A licensed therapist explains the difference between healthy standards and perfectionism that's costing you.">
@@ -61,8 +62,8 @@
         "description": "Perfectionism drives high achievers forward, until it doesn't. A licensed therapist explains the difference between healthy standards and perfectionism that's costing you, and what to do about it.",
         "author": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
         "publisher": { "@id": "https://dianachutherapy.com/#business" },
-        "datePublished": "2026-03-15",
-        "dateModified": "2026-04-01",
+        "datePublished": "2025-08-12",
+        "dateModified": "2026-04-24",
         "url": "https://dianachutherapy.com/blog/perfectionism-high-achievers.html",
         "image": "https://dianachutherapy.com/images/og-perfectionism.jpg",
         "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
@@ -89,6 +90,7 @@
     .article-hero__dot { width: 3px; height: 3px; background: var(--taupe-light); border-radius: 50%; }
     .article-hero__date { font-size: 12px; font-weight: 300; color: var(--text-light); }
     .article-hero__read-time { font-size: 12px; font-weight: 300; color: var(--text-light); }
+    .article-hero__updated { font-size: 12px; font-weight: 500; color: var(--gold); letter-spacing: 0.02em; }
     .article-hero__title { font-size: clamp(32px, 5vw, 54px); color: var(--text); margin-bottom: 24px; line-height: 1.08; }
     .article-hero__subtitle { font-size: 18px; font-weight: 300; color: var(--text-mid); line-height: 1.85; max-width: 640px; letter-spacing: 0.01em; }
 
@@ -176,6 +178,22 @@
     .article-list li:last-child { border-bottom: none; }
     .article-list li::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 7px; height: 1px; background: var(--gold); }
 
+    .article-refs {
+      margin: 64px 0 0;
+      padding: 36px 0 0;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .article-refs h2 { font-size: 18px !important; margin: 0 0 20px !important; }
+    .article-refs ol {
+      padding-left: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--text-light);
+      line-height: 1.75;
+    }
+    .article-refs li { margin-bottom: 14px; }
+    .article-refs a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+
     .article-cta {
       margin: 64px 0 0;
       padding: 48px 44px;
@@ -216,10 +234,22 @@
       <ul class="nav__links">
         <li><a href="../index.html" class="nav__link">Home</a></li>
         <li><a href="../about.html" class="nav__link">About</a></li>
-        <li><a href="../services.html" class="nav__link">Services</a></li>
-        <li><a href="../consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -236,9 +266,11 @@
         <div class="article-hero__meta">
           <span class="article-hero__category">Peak Performance</span>
           <span class="article-hero__dot" aria-hidden="true"></span>
-          <time class="article-hero__date" datetime="2026-03-15">March 2026</time>
+          <time class="article-hero__date" datetime="2025-08-12">August 2025</time>
           <span class="article-hero__dot" aria-hidden="true"></span>
           <span class="article-hero__read-time">7 min read</span>
+          <span class="article-hero__dot" aria-hidden="true"></span>
+          <span class="article-hero__updated">Updated April 2026</span>
         </div>
         <h1 class="article-hero__title">The Perfectionism Trap: When High Standards Become a Liability</h1>
         <p class="article-hero__subtitle">There's a version of perfectionism that drives results. There's another version that quietly dismantles everything you've built. Most high achievers are living somewhere in between.</p>
@@ -315,6 +347,16 @@
         <p>And there's a practice dimension. Learning to tolerate the specific discomfort of "done" versus "perfect." Learning what it feels like when completion is the point, not perfection. This sounds simple and is genuinely difficult for people whose nervous systems have been trained to equate finishing with exposure.</p>
 
         <p>High standards are worth keeping. The fear underneath the perfectionism, the fear that drives the endless revision and the inability to delegate and the moving goalposts, that's worth examining.</p>
+
+        <!-- REFERENCES -->
+        <div class="article-refs">
+          <h2>References</h2>
+          <ol>
+            <li id="ref-1">Curran, T., &amp; Hill, A. P. (2019). Perfectionism is increasing over time: A meta-analysis of birth cohort differences from 1989 to 2016. <em>Psychological Bulletin</em>, 145(4), 410-429.</li>
+            <li id="ref-2">Flett, G. L., &amp; Hewitt, P. L. (2002). <em>Perfectionism: Theory, Research, and Treatment</em>. American Psychological Association.</li>
+            <li id="ref-3">Shafran, R., Cooper, Z., &amp; Fairburn, C. G. (2002). Clinical perfectionism: A cognitive-behavioural analysis. <em>Behaviour Research and Therapy</em>, 40(7), 773-791.</li>
+          </ol>
+        </div>
 
         <div class="article-cta">
           <span class="eyebrow">Work Together</span>
@@ -394,6 +436,7 @@
           <ul class="footer__nav-list">
             <li><a href="../therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="../executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

@@ -57,6 +57,52 @@
           "priceCurrency": "USD",
           "description": "50-minute individual telehealth session"
         }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://dianachutherapy.com/executive-burnout-therapy.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does executive burnout look like?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not the version in the cultural narrative. Executive burnout often looks like sustained output: full calendars, fifteen-hour days, a reputation for being the person who always delivers. The internal experience is where the pattern lives. Things that used to feel meaningful feel flat. Irritability is disproportionate to what's happening. Sleep gets shorter and more fragmented. Decisions come slightly worse, made from a slightly more reactive place, and the effect compounds over months. The most dangerous version is the one you adapt to and stop noticing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is executive burnout different from regular burnout?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The mechanism is similar. The presentation is different. Most of the clinical picture of burnout was built around populations that eventually stopped functioning. Executives usually don't. They adapt, maintain output, and hide the internal cost. That adaptation is part of what makes executive burnout harder to recognize and harder to treat, because the usual entry point of 'I can't work anymore' never arrives. By the time an executive considers seeking help, they've often been running a depleted baseline for years."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I recover from executive burnout without stepping down?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Often, yes. Stepping away from a role is sometimes the right answer, but it isn't always necessary. Most of the executives I work with continue leading while they do the work. What tends to change isn't the job. It's what the nervous system is doing underneath the job: how activated it stays, how much unresolved material is loaded onto it, how much of the current role is being experienced through the lens of older patterns. When those shift, the role starts costing less without having to leave it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does therapy for executive burnout take?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends on what's driving it. Some executives see meaningful change in three to six months of weekly work, particularly when there's a specific set of high-stakes experiences driving the depletion. Others are working on patterns that go back decades and need a longer arc. The work isn't linear. Shifts tend to come in groups rather than at a steady pace. I'd rather give you an honest estimate in the first session or two than a generic number beforehand."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What's the difference between burnout and depression?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Burnout is a response to sustained unmanaged stress, and it usually has a context: the job, the role, the pace. Depression is a more pervasive condition. It doesn't confine itself to work. If the flatness shifts in other domains, with close friends, on vacation, with your kids, you're probably looking at burnout. If the flatness has generalized to everything and nothing moves it, that's closer to depression and worth evaluating clinically. The two can co-occur, and sometimes the work involves treating both."
+            }
+          }
+        ]
       }
     ]
   }
@@ -83,8 +129,20 @@
       <ul class="nav__links">
         <li><a href="index.html" class="nav__link">Home</a></li>
         <li><a href="about.html" class="nav__link">About</a></li>
-        <li><a href="services.html" class="nav__link active">Services</a></li>
-        <li><a href="consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="faq.html" class="nav__link">FAQ</a></li>
         <li><a href="blog.html" class="nav__link">Blog</a></li>
         <li><a href="contact.html" class="nav__cta">Book a Consultation</a></li>
@@ -217,6 +275,76 @@
       </div>
     </section>
 
+    <!-- SECTION 5: FAQ -->
+    <section class="services-section" aria-labelledby="burnout-faq-heading" style="background: var(--warm-white);">
+      <div class="container">
+        <span class="eyebrow reveal-line">Common Questions</span>
+        <h2 id="burnout-faq-heading" class="reveal" style="margin-top: 16px; margin-bottom: 48px;">Frequently Asked About Executive Burnout.</h2>
+
+        <div style="max-width: 760px;">
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              What does executive burnout look like?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                Not the version in the cultural narrative. Executive burnout often looks like sustained output: full calendars, fifteen-hour days, a reputation for being the person who always delivers. The internal experience is where the pattern lives. Things that used to feel meaningful feel flat. Irritability is disproportionate to what's happening. Sleep gets shorter and more fragmented. Decisions come slightly worse, made from a slightly more reactive place, and the effect compounds over months. The most dangerous version is the one you adapt to and stop noticing.
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Is executive burnout different from regular burnout?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                The mechanism is similar. The presentation is different. Most of the clinical picture of burnout was built around populations that eventually stopped functioning. Executives usually don't. They adapt, maintain output, and hide the internal cost. That adaptation is part of what makes executive burnout harder to recognize and harder to treat, because the usual entry point of "I can't work anymore" never arrives. By the time an executive considers seeking help, they've often been running a depleted baseline for years.
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Can I recover from executive burnout without stepping down?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                Often, yes. Stepping away from a role is sometimes the right answer, but it isn't always necessary. Most of the executives I work with continue leading while they do the work. What tends to change isn't the job. It's what the nervous system is doing underneath the job: how activated it stays, how much unresolved material is loaded onto it, how much of the current role is being experienced through the lens of older patterns. When those shift, the role starts costing less without having to leave it.
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              How long does therapy for executive burnout take?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                It depends on what's driving it. Some executives see meaningful change in three to six months of weekly work, particularly when there's a specific set of high-stakes experiences driving the depletion. Others are working on patterns that go back decades and need a longer arc. The work isn't linear. Shifts tend to come in groups rather than at a steady pace. I'd rather give you an honest estimate in the first session or two than a generic number beforehand.
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              What's the difference between burnout and depression?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                Burnout is a response to sustained unmanaged stress, and it usually has a context: the job, the role, the pace. Depression is a more pervasive condition. It doesn't confine itself to work. If the flatness shifts in other domains, with close friends, on vacation, with your kids, you're probably looking at burnout. If the flatness has generalized to everything and nothing moves it, that's closer to depression and worth evaluating clinically. The two can co-occur, and sometimes the work involves treating both.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- CTA -->
     <section class="cta-dark" aria-labelledby="cta-burnout-heading">
       <div class="cta-dark__texture" aria-hidden="true"></div>
@@ -279,6 +407,7 @@
           <ul class="footer__nav-list">
             <li><a href="therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

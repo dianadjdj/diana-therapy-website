@@ -27,7 +27,8 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
   <meta property="article:author" content="Diana Chu">
-  <meta property="article:published_time" content="2026-02-15">
+  <meta property="article:published_time" content="2026-03-18">
+  <meta property="article:modified_time" content="2026-04-24">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="What No One Tells You About Founder Mental Health">
   <meta name="twitter:description" content="Founders face a specific set of mental health challenges that most therapists aren't trained to address. Here's what's actually happening.">
@@ -61,8 +62,8 @@
         "description": "Founders face a specific set of mental health challenges that most therapists aren't trained to address. A licensed therapist who works exclusively with founders and executives explains what's actually happening.",
         "author": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
         "publisher": { "@id": "https://dianachutherapy.com/#business" },
-        "datePublished": "2026-02-15",
-        "dateModified": "2026-04-01",
+        "datePublished": "2026-03-18",
+        "dateModified": "2026-04-24",
         "url": "https://dianachutherapy.com/blog/founder-mental-health.html",
         "image": "https://dianachutherapy.com/images/og-founder-mental-health.jpg",
         "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
@@ -89,6 +90,7 @@
     .article-hero__dot { width: 3px; height: 3px; background: var(--taupe-light); border-radius: 50%; }
     .article-hero__date { font-size: 12px; font-weight: 300; color: var(--text-light); }
     .article-hero__read-time { font-size: 12px; font-weight: 300; color: var(--text-light); }
+    .article-hero__updated { font-size: 12px; font-weight: 500; color: var(--gold); letter-spacing: 0.02em; }
     .article-hero__title { font-size: clamp(32px, 5vw, 54px); color: var(--text); margin-bottom: 24px; line-height: 1.08; }
     .article-hero__subtitle { font-size: 18px; font-weight: 300; color: var(--text-mid); line-height: 1.85; max-width: 640px; letter-spacing: 0.01em; }
 
@@ -176,6 +178,22 @@
     .article-list li:last-child { border-bottom: none; }
     .article-list li::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 7px; height: 1px; background: var(--gold); }
 
+    .article-refs {
+      margin: 64px 0 0;
+      padding: 36px 0 0;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .article-refs h2 { font-size: 18px !important; margin: 0 0 20px !important; }
+    .article-refs ol {
+      padding-left: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--text-light);
+      line-height: 1.75;
+    }
+    .article-refs li { margin-bottom: 14px; }
+    .article-refs a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+
     .article-cta {
       margin: 64px 0 0;
       padding: 48px 44px;
@@ -216,10 +234,22 @@
       <ul class="nav__links">
         <li><a href="../index.html" class="nav__link">Home</a></li>
         <li><a href="../about.html" class="nav__link">About</a></li>
-        <li><a href="../services.html" class="nav__link">Services</a></li>
-        <li><a href="../consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -236,9 +266,11 @@
         <div class="article-hero__meta">
           <span class="article-hero__category">Founder Life</span>
           <span class="article-hero__dot" aria-hidden="true"></span>
-          <time class="article-hero__date" datetime="2026-02-15">February 2026</time>
+          <time class="article-hero__date" datetime="2026-03-18">March 2026</time>
           <span class="article-hero__dot" aria-hidden="true"></span>
           <span class="article-hero__read-time">8 min read</span>
+          <span class="article-hero__dot" aria-hidden="true"></span>
+          <span class="article-hero__updated">Updated April 2026</span>
         </div>
         <h1 class="article-hero__title">What No One Tells You About Founder Mental Health</h1>
         <p class="article-hero__subtitle">Building a company is one of the most psychologically demanding things a person can do. The culture around it makes it almost impossible to say that out loud.</p>
@@ -261,6 +293,8 @@
       <div class="article-body__inner">
 
         <p>The research on founder mental health is striking. Studies by Dr. Michael Freeman at UCSF found that 72% of entrepreneurs reported mental health concerns, compared to 48% of non-entrepreneurs. Founders were significantly more likely to report depression, ADHD, anxiety, and bipolar disorder. And yet the cultural narrative around building a company still centers almost entirely on hustle, resilience, and embracing the grind. This is a problem.</p>
+
+        <p>For the full breakdown of the research, the clinical patterns behind the numbers, and what actually changes them, see <a href="../guides/founder-mental-health-statistics.html">Founder Mental Health: What the Data Actually Shows</a>.</p>
 
         <p>It's not that founders are more fragile than other people. If anything, the psychological demands of building a company from nothing select for people with enormous capacity for stress, ambiguity, and hard work. The issue is that those same traits, the ones that make founders effective, can make it genuinely difficult to recognize when the internal system is under unsustainable strain.</p>
 
@@ -298,7 +332,7 @@
 
         <p>The result is a session where the founder is doing a lot of explaining and a limited amount of actual therapeutic work. It's frustrating in a way that's hard to articulate. The therapist is skilled and trying to help, but the disconnect in shared context means the work stays at a more surface level than it needs to.</p>
 
-        <p>What founders need is someone who already understands the landscape. Not because they need their therapist to be a business consultant, but because they need to be able to talk about what's actually happening without spending half the session translating it. The therapeutic relationship works better when the context is already there.</p>
+        <p>What founders need is someone who already understands the landscape. Not because they need their therapist to be a business consultant, but because they need to be able to talk about what's actually happening without spending half the session translating it. The therapeutic relationship works better when the context is already there. That's the specific thing <a href="../therapy-for-founders.html">therapy for founders</a> is designed to provide.</p>
 
         <h2>What Actually Helps</h2>
 
@@ -316,9 +350,19 @@
 
         <p>There's a counterintuitive truth worth naming directly. The founders who are most psychologically resilient are not the ones who need no support. They're the ones who have built sustainable systems for managing their own psychology. They treat their mental health the way they'd treat any other critical system in their business: with regular attention, before it breaks.</p>
 
-        <p>Seeking therapy is not a signal that you're not cut out for this. Plenty of people who are very much cut out for it seek support, precisely because they understand what the job actually demands. The ones who don't seek support aren't tougher. They're just deferring a cost that tends to compound.</p>
+        <p>Seeking therapy is not a signal that you're not cut out for this. Plenty of people who are very much cut out for it seek support, precisely because they understand what the job actually demands. The ones who don't seek support aren't tougher. They're just deferring a cost that tends to compound. If the practical question of what the first hour would even look like is what's holding you back, <a href="first-therapy-session-founder.html">here's what a founder's first therapy session actually looks like</a>.</p>
 
         <p>You've built a culture of learning and iteration in your company. The same principles apply to you.</p>
+
+        <!-- REFERENCES -->
+        <div class="article-refs">
+          <h2>References</h2>
+          <ol>
+            <li id="ref-1">Freeman, M. A., Johnson, S. L., Staudenmaier, P. J., &amp; Zisser, M. R. (2015). <em>Are Entrepreneurs "Touched with Fire?"</em> University of California, San Francisco working paper.</li>
+            <li id="ref-2">Freeman, M. A., Staudenmaier, P. J., Zisser, M. R., &amp; Andresen, L. A. (2019). The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families. <em>Small Business Economics</em>, 53(2), 323-342.</li>
+            <li id="ref-3">For a full research review with clinical context, see <a href="../guides/founder-mental-health-statistics.html">Founder Mental Health: What the Data Actually Shows</a>.</li>
+          </ol>
+        </div>
 
         <div class="article-cta">
           <span class="eyebrow">Work Together</span>
@@ -398,6 +442,7 @@
           <ul class="footer__nav-list">
             <li><a href="../therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="../executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

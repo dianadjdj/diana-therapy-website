@@ -88,10 +88,22 @@
       <ul class="nav__links">
         <li><a href="index.html" class="nav__link">Home</a></li>
         <li><a href="about.html" class="nav__link">About</a></li>
-        <li><a href="services.html" class="nav__link">Services</a></li>
-        <li><a href="consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="blog.html" class="nav__link">Blog</a></li>
         <li><a href="contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -110,6 +122,33 @@
       </div>
     </header>
 
+    <!-- IN-DEPTH GUIDES -->
+    <section aria-label="In-depth guides" style="padding: 56px 24px 24px; background: var(--warm-white);">
+      <div class="container">
+        <div style="margin-bottom: 32px;">
+          <span class="eyebrow reveal-line">In-Depth Guides</span>
+          <h2 class="reveal" style="margin: 14px 0 12px; font-size: clamp(26px, 3vw, 36px);">Long-form reference.</h2>
+          <p class="fade-up" style="color: var(--text-light); max-width: 62ch; margin: 0;">Comprehensive reading for founders doing deeper research on mental health and on finding the right clinician.</p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+          <a href="guides/founder-mental-health-statistics.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--cream); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Research Review &nbsp;·&nbsp; 14 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Founder Mental Health: What the Data Actually Shows</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">A clinician's review of the research on entrepreneur mental health, with citations and the clinical patterns that correspond to the numbers.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
+
+          <a href="guides/best-therapist-for-founders-california.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--cream); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Founder's Guide &nbsp;·&nbsp; 12 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Best Therapist for Founders in California: What to Look For</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">What to evaluate, what to avoid, and how to narrow the field without starting from scratch. Credentials, red flags, cost, and consultation questions.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
     <section class="blog-section" aria-label="Blog articles">
       <div class="container">
 
@@ -119,7 +158,7 @@
             <div class="blog-featured__image-bg" style="background-image: url('images/blog-executive.jpg'); background-size: cover; background-position: center;"></div>
           </div>
           <div>
-            <span class="eyebrow blog-featured__label">Executive Mental Health &nbsp;·&nbsp; March 2026</span>
+            <span class="eyebrow blog-featured__label">Executive Mental Health &nbsp;·&nbsp; April 2025</span>
             <h2 class="blog-featured__title">High-Functioning Anxiety in Executives: When Worry Works Until It Doesn't</h2>
             <p class="blog-featured__excerpt">It looks like preparation. It feels like diligence. High-functioning anxiety is one of the most overlooked drivers of executive burnout, and one of the most treatable. Here's what it actually is.</p>
             <span class="blog-card__read">Read Article <span>→</span></span>
@@ -138,6 +177,23 @@
         </div>
 
         <div class="blog-grid reveal-stagger">
+
+          <article class="blog-card" data-category="Founder Life">
+            <a href="blog/first-therapy-session-founder.html" aria-label="Read: A Founder's First Therapy Session">
+              <div class="blog-card__image">
+                <div class="blog-card__image-bg" style="background-image: url('images/blog-first-session.jpg'); background-size: cover; background-position: center;"></div>
+              </div>
+            </a>
+            <div class="blog-card__meta">
+              <span class="blog-card__tag">Founder Life</span>
+              <span class="blog-card__date">June 2025</span>
+            </div>
+            <h2 class="blog-card__title">
+              <a href="blog/first-therapy-session-founder.html">A Founder's First Therapy Session</a>
+            </h2>
+            <p class="blog-card__excerpt">Most founders arrive with a rehearsed version of their life. What actually happens in the first session, what the therapist is listening for, and how trust starts.</p>
+            <a href="blog/first-therapy-session-founder.html" class="blog-card__read">Read Article <span>→</span></a>
+          </article>
 
           <article class="blog-card" data-category="Founder Life">
             <a href="blog/founders-sleep-hypervigilance.html" aria-label="Read: Why Founders Don't Sleep">
@@ -164,7 +220,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Executive Mental Health</span>
-              <span class="blog-card__date">March 2026</span>
+              <span class="blog-card__date">April 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/high-functioning-anxiety-executives.html">High-Functioning Anxiety in Executives: When Worry Works Until It Doesn't</a>
@@ -181,7 +237,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Executive Mental Health</span>
-              <span class="blog-card__date">February 2026</span>
+              <span class="blog-card__date">July 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/imposter-syndrome-executives.html">Imposter Syndrome in Executives: Why Success Doesn't Fix It</a>
@@ -198,7 +254,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Peak Performance</span>
-              <span class="blog-card__date">March 2026</span>
+              <span class="blog-card__date">August 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/perfectionism-high-achievers.html">The Perfectionism Trap: When High Standards Become a Liability</a>
@@ -215,7 +271,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Founder Life</span>
-              <span class="blog-card__date">February 2026</span>
+              <span class="blog-card__date">March 2026</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/founder-mental-health.html">What No One Tells You About Founder Mental Health</a>
@@ -232,7 +288,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Relationships</span>
-              <span class="blog-card__date">December 2024</span>
+              <span class="blog-card__date">December 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/couples-therapy-founders.html">Why Couples Therapy Is the Best Investment Founders Can Make in Their Company</a>
@@ -249,7 +305,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Telehealth</span>
-              <span class="blog-card__date">November 2024</span>
+              <span class="blog-card__date">November 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/telehealth-therapy-executives.html">Telehealth Therapy for Executives: What to Expect and Why It Works</a>
@@ -266,7 +322,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Founder Life</span>
-              <span class="blog-card__date">October 2024</span>
+              <span class="blog-card__date">October 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/founder-identity-after-exit.html">The Identity Crisis After the Exit: What Happens When Founders Sell</a>
@@ -300,7 +356,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Executive Mental Health</span>
-              <span class="blog-card__date">April 2026</span>
+              <span class="blog-card__date">September 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/decision-fatigue-executives.html">Decision Fatigue in Leadership: When Small Decisions Start Feeling Hard</a>
@@ -317,7 +373,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Executive Mental Health</span>
-              <span class="blog-card__date">April 2026</span>
+              <span class="blog-card__date">February 2026</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/loneliness-of-leadership.html">The Loneliness of Leadership: Why CEOs and Founders Feel Alone at the Top</a>
@@ -334,7 +390,7 @@
             </a>
             <div class="blog-card__meta">
               <span class="blog-card__tag">Executive Mental Health</span>
-              <span class="blog-card__date">April 2026</span>
+              <span class="blog-card__date">May 2025</span>
             </div>
             <h2 class="blog-card__title">
               <a href="blog/do-i-need-therapy-executives.html">Do I Actually Need Therapy? What High Achievers Ask Before Booking</a>
@@ -408,6 +464,7 @@
           <ul class="footer__nav-list">
             <li><a href="therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

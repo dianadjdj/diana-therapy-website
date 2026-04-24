@@ -27,7 +27,8 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
   <meta property="article:author" content="Diana Chu">
-  <meta property="article:published_time" content="2026-03-01">
+  <meta property="article:published_time" content="2025-04-22">
+  <meta property="article:modified_time" content="2026-04-24">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="High-Functioning Anxiety in Executives: When Worry Works Until It Doesn't">
   <meta name="twitter:description" content="High-functioning anxiety in executives looks like conscientiousness, preparation, and drive. A licensed therapist explains what it actually is, and when it stops working for you.">
@@ -61,8 +62,8 @@
         "description": "High-functioning anxiety in executives looks like conscientiousness, preparation, and drive. A licensed therapist explains what it actually is, and when it stops working for you.",
         "author": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
         "publisher": { "@id": "https://dianachutherapy.com/#business" },
-        "datePublished": "2026-03-01",
-        "dateModified": "2026-04-01",
+        "datePublished": "2025-04-22",
+        "dateModified": "2026-04-24",
         "url": "https://dianachutherapy.com/blog/high-functioning-anxiety-executives.html",
         "image": "https://dianachutherapy.com/images/og-high-functioning-anxiety-executives.jpg",
         "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
@@ -89,6 +90,7 @@
     .article-hero__dot { width: 3px; height: 3px; background: var(--taupe-light); border-radius: 50%; }
     .article-hero__date { font-size: 12px; font-weight: 300; color: var(--text-light); }
     .article-hero__read-time { font-size: 12px; font-weight: 300; color: var(--text-light); }
+    .article-hero__updated { font-size: 12px; font-weight: 500; color: var(--gold); letter-spacing: 0.02em; }
     .article-hero__title { font-size: clamp(32px, 5vw, 54px); color: var(--text); margin-bottom: 24px; line-height: 1.08; }
     .article-hero__subtitle { font-size: 18px; font-weight: 300; color: var(--text-mid); line-height: 1.85; max-width: 640px; letter-spacing: 0.01em; }
 
@@ -176,6 +178,22 @@
     .article-list li:last-child { border-bottom: none; }
     .article-list li::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 7px; height: 1px; background: var(--gold); }
 
+    .article-refs {
+      margin: 64px 0 0;
+      padding: 36px 0 0;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .article-refs h2 { font-size: 18px !important; margin: 0 0 20px !important; }
+    .article-refs ol {
+      padding-left: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--text-light);
+      line-height: 1.75;
+    }
+    .article-refs li { margin-bottom: 14px; }
+    .article-refs a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+
     .article-cta {
       margin: 64px 0 0;
       padding: 48px 44px;
@@ -216,10 +234,22 @@
       <ul class="nav__links">
         <li><a href="../index.html" class="nav__link">Home</a></li>
         <li><a href="../about.html" class="nav__link">About</a></li>
-        <li><a href="../services.html" class="nav__link">Services</a></li>
-        <li><a href="../consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -236,9 +266,11 @@
         <div class="article-hero__meta">
           <span class="article-hero__category">Executive Mental Health</span>
           <span class="article-hero__dot" aria-hidden="true"></span>
-          <time class="article-hero__date" datetime="2026-03-01">March 2026</time>
+          <time class="article-hero__date" datetime="2025-04-22">April 2025</time>
           <span class="article-hero__dot" aria-hidden="true"></span>
           <span class="article-hero__read-time">7 min read</span>
+          <span class="article-hero__dot" aria-hidden="true"></span>
+          <span class="article-hero__updated">Updated April 2026</span>
         </div>
         <h1 class="article-hero__title">High-Functioning Anxiety in Executives: When Worry Works Until It Doesn't</h1>
         <p class="article-hero__subtitle">It looks like preparation. It feels like diligence. High-functioning anxiety in executives is one of the most overlooked drivers of burnout, and one of the most treatable.</p>
@@ -294,7 +326,7 @@
 
         <p>Decision fatigue is one of the less-discussed costs. When your nervous system is running high all the time, you're burning cognitive resources continuously. Decisions that should be easy start feeling harder. You find yourself procrastinating on calls you'd normally make quickly, or second-guessing things that should be straightforward. It's not a capability problem. It's a resource problem.</p>
 
-        <p>The physical toll accumulates in ways that are easy to attribute to other things. Sleep quality degrades even when hours are adequate. Digestion is frequently disrupted. Immune function takes hits you chalk up to travel or a busy season. The body keeps score, and chronic nervous system activation is expensive.</p>
+        <p>The physical toll accumulates in ways that are easy to attribute to other things. Sleep quality degrades even when hours are adequate. Digestion is frequently disrupted. Immune function takes hits you chalk up to travel or a busy season. The body keeps score, and chronic nervous system activation is expensive. Over time, this is how high-functioning anxiety becomes <a href="../executive-burnout-therapy.html">executive burnout</a>. The vigilance that used to sharpen performance starts quietly eroding it.</p>
 
         <p>The relationship cost is often what finally gets people's attention. The worry doesn't clock out when you walk in the door at home. Partners notice that you're present but somewhere else. Children notice that your patience is thinner than it used to be. The people closest to you experience the spillover of something they can't quite name and you haven't quite admitted to yourself.</p>
 
@@ -317,6 +349,16 @@
         <p>The goal of this work is not to turn off what makes you good at what you do. High standards, careful thinking, attention to risk: these are genuine assets. The goal is to stop running them on a fuel source that's depleting you.</p>
 
         <p>Most executives with high-functioning anxiety have spent years treating their worry as a feature. Getting curious about it, rather than just using it, is usually the shift that changes everything. The drive stays. The cost of the drive goes down. That's not a small thing.</p>
+
+        <!-- REFERENCES -->
+        <div class="article-refs">
+          <h2>References</h2>
+          <ol>
+            <li id="ref-1">American Psychiatric Association (2013). <em>Diagnostic and Statistical Manual of Mental Disorders</em> (5th ed.). Generalized Anxiety Disorder.</li>
+            <li id="ref-2">Newman, M. G., Llera, S. J., Erickson, T. M., Przeworski, A., &amp; Castonguay, L. G. (2013). Worry and generalized anxiety disorder: A review and theoretical synthesis. <em>Annual Review of Clinical Psychology</em>, 9, 275-297.</li>
+            <li id="ref-3">Anxiety and Depression Association of America. <em>Generalized Anxiety Disorder resources</em>.</li>
+          </ol>
+        </div>
 
         <div class="article-cta">
           <span class="eyebrow">Work Together</span>
@@ -396,6 +438,7 @@
           <ul class="footer__nav-list">
             <li><a href="../therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="../executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

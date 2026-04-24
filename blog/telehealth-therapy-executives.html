@@ -29,7 +29,8 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
   <meta property="article:author" content="Diana Chu">
-  <meta property="article:published_time" content="2025-11-01">
+  <meta property="article:published_time" content="2025-11-18">
+  <meta property="article:modified_time" content="2026-04-24">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Why Busy Executives Choose Telehealth Therapy | Diana Chu, LMFT">
   <meta name="twitter:description" content="No commute. No waiting room. For executives with complex schedules, telehealth therapy isn't a compromise. It's a better fit.">
@@ -53,8 +54,8 @@
         "description": "No commute. No waiting room. For executives managing complex schedules, telehealth therapy isn't a compromise. It's a better fit.",
         "author": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
         "publisher": { "@id": "https://dianachutherapy.com/#business" },
-        "datePublished": "2025-11-01",
-        "dateModified": "2026-04-01",
+        "datePublished": "2025-11-18",
+        "dateModified": "2026-04-24",
         "url": "https://dianachutherapy.com/blog/telehealth-therapy-executives.html",
         "image": "https://dianachutherapy.com/images/og-telehealth.jpg",
         "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
@@ -104,6 +105,7 @@
     .article-hero__dot { width: 3px; height: 3px; background: var(--taupe-light); border-radius: 50%; }
     .article-hero__date { font-size: 12px; font-weight: 300; color: var(--text-light); }
     .article-hero__read-time { font-size: 12px; font-weight: 300; color: var(--text-light); }
+    .article-hero__updated { font-size: 12px; font-weight: 500; color: var(--gold); letter-spacing: 0.02em; }
     .article-hero__title { font-size: clamp(32px, 5vw, 54px); color: var(--text); margin-bottom: 24px; line-height: 1.08; }
     .article-hero__subtitle { font-size: 18px; font-weight: 300; color: var(--text-mid); line-height: 1.85; max-width: 640px; letter-spacing: 0.01em; }
 
@@ -191,6 +193,22 @@
     .article-list li:last-child { border-bottom: none; }
     .article-list li::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 7px; height: 1px; background: var(--gold); }
 
+    .article-refs {
+      margin: 64px 0 0;
+      padding: 36px 0 0;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .article-refs h2 { font-size: 18px !important; margin: 0 0 20px !important; }
+    .article-refs ol {
+      padding-left: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--text-light);
+      line-height: 1.75;
+    }
+    .article-refs li { margin-bottom: 14px; }
+    .article-refs a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+
     .article-cta {
       margin: 64px 0 0;
       padding: 48px 44px;
@@ -231,10 +249,22 @@
       <ul class="nav__links">
         <li><a href="../index.html" class="nav__link">Home</a></li>
         <li><a href="../about.html" class="nav__link">About</a></li>
-        <li><a href="../services.html" class="nav__link">Services</a></li>
-        <li><a href="../consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -251,9 +281,11 @@
         <div class="article-hero__meta">
           <span class="article-hero__category">Telehealth</span>
           <span class="article-hero__dot" aria-hidden="true"></span>
-          <time class="article-hero__date" datetime="2024-11-01">November 2024</time>
+          <time class="article-hero__date" datetime="2025-11-18">November 2025</time>
           <span class="article-hero__dot" aria-hidden="true"></span>
           <span class="article-hero__read-time">7 min read</span>
+          <span class="article-hero__dot" aria-hidden="true"></span>
+          <span class="article-hero__updated">Updated April 2026</span>
         </div>
         <h1 class="article-hero__title">The Case for Telehealth: Why Busy Executives Choose Remote Therapy</h1>
         <p class="article-hero__subtitle">No commute. No waiting room. No scheduling around a single office location. For executives managing complex schedules, telehealth therapy isn't a compromise. It's often a better fit.</p>
@@ -346,6 +378,16 @@
 
         <p>If you've been thinking about therapy and the logistics have been the obstacle, I'd encourage you to take that obstacle seriously. It's not a minor thing. The friction between where you are and where you're trying to go matters. Telehealth removes most of it.</p>
 
+        <!-- REFERENCES -->
+        <div class="article-refs">
+          <h2>References</h2>
+          <ol>
+            <li id="ref-1">American Psychological Association (2013). Guidelines for the practice of telepsychology. <em>American Psychologist</em>, 68(9), 791-800.</li>
+            <li id="ref-2">Norwood, C., Moghaddam, N. G., Malins, S., &amp; Sabin-Farrell, R. (2018). Working alliance and outcome effectiveness in videoconferencing psychotherapy: A systematic review and noninferiority meta-analysis. <em>Clinical Psychology &amp; Psychotherapy</em>, 25(6), 797-808.</li>
+            <li id="ref-3">U.S. Department of Health and Human Services. <em>HIPAA and Telehealth</em>.</li>
+          </ol>
+        </div>
+
         <div class="article-cta">
           <span class="eyebrow">Work Together</span>
           <h2 class="article-cta__title">Ready to Start?</h2>
@@ -424,6 +466,7 @@
           <ul class="footer__nav-list">
             <li><a href="../therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="../executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

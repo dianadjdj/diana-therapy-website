@@ -251,10 +251,22 @@
     <div class="nav__inner">
       <a href="index.html" class="nav__logo">Diana Chu Therapy</a>
       <ul class="nav__links">
-        <li><a href="index.html" class="nav__link active">Home</a></li>
+        <li><a href="index.html" class="nav__link">Home</a></li>
         <li><a href="about.html" class="nav__link">About</a></li>
-        <li><a href="services.html" class="nav__link">Services</a></li>
-        <li><a href="consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="faq.html" class="nav__link">FAQ</a></li>
         <li><a href="blog.html" class="nav__link">Blog</a></li>
         <li><a href="contact.html" class="nav__cta">Book a Consultation</a></li>
@@ -491,56 +503,83 @@
         <div class="blog-cards reveal-stagger">
 
           <article class="blog-card">
-            <a href="blog/burnout-executives-high-performance.html" aria-label="Read: Burnout in High Performers">
+            <a href="blog/do-i-need-therapy-executives.html" aria-label="Read: Do High Achievers Actually Need Therapy?">
               <div class="blog-card__image">
-                <div class="blog-card__image-bg blog-card__image-bg--burnout"></div>
+                <div class="blog-card__image-bg blog-card__image-bg--do-i-need-therapy"></div>
               </div>
             </a>
             <div class="blog-card__meta">
-              <span class="blog-card__tag">Executive Burnout</span>
-              <span class="blog-card__date">March 2025</span>
+              <span class="blog-card__tag">Starting Therapy</span>
+              <span class="blog-card__date">May 2025</span>
             </div>
             <h3 class="blog-card__title">
-              <a href="blog/burnout-executives-high-performance.html">When High Performance Becomes High Cost: Burnout in Executives</a>
+              <a href="blog/do-i-need-therapy-executives.html">Do High Achievers Actually Need Therapy?</a>
             </h3>
-            <p class="blog-card__excerpt">The warning signs are subtle at first: a blunted edge, decisions that feel slower, relationships that feel farther away. By the time most executives recognize burnout, it's already deep.</p>
-            <a href="blog/burnout-executives-high-performance.html" class="blog-card__read">Read Article <span>→</span></a>
+            <p class="blog-card__excerpt">A direct answer for the people who keep deferring therapy because they're functioning well on paper. What the threshold actually is, and why waiting until you're in crisis is the wrong bar.</p>
+            <a href="blog/do-i-need-therapy-executives.html" class="blog-card__read">Read Article <span>→</span></a>
           </article>
 
           <article class="blog-card">
-            <a href="blog/couples-therapy-founders.html" aria-label="Read: Couples Therapy for Founders">
+            <a href="blog/founders-sleep-hypervigilance.html" aria-label="Read: Why Founders Don't Sleep">
               <div class="blog-card__image">
-                <div class="blog-card__image-bg blog-card__image-bg--couples"></div>
+                <div class="blog-card__image-bg blog-card__image-bg--founders-sleep"></div>
               </div>
             </a>
             <div class="blog-card__meta">
-              <span class="blog-card__tag">Relationships</span>
-              <span class="blog-card__date">February 2025</span>
+              <span class="blog-card__tag">Founder Life</span>
+              <span class="blog-card__date">April 2026</span>
             </div>
             <h3 class="blog-card__title">
-              <a href="blog/couples-therapy-founders.html">Why High-Achieving Couples Need a Different Kind of Therapy</a>
+              <a href="blog/founders-sleep-hypervigilance.html">Why Founders Don't Sleep: The Psychology of Hypervigilance</a>
             </h3>
-            <p class="blog-card__excerpt">Dual-career couples don't struggle with ordinary relationship problems. The issues are specific: ambition, competition, time, and identity, and they require a specific clinical approach.</p>
-            <a href="blog/couples-therapy-founders.html" class="blog-card__read">Read Article <span>→</span></a>
+            <p class="blog-card__excerpt">It's 2am. Nothing is on fire. You are still running scenarios. Founder insomnia is not a sleep problem. It is a nervous system that has forgotten how to stand down.</p>
+            <a href="blog/founders-sleep-hypervigilance.html" class="blog-card__read">Read Article <span>→</span></a>
           </article>
 
           <article class="blog-card">
-            <a href="blog/telehealth-therapy-executives.html" aria-label="Read: Telehealth for Executives">
+            <a href="blog/loneliness-of-leadership.html" aria-label="Read: The Loneliness of Leadership">
               <div class="blog-card__image">
-                <div class="blog-card__image-bg blog-card__image-bg--telehealth"></div>
+                <div class="blog-card__image-bg blog-card__image-bg--loneliness"></div>
               </div>
             </a>
             <div class="blog-card__meta">
-              <span class="blog-card__tag">Telehealth</span>
-              <span class="blog-card__date">January 2025</span>
+              <span class="blog-card__tag">Leadership</span>
+              <span class="blog-card__date">February 2026</span>
             </div>
             <h3 class="blog-card__title">
-              <a href="blog/telehealth-therapy-executives.html">The Case for Telehealth: Why Busy Executives Choose Remote Therapy</a>
+              <a href="blog/loneliness-of-leadership.html">The Loneliness of Leadership</a>
             </h3>
-            <p class="blog-card__excerpt">No commute. No waiting room. No scheduling around office locations. For executives managing complex schedules, telehealth isn't a compromise. It's an upgrade.</p>
-            <a href="blog/telehealth-therapy-executives.html" class="blog-card__read">Read Article <span>→</span></a>
+            <p class="blog-card__excerpt">Surrounded by people and functionally alone with the things that matter most. Why leadership loneliness runs deeper than most peer groups can reach, and what actually interrupts the pattern.</p>
+            <a href="blog/loneliness-of-leadership.html" class="blog-card__read">Read Article <span>→</span></a>
           </article>
 
+        </div>
+      </div>
+    </section>
+
+    <!-- ── IN-DEPTH GUIDES ── -->
+    <section aria-labelledby="home-guides-heading" style="padding: 96px 24px; background: var(--linen);">
+      <div class="container">
+        <div style="margin-bottom: 40px;">
+          <span class="eyebrow reveal-line">In-Depth Guides</span>
+          <h2 id="home-guides-heading" class="reveal" style="margin: 14px 0 12px; font-size: clamp(26px, 3vw, 36px);">Long-form reference for founders doing the research.</h2>
+          <p class="fade-up" style="color: var(--text-light); max-width: 62ch; margin: 0;">Two comprehensive guides on founder mental health and on how to find a clinician who fits.</p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+          <a href="guides/founder-mental-health-statistics.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--warm-white); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Research Review &nbsp;·&nbsp; 14 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Founder Mental Health: What the Data Actually Shows</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">A clinician's review of the research on entrepreneur mental health, with citations and the clinical patterns that correspond to the numbers.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
+
+          <a href="guides/best-therapist-for-founders-california.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--warm-white); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Founder's Guide &nbsp;·&nbsp; 12 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Best Therapist for Founders in California: What to Look For</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">What to evaluate, what to avoid, and how to narrow the field. Credentials, red flags, cost, and consultation questions.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
         </div>
       </div>
     </section>
@@ -623,6 +662,7 @@
           <ul class="footer__nav-list">
             <li><a href="therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

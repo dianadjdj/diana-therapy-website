@@ -57,6 +57,60 @@
           "priceCurrency": "USD",
           "description": "50-minute individual telehealth session"
         }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://dianachutherapy.com/therapy-for-founders.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How is therapy for founders different from general therapy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most therapists have not worked closely with founders. The first several sessions often go to explaining context: what a Series A is, why you cannot tell your board you are struggling, what it means when identity has fused with a company you built. Specialty founder work starts further in. Hypervigilance, imposter syndrome that scales with each round, and the loneliness specific to leading are familiar clinical patterns, and there is no need to teach the terrain first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I need to be in crisis to start therapy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Most founders who work with Diana are functioning well by every external measure. They come in because a pattern keeps repeating, or because they want a place to think that sits outside the company. Therapy is an investment in clarity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is what I share confidential from my investors, co-founders, or board?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Nothing is disclosed to any third party without your explicit written consent. Diana does not bill insurance, so no records are created through that channel either. Confidentiality is the structural default of the practice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can therapy fit around a founder's schedule?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Early morning and evening sessions are available. All sessions are telehealth over HIPAA-compliant video. A 50-minute weekly or bi-weekly session is usually the simplest way to integrate the work into a demanding schedule."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What about after a raise, an exit, or a transition between companies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "These are often when the work matters most. Post-exit, between roles, or after a down round, the weight that did not have room to surface during motion can catch up. Transitions are a frequent reason founders start therapy."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you work with co-founders who are also in a relationship?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Diana works with co-founder couples using a modified Gottman-informed approach that accounts for the blurred line between business and intimate partnership."
+            }
+          }
+        ]
       }
     ]
   }
@@ -83,8 +137,20 @@
       <ul class="nav__links">
         <li><a href="index.html" class="nav__link">Home</a></li>
         <li><a href="about.html" class="nav__link">About</a></li>
-        <li><a href="services.html" class="nav__link active">Services</a></li>
-        <li><a href="consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="faq.html" class="nav__link">FAQ</a></li>
         <li><a href="blog.html" class="nav__link">Blog</a></li>
         <li><a href="contact.html" class="nav__cta">Book a Consultation</a></li>
@@ -117,7 +183,7 @@
 
             <p class="fade-up">The patterns that run through founder mental health are specific and they are predictable. Hypervigilance that does not turn off. Imposter syndrome that gets worse with success. Loneliness at the top that no one is allowed to name. Burnout that masquerades as dedication. Identity fusion with the company. Co-founder conflict that reads like a marriage under stress. Post-exit grief that no one expected. These are not personal failings. They are the occupational hazards of building something at scale.</p>
 
-            <p class="fade-up">The work I do is built around those patterns. It starts from the assumption that your life is complicated in specific ways that other clinical settings rarely encounter. For a deeper read on what founder life actually costs, see <a href="blog/founder-mental-health.html" style="color: var(--gold-dark); text-decoration: underline; text-underline-offset: 3px;">founder mental health: what the job actually costs</a>.</p>
+            <p class="fade-up">The work I do is built around those patterns. It starts from the assumption that your life is complicated in specific ways that other clinical settings rarely encounter. For a deeper read on what founder life actually costs, see <a href="blog/founder-mental-health.html" style="color: var(--gold-dark); text-decoration: underline; text-underline-offset: 3px;">founder mental health: what the job actually costs</a>. For the research behind these patterns, see <a href="guides/founder-mental-health-statistics.html" style="color: var(--gold-dark); text-decoration: underline; text-underline-offset: 3px;">founder mental health: what the data actually shows</a>. For a guide to choosing a clinician, see <a href="guides/best-therapist-for-founders-california.html" style="color: var(--gold-dark); text-decoration: underline; text-underline-offset: 3px;">best therapist for founders in California</a>.</p>
           </div>
 
           <aside class="service-sticky" aria-label="Session details">
@@ -173,6 +239,31 @@
       </div>
     </section>
 
+    <!-- IN-DEPTH GUIDES -->
+    <section class="services-section" aria-labelledby="founder-guides-heading" style="background: var(--linen);">
+      <div class="container">
+        <span class="eyebrow reveal-line">In-Depth Guides</span>
+        <h2 id="founder-guides-heading" class="reveal" style="margin-top: 16px; margin-bottom: 16px;">For Founders Doing the Research.</h2>
+        <p class="fade-up" style="color: var(--text-light); max-width: 62ch; margin-bottom: 40px;">Two comprehensive guides for founders who want more than a short blog read. The first reviews the research behind founder mental health. The second walks through how to actually find a therapist who fits.</p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px;">
+          <a href="guides/founder-mental-health-statistics.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--warm-white); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Research Review &nbsp;·&nbsp; 14 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Founder Mental Health: What the Data Actually Shows</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">A clinician's review of the research on entrepreneur mental health, with citations and the clinical patterns that correspond to the numbers.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
+
+          <a href="guides/best-therapist-for-founders-california.html" class="fade-up" style="display: block; padding: 32px 32px; background: var(--warm-white); border-left: 3px solid var(--gold); border-radius: 1px; text-decoration: none; color: inherit;">
+            <span class="eyebrow" style="color: var(--gold-dark); font-size: 10px;">Founder's Guide &nbsp;·&nbsp; 12 min read</span>
+            <h3 style="margin: 14px 0 14px; font-size: 22px; color: var(--text);">Best Therapist for Founders in California: What to Look For</h3>
+            <p style="font-size: 15px; font-weight: 300; color: var(--text-mid); line-height: 1.75; margin-bottom: 18px;">What to evaluate, what to avoid, and how to narrow the field without starting from scratch. Credentials, red flags, cost, and consultation questions.</p>
+            <span style="color: var(--gold-dark); font-size: 13px; font-weight: 500; letter-spacing: 0.02em;">Read Guide →</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
     <!-- SECTION 3: How the Work Actually Happens -->
     <section class="services-section" aria-labelledby="founder-approach-heading" style="background: var(--warm-white);">
       <div class="container">
@@ -213,6 +304,89 @@
             </div>
             <a href="contact.html" class="btn btn--outline-light">Get in Touch →</a>
           </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="services-section" aria-labelledby="founder-faq-heading" style="background: var(--warm-white);">
+      <div class="container">
+        <span class="eyebrow reveal-line">Common Questions</span>
+        <h2 id="founder-faq-heading" class="reveal" style="margin-top: 16px; max-width: 24ch; margin-bottom: 40px;">Questions Founders Ask Before Starting.</h2>
+
+        <div class="faq-list" style="max-width: 760px;">
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              How is therapy for founders different from general therapy?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>Most therapists have not worked closely with founders. The first several sessions often go to explaining context: what a Series A is, why you cannot tell your board you are struggling, what it means when identity has fused with a company you built.</p>
+                <p>Specialty founder work starts further in. Hypervigilance, imposter syndrome that scales with each round, and the loneliness specific to leading are familiar clinical patterns, and there is no need to teach the terrain first.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Do I need to be in crisis to start therapy?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>No. Most founders who work with Diana are functioning well by every external measure. They come in because a pattern keeps repeating, or because they want a place to think that sits outside the company. Therapy is an investment in clarity.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Is what I share confidential from my investors, co-founders, or board?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>Yes. Nothing is disclosed to any third party without your explicit written consent. Diana does not bill insurance, so no records are created through that channel either. Confidentiality is the structural default of the practice.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Can therapy fit around a founder's schedule?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>Early morning and evening sessions are available. All sessions are telehealth over HIPAA-compliant video. A 50-minute weekly or bi-weekly session is usually the simplest way to integrate the work into a demanding schedule.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              What about after a raise, an exit, or a transition between companies?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>These are often when the work matters most. Post-exit, between roles, or after a down round, the weight that did not have room to surface during motion can catch up. Transitions are a frequent reason founders start therapy.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              Do you work with co-founders who are also in a relationship?
+              <span class="faq-icon" aria-hidden="true"></span>
+            </button>
+            <div class="faq-answer" role="region">
+              <div class="faq-answer__inner">
+                <p>Yes. Diana works with co-founder couples using a modified Gottman-informed approach that accounts for the blurred line between business and intimate partnership. See the <a href="services.html#couples">couples therapy page</a> for more.</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -279,6 +453,7 @@
           <ul class="footer__nav-list">
             <li><a href="therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 

@@ -29,7 +29,8 @@
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="https://dianachutherapy.com/images/og-image.jpg">
   <meta property="article:author" content="Diana Chu">
-  <meta property="article:published_time" content="2025-10-01">
+  <meta property="article:published_time" content="2025-10-07">
+  <meta property="article:modified_time" content="2026-04-24">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="The Identity Crisis After the Exit | Diana Chu, LMFT">
   <meta name="twitter:description" content="Selling your company should feel like a win. For many founders, it triggers an unexpected grief. A therapist explains why.">
@@ -53,8 +54,8 @@
         "description": "Selling your company should feel like a win. For many founders, it triggers an unexpected grief. A therapist explains why and what to do about it.",
         "author": { "@id": "https://dianachutherapy.com/about.html#diana-chu" },
         "publisher": { "@id": "https://dianachutherapy.com/#business" },
-        "datePublished": "2025-10-01",
-        "dateModified": "2026-04-01",
+        "datePublished": "2025-10-07",
+        "dateModified": "2026-04-24",
         "url": "https://dianachutherapy.com/blog/founder-identity-after-exit.html",
         "image": "https://dianachutherapy.com/images/og-founder-exit.jpg",
         "isPartOf": { "@id": "https://dianachutherapy.com/#website" },
@@ -104,6 +105,7 @@
     .article-hero__dot { width: 3px; height: 3px; background: var(--taupe-light); border-radius: 50%; }
     .article-hero__date { font-size: 12px; font-weight: 300; color: var(--text-light); }
     .article-hero__read-time { font-size: 12px; font-weight: 300; color: var(--text-light); }
+    .article-hero__updated { font-size: 12px; font-weight: 500; color: var(--gold); letter-spacing: 0.02em; }
     .article-hero__title { font-size: clamp(32px, 5vw, 54px); color: var(--text); margin-bottom: 24px; line-height: 1.08; }
     .article-hero__subtitle { font-size: 18px; font-weight: 300; color: var(--text-mid); line-height: 1.85; max-width: 640px; letter-spacing: 0.01em; }
 
@@ -191,6 +193,22 @@
     .article-list li:last-child { border-bottom: none; }
     .article-list li::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 7px; height: 1px; background: var(--gold); }
 
+    .article-refs {
+      margin: 64px 0 0;
+      padding: 36px 0 0;
+      border-top: 1px solid var(--cream-dark);
+    }
+    .article-refs h2 { font-size: 18px !important; margin: 0 0 20px !important; }
+    .article-refs ol {
+      padding-left: 20px;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--text-light);
+      line-height: 1.75;
+    }
+    .article-refs li { margin-bottom: 14px; }
+    .article-refs a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+
     .article-cta {
       margin: 64px 0 0;
       padding: 48px 44px;
@@ -231,10 +249,22 @@
       <ul class="nav__links">
         <li><a href="../index.html" class="nav__link">Home</a></li>
         <li><a href="../about.html" class="nav__link">About</a></li>
-        <li><a href="../services.html" class="nav__link">Services</a></li>
-        <li><a href="../consulting.html" class="nav__link">Consulting</a></li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Services menu">
+            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
+            <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
+            <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link active">Blog</a></li>
+        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -251,9 +281,11 @@
         <div class="article-hero__meta">
           <span class="article-hero__category">Founder Mental Health</span>
           <span class="article-hero__dot" aria-hidden="true"></span>
-          <time class="article-hero__date" datetime="2024-10-01">October 2024</time>
+          <time class="article-hero__date" datetime="2025-10-07">October 2025</time>
           <span class="article-hero__dot" aria-hidden="true"></span>
           <span class="article-hero__read-time">10 min read</span>
+          <span class="article-hero__dot" aria-hidden="true"></span>
+          <span class="article-hero__updated">Updated April 2026</span>
         </div>
         <h1 class="article-hero__title">The Identity Crisis After the Exit: What Happens When Founders Sell</h1>
         <p class="article-hero__subtitle">Selling your company should feel like a win. For many founders, it triggers a grief that no one around them can make sense of, including themselves.</p>
@@ -341,7 +373,7 @@
 
         <h2>What Therapy Helps With</h2>
 
-        <p>The specific value of therapy for post-exit founders is not crisis intervention most of these founders are not in crisis. It's the provision of a structured, confidential space to do the kind of reflective work that the previous years didn't allow for, with someone who has enough context to hold the complexity of what's actually happening.</p>
+        <p>The specific value of <a href="../therapy-for-founders.html">therapy for founders</a> after an exit is not crisis intervention. Most of these founders are not in crisis. It's the provision of a structured, confidential space to do the kind of reflective work that the previous years didn't allow for, with someone who has enough context to hold the complexity of what's actually happening.</p>
 
         <h3>Processing the relational losses</h3>
         <p>The grief about the team, about the daily belonging that the company provided, often doesn't have a legitimate place to land. You can't mourn a successful acquisition to the people who are celebrating it with you. In therapy, that grief has a container. It gets named, it gets space, and it moves.</p>
@@ -355,6 +387,16 @@
         <p>The goal is not to help you do more. It's to help you figure out what's worth doing given who you are, what you've just been through, and what you actually want from the next chapter rather than what looks most defensible at a dinner party.</p>
 
         <p>That's slower work than most founders are accustomed to. It requires sitting with uncertainty in a way that building something rarely does. But the founders who do it who take the post-exit period seriously as a time for genuine reflection rather than immediate redeployment tend to build the next chapter with considerably more intentionality, and considerably less regret.</p>
+
+        <!-- REFERENCES -->
+        <div class="article-refs">
+          <h2>References</h2>
+          <ol>
+            <li id="ref-1">Ebaugh, H. R. F. (1988). <em>Becoming an Ex: The Process of Role Exit</em>. University of Chicago Press.</li>
+            <li id="ref-2">Petriglieri, G., Petriglieri, J. L., &amp; Wood, J. D. (2018). Fast tracks and inner journeys: Crafting portable selves for contemporary careers. <em>Administrative Science Quarterly</em>, 63(3), 479-525.</li>
+            <li id="ref-3">Saporito, T. J. (2012, February 15). It's Time to Acknowledge CEO Loneliness. <em>Harvard Business Review</em>.</li>
+          </ol>
+        </div>
 
         <div class="article-cta">
           <span class="eyebrow">Work Together</span>
@@ -434,6 +476,7 @@
           <ul class="footer__nav-list">
             <li><a href="../therapy-for-founders.html" class="footer__nav-link">Therapy for Founders</a></li>
             <li><a href="../executive-burnout-therapy.html" class="footer__nav-link">Executive Burnout</a></li>
+            <li><a href="../family-office-therapy.html" class="footer__nav-link">Family Office Principals</a></li>
           </ul>
         </div>
 
