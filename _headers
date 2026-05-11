@@ -1,0 +1,11 @@
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: index, follow
+
+/blog/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: index, follow
+
+/guides/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: index, follow
