@@ -65,7 +65,7 @@ Senior leaders of Miami-headquartered companies navigating the social complexity
 
 ### Dual-Career Couples Who Just Moved
 
-When both partners relocated for one partner's opportunity, the trailing partner often carries the harder psychological weight. Therapy for couples adjusting to a shared move under real stress.
+When both partners relocated for one partner's opportunity, the trailing partner often carries the harder psychological weight. Therapy for couples adjusting to a shared move under real stress. [More on couples work in founder families.](blog/couples-therapy-founders.html)
 
 Why Telehealth Works Here
 

@@ -51,11 +51,11 @@ People rarely walk into my office saying "I need therapy." They say things like 
 
 - "I've been irritable with my family in a way I'm not proud of, and I keep telling myself I'll fix it when things calm down. Things haven't calmed down."
 - "I can't remember the last time I felt genuinely excited about something."
-- "I've been waking up at 3am and my brain just starts running the list. Every night."
+- "I've been [waking up at 3am and my brain just starts running the list](founders-sleep-hypervigilance.html). Every night."
 - "I'm doing everything right on paper and I feel nothing."
-- "I had a panic attack on a flight and told no one."
+- "I had a [panic attack on a flight](high-functioning-anxiety-executives.html) and told no one."
 - "I keep waiting to feel proud of what I've built. I don't."
-- "My relationship is suffering and I know it. I just don't know how to show up differently."
+- "[My relationship is suffering](couples-therapy-founders.html) and I know it. I just don't know how to show up differently."
 
 None of these are crises. All of them are worth talking about. And in every single case, the person sitting across from me had spent months, sometimes years, deciding they didn't quite qualify for help.
 
@@ -107,6 +107,8 @@ A free 20-minute consultation. No paperwork, no commitment. Just a chance to tal
 
 Related Reading
 
+[Founder's Guide
+Business Therapist vs Regular Therapist: What Founders Should Look For](../guides/business-therapist-vs-regular-therapist.html)
 [Executive Mental Health
 High-Functioning Anxiety: When Performing Well Isn't the Same as Being Well](high-functioning-anxiety-executives.html)
 [Executive Mental Health

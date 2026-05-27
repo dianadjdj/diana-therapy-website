@@ -19,6 +19,8 @@ LA has its own version of the high-performance pressure cooker. The mix here is 
 
 The particular strain here is the relationship to performance. You do not have to be on camera to feel the camera. Founders pitching to LA-native investors, executives at streaming companies, creators building businesses around their own likeness, DTC founders who are also the face of the brand: all of them spend a large portion of their working life managing how they are perceived. That labor is invisible and it is expensive. By the time you feel it, it has usually been costing you for a long time.
 
+When the company sells or the role winds down, that fusion does not undo itself. [The identity crisis after the exit](blog/founder-identity-after-exit.html) covers what comes next, and it is one of the most common reasons LA founders end up in therapy a year or two after the headline.
+
 There is also a real tension between LA's surface and what sits underneath. The lifestyle reads as lighter than other founder cities. The climate helps. The social scene helps. What does not come through on the surface is how much internal work people here do to keep the surface functioning. For more on that pattern, see [high-functioning anxiety in executives](blog/high-functioning-anxiety-executives.html).
 
 Session Details

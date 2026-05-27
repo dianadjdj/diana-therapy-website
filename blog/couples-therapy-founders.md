@@ -11,7 +11,7 @@ December 2025
 
 9 min read
 
-Updated April 2026
+Updated May 2026
 
 ## Why High-Achieving Couples Need a Different Kind of Therapy
 
@@ -33,7 +33,7 @@ What I can tell you is this: the tools that standard couples therapy offers (com
 
 ## Why Standard Couples Therapy Often Falls Short
 
-Most couples therapy models were developed and validated in samples that don't look like the clients I work with. The couples in those studies had normal work hours, relatively symmetrical power in their relationships, and identities that weren't completely intertwined with their professional output. The founders and executives I see have none of those things.
+Most couples therapy models were developed and validated in samples that don't look like the clients I work with. The couples in those studies had normal work hours, relatively symmetrical power in their relationships, and [identities that weren't completely intertwined with their professional output](founder-mental-health.html). The founders and executives I see have none of those things.
 
 There are a few specific ways that standard approaches tend to break down:
 
@@ -59,11 +59,11 @@ What I often see in co-founder couples is that they've become extraordinarily go
 
 ### The scheduling war
 
-Dual-career couples often treat their relationship as a logistics problem, because logistics is something they know how to solve. They calendar date nights. They protect Sunday mornings. But the intimacy gap doesn't close with more efficient scheduling, because it's not a scheduling problem. It's a depth-of-presence problem. Two people who are each running complex professional lives and who never fully turn off are not having a calendar shortage they're having a disconnection from each other that the calendar can't fix.
+Dual-career couples often treat their relationship as a logistics problem, because logistics is something they know how to solve. They calendar date nights. They protect Sunday mornings. But the intimacy gap doesn't close with more efficient scheduling, because it's not a scheduling problem. It's a depth-of-presence problem. Two people who are each running complex professional lives and [who never fully turn off](founders-sleep-hypervigilance.html) are not having a calendar shortage they're having a disconnection from each other that the calendar can't fix.
 
 ### Intimacy after major professional events
 
-Exits, fundraises, IPOs, leadership transitions these are moments where the emotional weight lands heavily on one person and the relationship often has no container for it. A founder who just sold their company doesn't need to debrief the deal; they need a partner who can hold the grief and the relief and the disorientation that often follow. And a partner who doesn't understand what that experience is actually like can't do that not because they don't care, but because they don't have the map.
+Exits, fundraises, IPOs, leadership transitions these are moments where the emotional weight lands heavily on one person and the relationship often has no container for it. A founder who just sold their company doesn't need to debrief the deal; they need a partner who can hold [the grief and the relief and the disorientation that often follow](founder-identity-after-exit.html). And a partner who doesn't understand what that experience is actually like can't do that not because they don't care, but because they don't have the map.
 
 This is where couples therapy that understands the [founder experience](../therapy-for-founders.html) becomes genuinely important. Not to interpret the experience for the partner, but to give the relationship a shared language for what just happened.
 
@@ -110,6 +110,28 @@ The relationship doesn't have to be in crisis for therapy to be valuable. The mo
 
 The same logic applies here that applies to any other area of performance: the time to work on it is before you need to, not after you're already in trouble.
 
+## Common questions about couples therapy for founders
+
+### How is couples therapy for founders different from regular couples therapy?
+
+Standard couples therapy is built for general populations: normal work hours, symmetrical power dynamics, and identities not fused with professional output. Founders and executives have none of those things. Three specific things tend to break down. The pace is wrong: high achievers expect structured, demonstrably useful work from early sessions, not a six-session alliance build before the problem gets touched. The therapist often lacks the language for cap table tension, board seat conflicts, or co-CEO marriages, so the load-bearing details get missed. And vulnerability norms differ: high achievers have professional reasons to minimize visible weakness, which requires a different kind of trust-building than the standard model assumes.
+
+### How does co-founder couples therapy work when the business is also in the relationship?
+
+Co-founder couples often become extraordinarily good at the business conversation (clear, efficient, low-drama) and have quietly let the intimate conversation atrophy. The debrief after a board meeting happens easily. The conversation about whether either person actually feels seen in this relationship has not happened in months, sometimes years. The work involves naming this role-blur directly and then rebuilding two distinct modes of conversation: one for the business partnership and one for the intimate one, each with their own time and ground rules.
+
+### Why is intimacy harder after major professional events like exits or fundraises?
+
+Exits, fundraises, IPOs, and leadership transitions are moments where the emotional weight lands heavily on one person and the relationship often has no container for it. A founder who just sold their company does not need to debrief the deal. They need a partner who can hold the grief and the relief and the disorientation that often follow. A partner who has not been through the experience does not have the map. Couples therapy with a clinician who understands the founder experience helps build a shared language for what just happened, so the relationship has space for the actual emotional weight, not just the logistics.
+
+### What does specialized couples therapy for founders actually look like?
+
+Four things tend to be different. The sessions move faster and with more structure: what is actually happening beneath the presenting conflict gets identified in the first or second session, not over months. The clinician brings fluency in the professional world the couple is living in, so the business context can come directly into the room. The work surfaces implicit frameworks each person carries about what a good partnership looks like, and makes them visible enough to negotiate. And it distinguishes ambition from values: ambition is a drive, not a value, and many high-achieving couples optimize for achievement rather than for what actually matters to them.
+
+### When should high-achieving couples consider therapy?
+
+Earlier than they usually do. The same resilience that makes high achievers effective professionally (the ability to push through difficulty, to deprioritize discomfort in service of a goal) works against them in relationships. By the time most reach out, the disconnection has been building for years. Common entry points: after a significant exit or liquidity event surfaces values misalignment that was structurally invisible when the money was hypothetical, around a major career transition for either partner, when the intimate conversation has quietly atrophied while the business conversation stays sharp, and after a sustained period in which the relationship has been treated as a logistics problem rather than a relational one.
+
 ## References
 
 1. Gottman, J. M., & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. Crown Publishers.
@@ -124,8 +146,12 @@ A free 20-minute consultation is the right first step for you individually, or t
 
 [Book a Free Consultation](../contact.html)
 
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
+
 Related Reading
 
+[Founder's Guide
+Business Therapist vs Regular Therapist: What Founders Should Look For](../guides/business-therapist-vs-regular-therapist.html)
 [Executive Mental Health
 The Hidden Cost of High Performance: What Executives Need to Know About Burnout](burnout-executives-high-performance.html)
 [Founder Life

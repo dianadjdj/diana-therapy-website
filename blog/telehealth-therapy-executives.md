@@ -54,7 +54,7 @@ Telehealth is structurally private in a way that in-person care can't be. There 
 
 ## What the Research Actually Says
 
-The question I hear most often from analytically-minded clients is whether telehealth is "as good as" in-person therapy. It's the right question to ask, and the evidence is clear enough that I don't hesitate with the answer: for the vast majority of concerns anxiety, depression, burnout, relationship difficulties, stress management, life transitions telehealth therapy is clinically equivalent to in-person care.
+The question I hear most often from analytically-minded clients is whether telehealth is "as good as" in-person therapy. It's the right question to ask, and the evidence is clear enough that I don't hesitate with the answer: for the vast majority of concerns [anxiety](high-functioning-anxiety-executives.html), depression, [burnout](burnout-executives-high-performance.html), [relationship difficulties](couples-therapy-founders.html), stress management, life transitions telehealth therapy is clinically equivalent to in-person care.
 
 A substantial body of research, including meta-analyses covering tens of thousands of patients, has found no meaningful difference in outcomes between video-based therapy and face-to-face sessions for most presentations. The therapeutic alliance the quality of the relationship between therapist and client, which is the single strongest predictor of outcomes in therapy develops just as effectively over video as it does in person.
 
@@ -90,7 +90,7 @@ Therapy is a practice, not an event. Its value is cumulative it builds with regu
 
 Telehealth dramatically increases consistency for the executives I work with. The scheduling flexibility means that a travel week, a late-running board meeting, or a sudden operational crisis doesn't automatically cancel the session. If you have thirty minutes and a private space, we can meet. That flexibility removes the most common reasons that busy people interrupt or abandon therapy, which is ultimately why it tends to produce better outcomes for this population not because the modality is superior in some abstract sense, but because it's the format that actually gets used.
 
-If you've been thinking about therapy and the logistics have been the obstacle, I'd encourage you to take that obstacle seriously. It's not a minor thing. The friction between where you are and where you're trying to go matters. Telehealth removes most of it.
+[If you've been thinking about therapy](do-i-need-therapy-executives.html) and the logistics have been the obstacle, I'd encourage you to take that obstacle seriously. It's not a minor thing. The friction between where you are and where you're trying to go matters. Telehealth removes most of it.
 
 ## References
 

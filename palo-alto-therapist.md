@@ -19,7 +19,7 @@ Palo Alto has a specific intensity that San Francisco doesn't. You live five min
 
 The pressure here is quieter than San Francisco's, which makes it harder to name. The aggression is more understated. The wealth is older. The consensus is that you should already be at a certain altitude. You went to the right school, you have the right network, your parents were in medicine or tech or biotech. Getting funded is not a badge at this altitude. Getting big enough to matter is the real threshold. Falling short reads as something about you, not about the market.
 
-This is the particular psychology I work with. The founder who has done everything "right" and is quietly wondering why they feel terrible. The executive whose equity package does not make up for the tightness in their chest every Sunday night. The Stanford-trained leader who is starting to suspect that the set of internal metrics they have been running on for twenty years is not sustainable. For more on what this pattern looks like clinically, see [the hidden cost of high performance](blog/burnout-executives-high-performance.html).
+This is the particular psychology I work with. The founder who has done everything "right" and is quietly wondering why they feel terrible. The executive whose equity package does not make up for the tightness in their chest every Sunday night. The Stanford-trained leader who is starting to suspect that the set of internal metrics they have been running on for twenty years is not sustainable. For more on what this pattern looks like clinically, see [the hidden cost of high performance](blog/burnout-executives-high-performance.html). For the version that shows up at 2am, see [why founders don't sleep](blog/founders-sleep-hypervigilance.html).
 
 Session Details
 
@@ -101,7 +101,7 @@ Based in San Francisco
 
 Further Reading
 
-If you are still in the evaluation phase, the companion guide [Best Therapist for Founders in California: What to Look For](guides/best-therapist-for-founders-california.html) walks through credentials, red flags, cost expectations, and consultation questions in depth. The research behind the clinical patterns is covered in [Founder Mental Health: What the Data Actually Shows](guides/founder-mental-health-statistics.html).
+If you are still in the evaluation phase, the companion guide [Best Therapist for Founders in California: What to Look For](guides/best-therapist-for-founders-california.html) walks through credentials, red flags, cost expectations, and consultation questions in depth. The research behind the clinical patterns is covered in [Founder Mental Health: What the Data Actually Shows](guides/founder-mental-health-statistics.html). For the full topic map across founder life, see the [founder mental health hub](therapy-for-founders.html).
 
 Get Started
 

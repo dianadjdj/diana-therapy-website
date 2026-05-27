@@ -51,7 +51,7 @@ The deeper problem is that this pattern tends to reinforce itself. The leader do
 
 ## Decision Paralysis
 
-Perfectionism and decision fatigue are closely linked. When every choice carries the weight of needing to be optimal, the cognitive cost of deciding goes up considerably. You research longer than necessary. You second-guess after you've already committed. You delay decisions that are time-sensitive because you're waiting for more certainty that isn't coming.
+Perfectionism and [decision fatigue](decision-fatigue-executives.html) are closely linked. When every choice carries the weight of needing to be optimal, the cognitive cost of deciding goes up considerably. You research longer than necessary. You second-guess after you've already committed. You delay decisions that are time-sensitive because you're waiting for more certainty that isn't coming.
 
 In fast-moving environments, this pattern isn't caution. It's a liability. The cost of a delayed good decision often exceeds the cost of a slightly imperfect decision made on time. Most experienced operators know this intellectually. Perfectionism overrides the intellectual knowledge and installs a felt sense that the stakes are too high to decide without more information.
 
@@ -63,7 +63,7 @@ Perfectionism rarely stays contained to work. Partners and children of highly pe
 
 This isn't what the perfectionistic person intends. In most cases, they'd be genuinely distressed to hear it described this way. But intention doesn't change impact. The same internal standards that drive excellence at work get applied, often unconsciously, to the people closest to them. A partner's cooking, a child's school performance, a family vacation that should have been planned differently. The perfectionism leaks.
 
-What I want to say clearly here is that this is a pattern, and patterns are repairable. This isn't a fixed character trait. It's a learned way of managing anxiety about outcomes, and it can be unlearned.
+What I want to say clearly here is that this is a pattern, and patterns are repairable. This isn't a fixed character trait. It's a learned way of [managing anxiety about outcomes](high-functioning-anxiety-executives.html), and it can be unlearned.
 
 ## What Therapy for Perfectionism Actually Looks Like
 
@@ -71,7 +71,7 @@ I want to be direct about what therapy for perfectionism is and isn't. The goal 
 
 Those are different things. Standards that serve your goals are flexible, outcome-oriented, and calibrated to what actually matters. Standards that serve your anxiety are rigid, process-oriented, and calibrated to avoiding the specific emotional discomfort of criticism or failure. One makes you more effective. The other just makes you feel like you're doing enough.
 
-In practice, the work looks like several things. For clients where perfectionism is rooted in early experiences of conditional approval or shame, EMDR can be useful in addressing the underlying beliefs: that mistakes mean you're inadequate, that imperfection makes you unworthy. These beliefs often originated long before you were an executive, and they're running in the background of every high-stakes decision you make now.
+In practice, the work looks like several things. For clients where perfectionism is rooted in early experiences of conditional approval or shame, EMDR can be useful in addressing the underlying beliefs: [that mistakes mean you're inadequate, that imperfection makes you unworthy](imposter-syndrome-executives.html). These beliefs often originated long before you were an executive, and they're running in the background of every high-stakes decision you make now.
 
 Cognitive work addresses the catastrophizing that perfectionism depends on: the automatic assumption that imperfect equals disaster, that finishing and being evaluated is more dangerous than staying in the loop of revision. We work on building a more accurate risk assessment, one that accounts for the real costs of not finishing, not deciding, not delegating.
 
@@ -92,6 +92,8 @@ Work Together
 If perfectionism is costing you more than it's giving you, a conversation is a reasonable first step. Free 20-minute consultation, no commitment required.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 

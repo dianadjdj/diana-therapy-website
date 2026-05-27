@@ -27,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 There is a particular kind of flatness that founders describe in the weeks and months after closing a significant exit. The wire hits the account. The congratulations come in from investors, from the press, from family members who only half-understood what you were building but understood enough to know this was the goal. And somewhere in the middle of it, usually in a quiet moment, there is an absence where the feeling of success was supposed to be.
 
-I've heard versions of this enough times now that I no longer treat it as a surprise. But I understand why founders are surprised by it. Everything in the cultural story about entrepreneurship says that the exit is the destination the moment you've been working toward. To feel empty, or lost, or hollowed out in the aftermath is to feel like you're failing at success. And that particular combination grief that feels inappropriate, disorientation that has no legitimate name is one of the most isolating experiences I work with.
+I've heard versions of this enough times now that I no longer treat it as a surprise. But I understand why founders are surprised by it. Everything in the cultural story about entrepreneurship says that the exit is the destination the moment you've been working toward. To feel empty, or lost, or hollowed out in the aftermath is to feel like you're failing at success. And that particular combination grief that feels inappropriate, disorientation that has no legitimate name is one of the most [isolating experiences](loneliness-of-leadership.html) I work with.
 
 ## Why Exits Feel Hollow Even When They Go Well
 
@@ -41,7 +41,7 @@ This is not a new observation in psychology, but it's one that the startup world
 
 ## Identity Fusion: When "I Am the Founder" Becomes "I Am Nothing"
 
-Psychologists use the term **identity fusion** to describe the process by which an individual's sense of self becomes deeply merged with a role, a group, or a cause. In the startup context, this happens almost inevitably and it's not a weakness. It's actually what makes founders effective. The total identification with the mission, the refusal to separate "I" from "the company," is a large part of what drives the extraordinary investment of time and self that building something requires.
+Psychologists use the term **[identity fusion](founder-mental-health.html)** to describe the process by which an individual's sense of self becomes deeply merged with a role, a group, or a cause. In the startup context, this happens almost inevitably and it's not a weakness. It's actually what makes founders effective. The total identification with the mission, the refusal to separate "I" from "the company," is a large part of what drives the extraordinary investment of time and self that building something requires.
 
 The problem is structural: what makes you a compelling founder is exactly what makes the exit so destabilizing. The more completely your identity was organized around the company, the more complete the disruption when the company is no longer yours.
 
@@ -67,7 +67,7 @@ Founder status is a specific kind of social capital in the startup ecosystem. It
 
 ### The urgency itself
 
-This one surprises people. Urgency, for most founders, was never just stress it was also aliveness. The high-stakes environment kept the nervous system activated in a way that felt, most of the time, like being fully engaged with the world. Without it, life can feel muted. Some founders describe it as a kind of chronic low-grade boredom that's embarrassing to admit to, because they're supposed to be grateful. They are grateful. And they're also understimulated in a way they didn't anticipate and don't know how to address.
+This one surprises people. Urgency, for most founders, was never just stress it was also aliveness. The high-stakes environment [kept the nervous system activated](founders-sleep-hypervigilance.html) in a way that felt, most of the time, like being fully engaged with the world. Without it, life can feel muted. Some founders describe it as a kind of chronic low-grade boredom that's embarrassing to admit to, because they're supposed to be grateful. They are grateful. And they're also understimulated in a way they didn't anticipate and don't know how to address.
 
 ## Post-Exit Confusion vs. Clinical Depression
 
@@ -124,6 +124,8 @@ Work Together
 If you're in the post-exit period and struggling to articulate what you're feeling, a conversation with someone who gets it is a good place to start. Free 20-minute consultation, no commitment required.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 

@@ -33,7 +33,7 @@ I don't interrupt. This version of the story is usually how the founder thinks a
 
 ## What I'm actually listening for
 
-The surface story matters less than what it leaves out. Founders rarely come in saying they want to talk about their mother, or about how their relationship with their co-founder has started to feel like the relationship they had with their older brother, or about the fact that they haven't cried in six years. They come in saying they aren't sleeping, or their partner is unhappy, or they just closed a round and feel worse than before.
+The surface story matters less than what it leaves out. Founders rarely come in saying they want to talk about their mother, or about how their relationship with their co-founder has started to feel like the relationship they had with their older brother, or about the fact that they haven't cried in six years. They come in saying [they aren't sleeping](founders-sleep-hypervigilance.html), or [their partner is unhappy](couples-therapy-founders.html), or they [just closed a round and feel worse than before](founder-mental-health.html).
 
 My job in the first session is to notice what the presenting complaint is sitting on top of. Usually something is pressing up from underneath. Something that has been there a long time, sometimes decades, and that the job of running a company has made louder rather than resolved.
 

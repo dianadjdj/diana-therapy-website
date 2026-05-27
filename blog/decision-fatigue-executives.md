@@ -49,7 +49,7 @@ Decision fatigue rarely announces itself as fatigue. It tends to show up as beha
 
 - Irritability in the late afternoon that feels disproportionate to what's happening
 - Defaulting to the status quo because choosing feels like too much effort
-- Difficulty switching off after work, where the brain stays in processing mode well into the evening
+- [Difficulty switching off after work, where the brain stays in processing mode well into the evening](founders-sleep-hypervigilance.html)
 - Small domestic decisions (dinner, weekend plans, which movie) feeling genuinely overwhelming
 - Avoiding certain emails or conversations because they require a choice you don't have the bandwidth to make
 - Increasing reliance on alcohol, mindless scrolling, or other numbing behaviors to decompress at the end of the day
@@ -64,7 +64,7 @@ The usual prescriptions for decision fatigue are well-intentioned and mostly ins
 
 "Make fewer decisions" sounds sensible until you try to apply it to a real executive role. The volume isn't optional. "Take breaks" is genuinely good advice, but insufficient on its own. A fifteen-minute walk doesn't rebuild a system that's been running at capacity for twelve hours. Chronic decision fatigue is often the leading edge of [executive burnout](../executive-burnout-therapy.html), and it responds to a different kind of attention than productivity advice.
 
-What these approaches miss is the underlying psychology. Decision fatigue in high-achieving leaders is often a symptom of something deeper: perfectionism that insists every decision must be optimal, not just adequate. Fear of failure that raises the emotional cost of choosing. A belief, usually unconscious, that being wrong carries more than professional consequences. It carries implications about who you are.
+What these approaches miss is the underlying psychology. Decision fatigue in high-achieving leaders is often a symptom of something deeper: [perfectionism that insists every decision must be optimal](perfectionism-high-achievers.html), not just adequate. [Fear of failure that raises the emotional cost of choosing](high-functioning-anxiety-executives.html). A belief, usually unconscious, that being wrong carries more than professional consequences. It carries implications about who you are.
 
 When the system running the decisions is also carrying that psychological freight, no amount of structural optimization will fully solve the problem.
 
@@ -93,6 +93,8 @@ Work Together
 If you're noticing the signs of decision fatigue, a free 20-minute consultation is a good starting point. No forms to fill out beforehand. Just a conversation.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 

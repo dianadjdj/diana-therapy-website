@@ -43,7 +43,7 @@ Early-stage companies reward hypervigilance. The founder who noticed the anomaly
 
 This is not anecdotal. Pattern recognition is real, and the founders who build real companies are often the ones whose threat radar is working well. For a while, the returns on vigilance are enormous. Every time the radar catches something, the brain updates: that mode is what kept the company alive.
 
-The problem is that the system does not have a good off switch. By the time a company has hit growth, or even post-exit calm, the founder's nervous system has been operating in elevated alert mode for five or seven or ten years. Returning to baseline is not automatic. In many cases the baseline has shifted. The elevated state is now what feels normal, and actual calm feels wrong. Founders describe feeling itchy when things are going well. That itch is the absence of the threat signal their body has learned to expect.
+The problem is that the system does not have a good off switch. By the time a company has hit growth, or even post-exit calm, the founder's nervous system has been operating in elevated alert mode for five or seven or ten years. Returning to baseline is not automatic. In many cases the baseline has shifted. The elevated state is now what feels normal, and actual calm feels wrong. Founders describe [feeling itchy when things are going well](high-functioning-anxiety-executives.html). That itch is the absence of the threat signal their body has learned to expect.
 
 At night, with no stimuli to absorb the attention and no tasks to aim the activation at, the threat radar starts scanning freely. It finds material. It always finds material. A company at any stage has twenty legitimate things that could go wrong. Your brain is not making them up. It is just refusing to shelve them.
 
@@ -55,7 +55,7 @@ When you are awake at 2am running a threat scenario, you are not problem solving
 
 What 2am is actually doing is trying to resolve a threat signal by running it. The body is saying: something is wrong, pay attention. The mind, having nothing better to attend to, generates a scenario. The scenario briefly gives the threat a shape, which feels like progress. But because the scenario is speculative, it doesn't resolve. So you generate another. And another. By 4am you have cycled through the entire threat map of the company and solved nothing.
 
-Sleep is what should be happening instead. It is how the brain clears the day and resets for the next one. A founder who consistently loses two or three hours of sleep per night to 2am scenario running does not just feel tired. They lose emotional regulation and the ability to distinguish real threats from false ones. Sustained sleep loss degrades the exact cognitive functions the founder is trying to protect by staying vigilant.
+Sleep is what should be happening instead. It is how the brain clears the day and resets for the next one. A founder who consistently loses two or three hours of sleep per night to 2am scenario running does not just feel tired. They lose emotional regulation and the ability to distinguish real threats from false ones. Sustained sleep loss degrades the [exact cognitive functions](decision-fatigue-executives.html) the founder is trying to protect by staying vigilant.
 
 ## Why the usual fixes don't work
 
@@ -77,6 +77,28 @@ This is what therapy actually offers hypervigilant founders. Not advice about sl
 
 You can run a company without sleeping. Founders do it constantly. What you cannot do for very long is run a company on a nervous system that has forgotten how to stand down. Sleep is the mechanism your brain uses to reset itself. When it is gone, so is the version of you that built the company in the first place.
 
+## Common questions about founder sleep and hypervigilance
+
+### What is founder hypervigilance?
+
+Hypervigilance is what happens when the brain's threat-detection system has been running at high sensitivity for so long that it cannot settle down on its own. For founders, this is the result of years in which catching small anomalies early was directly rewarded with the company's survival. The system learned, correctly, that staying alert was the job. The problem is that it does not come with a clean off switch when the conditions change.
+
+### Why do founders wake up at 2am running scenarios?
+
+At 2am, with no tasks to absorb attention, the threat radar scans freely. The body is sending a low-grade danger signal. The mind, with nothing better to do, generates a scenario that gives the signal a shape. The scenario is speculative, so it does not resolve, so another one comes. By 4am you have cycled through the entire threat map of the company and solved nothing. The prefrontal cortex is operating at reduced capacity at that hour, which is why the solutions never hold up in daylight.
+
+### Why doesn't sleep hygiene work for founders?
+
+Sleep hygiene advice assumes the problem is behavioral. Cut screens, keep the room cool, wake at the same time. These help at the margin. They do not touch the underlying reason founder sleep breaks down, which is that the nervous system has learned that staying online is the job. Melatonin and prescription sedatives work for a while and then stop, because they sedate the system without teaching it to stand down on its own. Meditation helps some founders and agitates others, because asking a hypervigilant system to sit quietly can register as threat.
+
+### What actually helps founder insomnia?
+
+The real leverage is upstream of bedtime. The nervous system needs to learn, through direct experience, that there is a context in which it can drop out of alert mode. EMDR works directly with the way the nervous system stores accumulated stress, and founders often find that processing specific high-stakes moments (a fundraising call that went badly, the year the runway got tight) does more for sleep than anything in the sleep category. The deeper pattern requires a regular context where the founder is genuinely not in charge and not performing, so the body has a real off state to return to.
+
+### When does founder sleep loss become a clinical problem?
+
+Sustained sleep loss of two or three hours per night to scenario-running is already clinically significant. It degrades emotional regulation, distorts the ability to distinguish real threats from false ones, and accelerates the path into executive burnout. Founders often normalize this until cognitive performance starts to noticeably slip or relationships strain. By the time it is obvious, the cost has been compounding for years. Earlier is better, and there is no need to wait for crisis.
+
 ## References
 
 1. Walker, M. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner.
@@ -92,8 +114,12 @@ A free 20-minute consultation is a low-stakes first step. I work specifically wi
 
 [Book a Free Consultation](../contact.html)
 
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
+
 Related Reading
 
+[Executive Mental Health
+EMDR for Executives: When It Helps, When It Doesn't](emdr-for-executives.html)
 [Executive Mental Health
 The Loneliness of Leadership: Why CEOs and Founders Feel Alone at the Top](loneliness-of-leadership.html)
 [Executive Mental Health

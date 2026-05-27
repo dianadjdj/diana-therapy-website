@@ -11,7 +11,7 @@ March 2026
 
 8 min read
 
-Updated April 2026
+Updated May 2026
 
 ## What No One Tells You About Founder Mental Health
 
@@ -41,7 +41,7 @@ The financial exposure is personal in a way it rarely is for employees. Founders
 
 There's also the weight of responsibility for other people's livelihoods. When you make a payroll decision, or a product bet that doesn't pay off, or a hiring mistake, real people are affected in ways that go beyond a line item. Most founders I work with feel this acutely, even when they don't talk about it.
 
-The absence of a real peer group is something that surprises founders who haven't experienced it before. You can't be fully honest with your co-founder, because the relationship requires you to project confidence. You can't be fully honest with your investors, because it may affect their faith in the company. You can't be fully honest with your team, because you're supposed to be leading them. The result is a particular kind of loneliness: surrounded by people and functionally alone with the most important things on your mind.
+The absence of a real peer group is something that surprises founders who haven't experienced it before. You can't be fully honest with your co-founder, because the relationship requires you to project confidence. You can't be fully honest with your investors, because it may affect their faith in the company. You can't be fully honest with your team, because you're supposed to be leading them. The result is a [particular kind of loneliness](loneliness-of-leadership.html): surrounded by people and functionally alone with the most important things on your mind.
 
 And then there's identity fusion. When you've built something from an idea, and your name is on it, and your relationships are built around it, and your sense of purpose runs through it: the company becomes you in a way that's hard to separate out. A bad quarter isn't just a bad quarter. A down round isn't just a financing event. Bad news about the company lands as bad news about your worth as a person. This is one of the most psychologically costly features of the founder experience, and it's also one of the least discussed.
 
@@ -75,7 +75,7 @@ Tools for managing high-stakes decision-making under uncertainty are practical a
 
 There's also grief work that rarely gets named as such. Pivots are losses. Layoffs are losses. Failed product launches are losses. Partnerships that don't work out, co-founder separations, the version of the company you had in your head when you started: these are all things that deserve to be processed, and most founders don't have a space to do that.
 
-Support through transitions is undervalued. The raise, the scale-up, the plateau, the exit: each of these phases brings its own psychological demands, and they're different demands. Founders who have worked through what each phase requires of them tend to navigate those transitions more effectively than those who are caught off guard by the internal experience of something that looks like success from the outside.
+Support through transitions is undervalued. The raise, the scale-up, the plateau, [the exit](founder-identity-after-exit.html): each of these phases brings its own psychological demands, and they're different demands. Founders who have worked through what each phase requires of them tend to navigate those transitions more effectively than those who are caught off guard by the internal experience of something that looks like success from the outside.
 
 ## On Asking for Help
 
@@ -84,6 +84,28 @@ There's a counterintuitive truth worth naming directly. The founders who are mos
 Seeking therapy is not a signal that you're not cut out for this. Plenty of people who are very much cut out for it seek support, precisely because they understand what the job actually demands. The ones who don't seek support aren't tougher. They're just deferring a cost that tends to compound. If the practical question of what the first hour would even look like is what's holding you back, [here's what a founder's first therapy session actually looks like](first-therapy-session-founder.html).
 
 You've built a culture of learning and iteration in your company. The same principles apply to you.
+
+## Common questions about founder mental health
+
+### What is founder mental health?
+
+Founder mental health is the specific set of psychological pressures, clinical patterns, and protective work that go with running a company. Research from Dr. Michael Freeman at UCSF found that 72% of entrepreneurs reported mental health concerns, compared to 48% of a control group, with significantly higher rates of depression, anxiety, ADHD, and bipolar conditions. Founders are not categorically more vulnerable as people. The job selects for traits that hide internal strain, and the structure of the role removes the relationships that would normally absorb it.
+
+### What stressors are unique to founders?
+
+Founders carry personal financial exposure that an employee does not. They hold responsibility for the livelihoods of everyone they have hired. They lack a peer group they can be fully honest with, because investors, co-founders, and the team each require a version of confidence. And identity often fuses with the company, so business outcomes start to register as personal worth events. These are structural differences from typical workplace stress. The pressure is shaped differently, not merely amplified.
+
+### Why do founders wait so long before starting therapy?
+
+Founder culture treats vulnerability as a liability, especially in fundraising, hiring, and team-facing moments. The performance of certainty becomes habitual until many founders lose track of the difference between what they project and what they actually experience. Many also believe therapy is only for crisis rather than for ongoing maintenance, so they wait until something has already broken instead of addressing patterns when they are smaller and more treatable.
+
+### What kinds of therapy actually help founder mental health?
+
+The most useful work tends to come in four areas. Identity work that separates selfhood from how the company is performing. Practical decision-making support under conditions of uncertainty. Grief work for losses that rarely get named, including pivots, failed launches, and partnerships that ended. And support through major transitions like raises, exits, and post-acquisition periods, which each carry their own distinct psychological demands. The therapist's familiarity with founder life is what makes this work possible at the depth founders actually need.
+
+### Are founders actually more likely to have mental health issues?
+
+Yes. Dr. Michael Freeman's UCSF research found that 72% of entrepreneurs reported mental health concerns, compared to 48% of a control group. Significantly higher rates of depression, anxiety, ADHD, and bipolar conditions are documented in entrepreneurs. The numbers reflect the structural demands of the role, not personal weakness. Founders who address mental health proactively tend to be the ones building the most durable companies.
 
 ## References
 
@@ -99,9 +121,13 @@ I work specifically with founders and executives. If you're ready for a conversa
 
 [Book a Free Consultation](../contact.html)
 
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
+
 Related Reading
 
+[Executive Mental Health
+EMDR for Executives: When It Helps, When It Doesn't](emdr-for-executives.html)
+[Founder's Guide
+Business Therapist vs Regular Therapist: What Founders Should Look For](../guides/business-therapist-vs-regular-therapist.html)
 [Founder Life
 The Identity Crisis After the Exit: What Happens When Founders Sell](founder-identity-after-exit.html)
-[Executive Mental Health
-The Hidden Cost of High Performance: What Executives Need to Know About Burnout](burnout-executives-high-performance.html)

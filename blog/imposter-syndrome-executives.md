@@ -51,7 +51,7 @@ This attribution asymmetry is one of the most consistent features of imposter sy
 
 The specific presentations vary, but the patterns are recognizable once you know what to look for.
 
-The founder who closes a Series B and immediately starts worrying that investors will figure out they overpaid. The new C-suite executive who over-prepares for every board meeting because being caught without an answer feels catastrophic, not professionally inconvenient, catastrophic. The operator who has run this kind of business before but is convinced that this time is different, that this time they're actually out of their depth.
+The [founder](founder-mental-health.html) who closes a Series B and immediately starts worrying that investors will figure out they overpaid. The new C-suite executive who [over-prepares for every board meeting](high-functioning-anxiety-executives.html) because being caught without an answer feels catastrophic, not professionally inconvenient, catastrophic. The operator who has run this kind of business before but is convinced that this time is different, that this time they're actually out of their depth.
 
 There's also the success paralysis that some executives describe: the sense that a major win has raised the bar so high that the next attempt is almost too risky to make. Better to stay quiet, underpromise, stay below the line of scrutiny. The syndrome doesn't just generate fear. It generates avoidance strategies that can genuinely constrain performance.
 
@@ -77,7 +77,7 @@ EMDR is particularly effective for the shame-based beliefs that anchor imposter 
 
 A distinction worth making: healthy humility and pathological self-doubt are not the same thing. Healthy humility knows what it doesn't know and stays curious. Pathological self-doubt discounts what it does know and stays afraid. The goal of this work is not to produce overconfidence or eliminate self-reflection. It's to build a relationship with yourself that's more accurate, more stable, and less dependent on external validation to feel legitimate.
 
-Learning to separate performance from worth is central to all of it. When your sense of being okay as a person is tied to whether you're performing well, every business risk becomes a personal threat. Decoupling those two things doesn't make you less motivated. It makes your motivation sustainable.
+Learning to [separate performance from worth](perfectionism-high-achievers.html) is central to all of it. When your sense of being okay as a person is tied to whether you're performing well, every business risk becomes a personal threat. Decoupling those two things doesn't make you less motivated. It makes your motivation sustainable.
 
 ## You Are Not a Fraud
 
@@ -98,6 +98,8 @@ Work Together
 If imposter syndrome is running quietly in the background of your leadership, a conversation is a good place to start. Free 20-minute consultation, no commitment.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 

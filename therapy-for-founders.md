@@ -1,6 +1,6 @@
 # Therapy for Founders & Startup CEOs | Diana Chu, LMFT
 
-> Private therapy for startup founders and CEOs. Burnout, hypervigilance, imposter syndrome, co-founder conflict, post-exit identity. CA and FL.
+> Founder mental health and therapy for startup CEOs in California and Florida. Burnout, hypervigilance, imposter syndrome, co-founder strain, post-exit identity.
 
 Canonical URL: https://dianachutherapy.com/therapy-for-founders.html
 
@@ -10,6 +10,35 @@ Founder Mental Health
 ## Therapy for Founders and Startup CEOs.
 
 Private, specialist mental health care for the people building and running companies. A therapist who understands founder psychology and does not need the first ten sessions to be explaining your world.
+
+Founder Mental Health
+
+## What Founder Mental Health Actually Is.
+
+Founder mental health is the set of psychological pressures, clinical patterns, and protective work that go with running a company. Research from Dr. Michael Freeman at UCSF found that 72% of entrepreneurs reported mental health concerns, compared to 48% of a control group, with significantly higher rates of depression, anxiety, ADHD, and bipolar conditions among founders. Founders are not categorically more vulnerable as people. The job selects for traits that hide internal strain, and the structure of the role removes the relationships that would normally absorb it.
+
+Founder mental health and founder performance run on the same systems. Christina Maslach's research on occupational burnout identifies the same three components that founders in my practice describe when the work has started to cost them: exhaustion, cynicism, and a reduced sense of efficacy. Hypervigilance keeps decisions reactive. Imposter feelings narrow the range of bets a founder is willing to take, sometimes to a fault. When identity has fused with the company, every quarterly result lands as a referendum on personal worth. The work that improves mental health is the work that improves performance, because both run on the same underlying systems: nervous system regulation, sleep, identity stability, and relational presence. Peak performance practices that do not eventually integrate mental health work tend to either stall or break the person practicing them.
+
+This page is the topic map. The clinical patterns founders bring in, the research behind them, the guides for going deeper, and the practice that does the work. Each topic below links to a longer piece.
+
+### The full topic map for founders
+
+| Pattern | What's happening |
+| --- | --- |
+| [High-functioning anxiety](blog/high-functioning-anxiety-executives.html) | Anxiety that drives the work instead of stopping it. Reads as ambition from the outside; costs sleep, presence, and the ability to actually enjoy what's going well. |
+| [Executive burnout](blog/burnout-executives-high-performance.html) | Burnout in high performers escalates output before it collapses. Looks like working harder, sleeping less, and wondering why nothing feels meaningful. |
+| [Sleep and hypervigilance](blog/founders-sleep-hypervigilance.html) | The 2am scenario loop. A nervous system that learned to stay on and now will not turn off when you ask it to. |
+| [Decision fatigue](blog/decision-fatigue-executives.html) | The cumulative cost of making consequential calls all day. Quality drops before you can feel it dropping. |
+| [Imposter syndrome](blog/imposter-syndrome-executives.html) | Gets louder with each round, hire, and win. Accomplishment does not silence it. |
+| [Perfectionism](blog/perfectionism-high-achievers.html) | Standards that were never really about quality. Drives output and corrodes the system that produces it. |
+| [Loneliness of leadership](blog/loneliness-of-leadership.html) | The specific isolation of being surrounded by people who all need something from you, with no one you can be fully honest with. |
+| [Identity after exit](blog/founder-identity-after-exit.html) | What happens to selfhood when the role that organized it ends. The grief no one warned you about. |
+| [Co-founder and partner strain](blog/couples-therapy-founders.html) | When the company starts costing the primary relationship. Couples work for co-founder couples and founder families. |
+| [Founder mental health, in full](blog/founder-mental-health.html) | The overview of what the job costs and what clinical work meets it with. |
+
+For founders considering therapy for the first time: [do high achievers actually need therapy](blog/do-i-need-therapy-executives.html) and [what a founder's first session actually looks like](blog/first-therapy-session-founder.html). For the research review: [founder mental health, what the data shows](guides/founder-mental-health-statistics.html). For finding a clinician: [best therapist for founders in California](guides/best-therapist-for-founders-california.html).
+
+Research cited above: Freeman, M.A. et al. (2019). *The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families*. Small Business Economics, 53(2), 323-342. Maslach, C. & Leiter, M.P. (2016). *Understanding the burnout experience: recent research and its implications for psychiatry*. World Psychiatry, 15(2), 103-111.
 
 Why This Work Is Specialized
 

@@ -53,7 +53,7 @@ Sustained isolation in leadership has real psychological consequences, and they 
 
 Irritability increases. The continuous effort of performing steadiness depletes patience, and what's left gets directed at the people closest to you, your partner, your kids, the assistant who asks the wrong question at the wrong moment. It feels disproportionate because it is. It's the accumulated weight of a mode you can't turn off.
 
-Affect flattens. When emotional expression has been suppressed or managed long enough, the emotional range narrows. Things that should feel meaningful start to feel neutral. This isn't depression in the clinical sense, though it can develop into that. It's more like a progressive narrowing of inner life, where work crowds out everything else because work is the one context where you know who you are and what to do.
+Affect flattens. When emotional expression has been suppressed or managed long enough, the emotional range narrows. [Things that should feel meaningful start to feel neutral.](burnout-executives-high-performance.html) This isn't depression in the clinical sense, though it can develop into that. It's more like a progressive narrowing of inner life, where work crowds out everything else because work is the one context where you know who you are and what to do.
 
 Presence at home suffers. Dropping the guard is a skill, and when you haven't practiced it in a long time, it stops being available on demand. You come home and the professional persona is still running. Your family can feel it. You can feel them feeling it. The gap widens.
 
@@ -65,7 +65,7 @@ The cultural silence around leadership loneliness is almost total. In most execu
 
 So the loneliness goes unnamed. It gets called "stress," or "the job," or "just how things are at this level." Executives self-medicate with work, or with alcohol, or with the particular numbness of a twelve-hour day that ends in front of a screen. The underlying problem never gets addressed because it never gets named.
 
-This isn't just emotionally costly. It has real physiological consequences. The research on chronic loneliness is unambiguous: it is associated with increased cortisol, disrupted sleep, impaired immune function, and significantly elevated risk of cardiovascular disease. A well-cited analysis by Julianne Holt-Lunstad found that chronic loneliness is as harmful as smoking fifteen cigarettes a day. This is not a soft issue dressed up as a hard one. This is a health issue that happens to be dressed up as a soft one.
+This isn't just emotionally costly. It has real physiological consequences. The research on chronic loneliness is unambiguous: it is associated with increased cortisol, [disrupted sleep](founders-sleep-hypervigilance.html), impaired immune function, and significantly elevated risk of cardiovascular disease. A well-cited analysis by Julianne Holt-Lunstad found that chronic loneliness is as harmful as smoking fifteen cigarettes a day. This is not a soft issue dressed up as a hard one. This is a health issue that happens to be dressed up as a soft one.
 
 ## What Therapy Offers That Nothing Else Does
 
@@ -92,6 +92,8 @@ Work Together
 If any of this resonates, a free 20-minute consultation is a low-stakes first step. I work specifically with people in your position. I understand what the job actually costs.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 

@@ -11,7 +11,7 @@ January 2026
 
 8 min read
 
-Updated April 2026
+Updated May 2026
 
 ## The Hidden Cost of High Performance: What Executives Need to Know About Burnout
 
@@ -47,11 +47,11 @@ High performance environments create specific conditions that accelerate burnout
 
 ### The Loneliness of Leadership
 
-As an executive, the pool of people you can genuinely confide in shrinks dramatically. You can't be fully honest with your board, your team, or in many cases your investors. The isolation this creates isn't incidental. It's structurally built into the role. And chronic isolation is one of the strongest predictors of burnout across all populations.
+As an executive, the pool of people you can genuinely confide in shrinks dramatically. You can't be fully honest with your board, your team, or in many cases your investors. The isolation this creates isn't incidental. It's [structurally built into the role](loneliness-of-leadership.html). And chronic isolation is one of the strongest predictors of burnout across all populations.
 
 ### Identity Fusion
 
-For many executives and founders, the role becomes indistinguishable from the self. This makes success feel validating in the short term, but it creates enormous psychological fragility. When the company struggles, you struggle, not just professionally, but existentially. This identity fusion is a major driver of the disproportionate anxiety and depression rates we see in founder populations.
+For many executives and founders, the role becomes indistinguishable from the self. This makes success feel validating in the short term, but it creates enormous psychological fragility. When the company struggles, you struggle, not just professionally, but existentially. This [identity fusion](founder-identity-after-exit.html) is a major driver of the disproportionate [anxiety](high-functioning-anxiety-executives.html) and depression rates we see in founder populations.
 
 ### The Always-On Culture
 
@@ -84,6 +84,28 @@ Burnout is not a character flaw. It's not a sign of weakness or inadequacy. It's
 
 The executives I work with who recover most effectively share one thing in common: they recognized the problem before it became a crisis, and they took it as seriously as they would any other performance issue in their business.
 
+## Common questions about executive burnout
+
+### What is executive burnout?
+
+Executive burnout is a state of chronic depletion that develops from sustained, unmanaged workplace stress. The World Health Organization classifies it as an occupational phenomenon with three components: exhaustion, cynicism (emotional distance from work), and a reduced sense of efficacy. In high achievers, burnout rarely looks like collapse. It looks like continued, compulsive work despite depletion. Psychologists call this overextension. By the time most executives recognize it, it has often been running for months.
+
+### Why are executives uniquely vulnerable to burnout?
+
+Three structural conditions raise executive risk. The loneliness of leadership: as people rise, the pool of people they can confide in shrinks, and chronic isolation is one of the strongest predictors of burnout across populations. Identity fusion: when the role becomes indistinguishable from the self, business outcomes register as personal worth events. And the always-on cognitive load of high-stakes decision-making, which research shows continues to occupy mental bandwidth during rest, significantly impairing the brain's ability to recover.
+
+### What does recovery from executive burnout actually look like?
+
+A vacation, a meditation retreat, or a wellness app addresses symptoms without touching causes. Genuine recovery typically requires three less marketable things. A structured reduction in cognitive load, not just physical rest. Reconnection to values and identity that exist outside the role. A confidential space to process the psychological weight of leadership without consequence. This is what therapy designed for the executive context offers, and why generic mental health support often falls short.
+
+### When should an executive seek help for burnout?
+
+Worth a conversation: when you are working more but feeling less accomplished, when things that used to energize you feel neutral or draining, when patience with people you care about is noticeably shorter, when alcohol or food or other substances are doing decompression work they did not used to do, when difficulty with decisions that should be easy starts to appear, and when the sense of going through the motions becomes consistent. These are the early signals, and they are most treatable before they reach crisis.
+
+### Is executive burnout the same as depression?
+
+No, but they overlap and can co-occur. Burnout is specifically work-related and centers on exhaustion, cynicism, and reduced efficacy. Depression is a broader mood disorder that can affect any domain of life and includes symptoms like persistent low mood, anhedonia across contexts (not just work), changes in appetite or sleep, and sometimes thoughts of self-harm. A clinician can distinguish the two, and the treatment plan looks different for each. Untreated burnout can progress into depression, which is one reason early intervention matters.
+
 ## References
 
 1. Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: recent research and its implications for psychiatry. *World Psychiatry*, 15(2), 103-111.
@@ -97,6 +119,8 @@ Work Together
 If this resonates, the next step is a free 20-minute consultation. No commitment just a conversation.
 
 [Book a Free Consultation](../contact.html)
+
+[← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
 Related Reading
 
