@@ -2,14 +2,6 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RLYJQND9WW"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag("js", new Date());
-    gtag("config", "G-RLYJQND9WW");
-  </script>
   <link rel="icon" type="image/svg+xml" href="../favicon.svg">
   <link rel="icon" type="image/png" href="../favicon.png" sizes="32x32">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,11 +27,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Raleway:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/CustomEase.min.js" defer></script>
-  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.1/dist/lenis.min.js" defer></script>
 
   <link rel="stylesheet" href="../css/styles.css">
 
@@ -227,7 +214,7 @@
 
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
-  <nav class="nav scrolled" aria-label="Main navigation">
+    <nav class="nav scrolled" aria-label="Main navigation">
     <div class="nav__inner">
       <a href="../index.html" class="nav__logo">Diana Chu Therapy</a>
       <ul class="nav__links">
@@ -236,19 +223,39 @@
         <li class="nav__item nav__item--dropdown">
           <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
           <ul class="nav__dropdown" aria-label="Services menu">
-            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
             <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
             <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
-            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
-            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
-            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">For Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">For Executives (Burnout)</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">For Family Office Principals</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
             <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
           </ul>
         </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../blog.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Resources<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Resources menu">
+            <li><a href="../blog.html" class="nav__dropdown-link">Blog</a></li>
+            <li><a href="../guides.html" class="nav__dropdown-link">Guides</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Founder Mental Health Hub</a></li>
+          </ul>
+        </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../california-therapist.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Locations<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Locations menu">
+            <li><a href="../california-therapist.html" class="nav__dropdown-link"><strong>California</strong></a></li>
+            <li><a href="../san-francisco-therapist.html" class="nav__dropdown-link">San Francisco</a></li>
+            <li><a href="../palo-alto-therapist.html" class="nav__dropdown-link">Palo Alto</a></li>
+            <li><a href="../los-angeles-therapist.html" class="nav__dropdown-link">Los Angeles</a></li>
+            <li><a href="../san-diego-therapist.html" class="nav__dropdown-link">San Diego</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../florida-therapist.html" class="nav__dropdown-link"><strong>Florida</strong></a></li>
+            <li><a href="../miami-therapist.html" class="nav__dropdown-link">Miami</a></li>
+            <li><a href="../tampa-orlando-jacksonville-therapist.html" class="nav__dropdown-link">Tampa / Orlando / Jax</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -259,6 +266,14 @@
 
   <main id="main-content">
 
+
+    <nav class="breadcrumbs breadcrumbs--article" aria-label="Breadcrumb">
+      <ol>
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog.html">Blog</a></li>
+      <li aria-current="page">Decision Fatigue in Leadership: When Small Decisions Star…</li>
+      </ol>
+    </nav>
     <!-- ARTICLE HERO -->
     <header class="article-hero">
       <div class="article-hero__inner">
@@ -316,7 +331,7 @@
         <ul class="article-list">
           <li>Irritability in the late afternoon that feels disproportionate to what's happening</li>
           <li>Defaulting to the status quo because choosing feels like too much effort</li>
-          <li>Difficulty switching off after work, where the brain stays in processing mode well into the evening</li>
+          <li><a href="founders-sleep-hypervigilance.html">Difficulty switching off after work, where the brain stays in processing mode well into the evening</a></li>
           <li>Small domestic decisions (dinner, weekend plans, which movie) feeling genuinely overwhelming</li>
           <li>Avoiding certain emails or conversations because they require a choice you don't have the bandwidth to make</li>
           <li>Increasing reliance on alcohol, mindless scrolling, or other numbing behaviors to decompress at the end of the day</li>
@@ -334,7 +349,7 @@
 
         <p>"Make fewer decisions" sounds sensible until you try to apply it to a real executive role. The volume isn't optional. "Take breaks" is genuinely good advice, but insufficient on its own. A fifteen-minute walk doesn't rebuild a system that's been running at capacity for twelve hours. Chronic decision fatigue is often the leading edge of <a href="../executive-burnout-therapy.html">executive burnout</a>, and it responds to a different kind of attention than productivity advice.</p>
 
-        <p>What these approaches miss is the underlying psychology. Decision fatigue in high-achieving leaders is often a symptom of something deeper: perfectionism that insists every decision must be optimal, not just adequate. Fear of failure that raises the emotional cost of choosing. A belief, usually unconscious, that being wrong carries more than professional consequences. It carries implications about who you are.</p>
+        <p>What these approaches miss is the underlying psychology. Decision fatigue in high-achieving leaders is often a symptom of something deeper: <a href="perfectionism-high-achievers.html">perfectionism that insists every decision must be optimal</a>, not just adequate. <a href="high-functioning-anxiety-executives.html">Fear of failure that raises the emotional cost of choosing</a>. A belief, usually unconscious, that being wrong carries more than professional consequences. It carries implications about who you are.</p>
 
         <p>When the system running the decisions is also carrying that psychological freight, no amount of structural optimization will fully solve the problem.</p>
 
@@ -369,6 +384,13 @@
 
       </div>
     </article>
+
+    <!-- BACK TO HUB -->
+    <div class="article-hub-return" style="max-width:760px;margin:0 auto;padding:32px 24px 0;">
+      <p style="margin:0;font-size:13px;color:var(--text-light);">
+        <a href="../therapy-for-founders.html" style="color:var(--gold-dark);border-bottom:1px solid rgba(196,168,130,0.4);">&larr; Back to the Founder Mental Health Hub</a>
+      </p>
+    </div>
 
     <!-- RELATED READING -->
     <div class="article-related" style="max-width:760px;margin:0 auto var(--space-5);">
@@ -453,6 +475,15 @@
             <li><a href="../blog.html" class="footer__nav-link">Blog</a></li>
             <li><a href="../contact.html" class="footer__nav-link">Contact</a></li>
             <li><a href="../faq.html#good-faith-estimate" class="footer__nav-link">Good Faith Estimate</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Recent Posts</h3>
+          <ul class="footer__nav-list">
+            <li><a href="../blog/emdr-for-executives.html" class="footer__nav-link">EMDR for executives</a></li>
+            <li><a href="../blog/founders-sleep-hypervigilance.html" class="footer__nav-link">Why founders don't sleep</a></li>
+            <li><a href="../blog/founder-mental-health.html" class="footer__nav-link">Founder mental health</a></li>
+            <li><a href="../blog/loneliness-of-leadership.html" class="footer__nav-link">The loneliness of leadership</a></li>
           </ul>
         </div>
 

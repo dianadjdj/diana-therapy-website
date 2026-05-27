@@ -2,14 +2,6 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RLYJQND9WW"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag("js", new Date());
-    gtag("config", "G-RLYJQND9WW");
-  </script>
   <link rel="icon" type="image/svg+xml" href="../favicon.svg">
   <link rel="icon" type="image/png" href="../favicon.png" sizes="32x32">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,11 +27,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Raleway:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/CustomEase.min.js" defer></script>
-  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.1/dist/lenis.min.js" defer></script>
 
   <link rel="stylesheet" href="../css/styles.css">
 
@@ -228,7 +215,7 @@
 
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
-  <nav class="nav scrolled" aria-label="Main navigation">
+    <nav class="nav scrolled" aria-label="Main navigation">
     <div class="nav__inner">
       <a href="../index.html" class="nav__logo">Diana Chu Therapy</a>
       <ul class="nav__links">
@@ -237,19 +224,39 @@
         <li class="nav__item nav__item--dropdown">
           <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
           <ul class="nav__dropdown" aria-label="Services menu">
-            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
             <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
             <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
-            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
-            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
-            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">For Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">For Executives (Burnout)</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">For Family Office Principals</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
             <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
           </ul>
         </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../blog.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Resources<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Resources menu">
+            <li><a href="../blog.html" class="nav__dropdown-link">Blog</a></li>
+            <li><a href="../guides.html" class="nav__dropdown-link">Guides</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Founder Mental Health Hub</a></li>
+          </ul>
+        </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../california-therapist.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Locations<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Locations menu">
+            <li><a href="../california-therapist.html" class="nav__dropdown-link"><strong>California</strong></a></li>
+            <li><a href="../san-francisco-therapist.html" class="nav__dropdown-link">San Francisco</a></li>
+            <li><a href="../palo-alto-therapist.html" class="nav__dropdown-link">Palo Alto</a></li>
+            <li><a href="../los-angeles-therapist.html" class="nav__dropdown-link">Los Angeles</a></li>
+            <li><a href="../san-diego-therapist.html" class="nav__dropdown-link">San Diego</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../florida-therapist.html" class="nav__dropdown-link"><strong>Florida</strong></a></li>
+            <li><a href="../miami-therapist.html" class="nav__dropdown-link">Miami</a></li>
+            <li><a href="../tampa-orlando-jacksonville-therapist.html" class="nav__dropdown-link">Tampa / Orlando / Jax</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -260,6 +267,14 @@
 
   <main id="main-content">
 
+
+    <nav class="breadcrumbs breadcrumbs--article" aria-label="Breadcrumb">
+      <ol>
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog.html">Blog</a></li>
+      <li aria-current="page">The Perfectionism Trap: When High Standards Become a Liab…</li>
+      </ol>
+    </nav>
     <!-- ARTICLE HERO -->
     <header class="article-hero">
       <div class="article-hero__inner">
@@ -320,7 +335,7 @@
 
         <h2>Decision Paralysis</h2>
 
-        <p>Perfectionism and decision fatigue are closely linked. When every choice carries the weight of needing to be optimal, the cognitive cost of deciding goes up considerably. You research longer than necessary. You second-guess after you've already committed. You delay decisions that are time-sensitive because you're waiting for more certainty that isn't coming.</p>
+        <p>Perfectionism and <a href="decision-fatigue-executives.html">decision fatigue</a> are closely linked. When every choice carries the weight of needing to be optimal, the cognitive cost of deciding goes up considerably. You research longer than necessary. You second-guess after you've already committed. You delay decisions that are time-sensitive because you're waiting for more certainty that isn't coming.</p>
 
         <p>In fast-moving environments, this pattern isn't caution. It's a liability. The cost of a delayed good decision often exceeds the cost of a slightly imperfect decision made on time. Most experienced operators know this intellectually. Perfectionism overrides the intellectual knowledge and installs a felt sense that the stakes are too high to decide without more information.</p>
 
@@ -332,7 +347,7 @@
 
         <p>This isn't what the perfectionistic person intends. In most cases, they'd be genuinely distressed to hear it described this way. But intention doesn't change impact. The same internal standards that drive excellence at work get applied, often unconsciously, to the people closest to them. A partner's cooking, a child's school performance, a family vacation that should have been planned differently. The perfectionism leaks.</p>
 
-        <p>What I want to say clearly here is that this is a pattern, and patterns are repairable. This isn't a fixed character trait. It's a learned way of managing anxiety about outcomes, and it can be unlearned.</p>
+        <p>What I want to say clearly here is that this is a pattern, and patterns are repairable. This isn't a fixed character trait. It's a learned way of <a href="high-functioning-anxiety-executives.html">managing anxiety about outcomes</a>, and it can be unlearned.</p>
 
         <h2>What Therapy for Perfectionism Actually Looks Like</h2>
 
@@ -340,7 +355,7 @@
 
         <p>Those are different things. Standards that serve your goals are flexible, outcome-oriented, and calibrated to what actually matters. Standards that serve your anxiety are rigid, process-oriented, and calibrated to avoiding the specific emotional discomfort of criticism or failure. One makes you more effective. The other just makes you feel like you're doing enough.</p>
 
-        <p>In practice, the work looks like several things. For clients where perfectionism is rooted in early experiences of conditional approval or shame, EMDR can be useful in addressing the underlying beliefs: that mistakes mean you're inadequate, that imperfection makes you unworthy. These beliefs often originated long before you were an executive, and they're running in the background of every high-stakes decision you make now.</p>
+        <p>In practice, the work looks like several things. For clients where perfectionism is rooted in early experiences of conditional approval or shame, EMDR can be useful in addressing the underlying beliefs: <a href="imposter-syndrome-executives.html">that mistakes mean you're inadequate, that imperfection makes you unworthy</a>. These beliefs often originated long before you were an executive, and they're running in the background of every high-stakes decision you make now.</p>
 
         <p>Cognitive work addresses the catastrophizing that perfectionism depends on: the automatic assumption that imperfect equals disaster, that finishing and being evaluated is more dangerous than staying in the loop of revision. We work on building a more accurate risk assessment, one that accounts for the real costs of not finishing, not deciding, not delegating.</p>
 
@@ -367,6 +382,13 @@
 
       </div>
     </article>
+
+    <!-- BACK TO HUB -->
+    <div class="article-hub-return" style="max-width:760px;margin:0 auto;padding:32px 24px 0;">
+      <p style="margin:0;font-size:13px;color:var(--text-light);">
+        <a href="../therapy-for-founders.html" style="color:var(--gold-dark);border-bottom:1px solid rgba(196,168,130,0.4);">&larr; Back to the Founder Mental Health Hub</a>
+      </p>
+    </div>
 
     <!-- RELATED READING -->
     <div class="article-related" style="max-width:760px;margin:0 auto var(--space-5);">
@@ -451,6 +473,15 @@
             <li><a href="../blog.html" class="footer__nav-link">Blog</a></li>
             <li><a href="../contact.html" class="footer__nav-link">Contact</a></li>
             <li><a href="../faq.html#good-faith-estimate" class="footer__nav-link">Good Faith Estimate</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Recent Posts</h3>
+          <ul class="footer__nav-list">
+            <li><a href="../blog/emdr-for-executives.html" class="footer__nav-link">EMDR for executives</a></li>
+            <li><a href="../blog/founders-sleep-hypervigilance.html" class="footer__nav-link">Why founders don't sleep</a></li>
+            <li><a href="../blog/founder-mental-health.html" class="footer__nav-link">Founder mental health</a></li>
+            <li><a href="../blog/loneliness-of-leadership.html" class="footer__nav-link">The loneliness of leadership</a></li>
           </ul>
         </div>
 

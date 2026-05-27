@@ -2,14 +2,6 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RLYJQND9WW"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag("js", new Date());
-    gtag("config", "G-RLYJQND9WW");
-  </script>
   <link rel="icon" type="image/svg+xml" href="../favicon.svg">
   <link rel="icon" type="image/png" href="../favicon.png" sizes="32x32">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,10 +29,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=Raleway:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/CustomEase.min.js" defer></script>
-  <script src="https://cdn.jsdelivr.net/npm/lenis@1.1.1/dist/lenis.min.js" defer></script>
   <link rel="stylesheet" href="../css/styles.css">
 
   <script type="application/ld+json">
@@ -243,7 +231,7 @@
 
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
-  <nav class="nav scrolled" aria-label="Main navigation">
+    <nav class="nav scrolled" aria-label="Main navigation">
     <div class="nav__inner">
       <a href="../index.html" class="nav__logo">Diana Chu Therapy</a>
       <ul class="nav__links">
@@ -252,19 +240,39 @@
         <li class="nav__item nav__item--dropdown">
           <a href="../services.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Services<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
           <ul class="nav__dropdown" aria-label="Services menu">
-            <li><a href="../services.html" class="nav__dropdown-link">Services Overview</a></li>
             <li><a href="../services.html#individual" class="nav__dropdown-link">Individual Therapy</a></li>
             <li><a href="../services.html#couples" class="nav__dropdown-link">Couples Therapy</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
-            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Therapy for Founders</a></li>
-            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">Executive Burnout</a></li>
-            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">Family Office Principals</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">For Founders</a></li>
+            <li><a href="../executive-burnout-therapy.html" class="nav__dropdown-link">For Executives (Burnout)</a></li>
+            <li><a href="../family-office-therapy.html" class="nav__dropdown-link">For Family Office Principals</a></li>
             <li class="nav__dropdown-divider" aria-hidden="true"></li>
             <li><a href="../consulting.html" class="nav__dropdown-link">Consulting</a></li>
           </ul>
         </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../blog.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Resources<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Resources menu">
+            <li><a href="../blog.html" class="nav__dropdown-link">Blog</a></li>
+            <li><a href="../guides.html" class="nav__dropdown-link">Guides</a></li>
+            <li><a href="../therapy-for-founders.html" class="nav__dropdown-link">Founder Mental Health Hub</a></li>
+          </ul>
+        </li>
+        <li class="nav__item nav__item--dropdown">
+          <a href="../california-therapist.html" class="nav__link nav__link--has-menu" aria-haspopup="true" aria-expanded="false">Locations<span class="nav__chevron" aria-hidden="true">&#9662;</span></a>
+          <ul class="nav__dropdown" aria-label="Locations menu">
+            <li><a href="../california-therapist.html" class="nav__dropdown-link"><strong>California</strong></a></li>
+            <li><a href="../san-francisco-therapist.html" class="nav__dropdown-link">San Francisco</a></li>
+            <li><a href="../palo-alto-therapist.html" class="nav__dropdown-link">Palo Alto</a></li>
+            <li><a href="../los-angeles-therapist.html" class="nav__dropdown-link">Los Angeles</a></li>
+            <li><a href="../san-diego-therapist.html" class="nav__dropdown-link">San Diego</a></li>
+            <li class="nav__dropdown-divider" aria-hidden="true"></li>
+            <li><a href="../florida-therapist.html" class="nav__dropdown-link"><strong>Florida</strong></a></li>
+            <li><a href="../miami-therapist.html" class="nav__dropdown-link">Miami</a></li>
+            <li><a href="../tampa-orlando-jacksonville-therapist.html" class="nav__dropdown-link">Tampa / Orlando / Jax</a></li>
+          </ul>
+        </li>
         <li><a href="../faq.html" class="nav__link">FAQ</a></li>
-        <li><a href="../blog.html" class="nav__link">Blog</a></li>
         <li><a href="../contact.html" class="nav__cta">Book a Consultation</a></li>
       </ul>
       <button class="nav__toggle" aria-label="Open navigation menu" aria-expanded="false">
@@ -275,6 +283,14 @@
 
   <main id="main-content">
 
+
+    <nav class="breadcrumbs breadcrumbs--article" aria-label="Breadcrumb">
+      <ol>
+      <li><a href="/">Home</a></li>
+      <li><a href="/blog.html">Blog</a></li>
+      <li aria-current="page">The Identity Crisis After the Exit: What Happens When Fou…</li>
+      </ol>
+    </nav>
     <!-- ARTICLE HERO -->
     <header class="article-hero">
       <div class="article-hero__inner">
@@ -309,7 +325,7 @@
 
         <p>There is a particular kind of flatness that founders describe in the weeks and months after closing a significant exit. The wire hits the account. The congratulations come in from investors, from the press, from family members who only half-understood what you were building but understood enough to know this was the goal. And somewhere in the middle of it, usually in a quiet moment, there is an absence where the feeling of success was supposed to be.</p>
 
-        <p>I've heard versions of this enough times now that I no longer treat it as a surprise. But I understand why founders are surprised by it. Everything in the cultural story about entrepreneurship says that the exit is the destination the moment you've been working toward. To feel empty, or lost, or hollowed out in the aftermath is to feel like you're failing at success. And that particular combination grief that feels inappropriate, disorientation that has no legitimate name is one of the most isolating experiences I work with.</p>
+        <p>I've heard versions of this enough times now that I no longer treat it as a surprise. But I understand why founders are surprised by it. Everything in the cultural story about entrepreneurship says that the exit is the destination the moment you've been working toward. To feel empty, or lost, or hollowed out in the aftermath is to feel like you're failing at success. And that particular combination grief that feels inappropriate, disorientation that has no legitimate name is one of the most <a href="loneliness-of-leadership.html">isolating experiences</a> I work with.</p>
 
         <h2>Why Exits Feel Hollow Even When They Go Well</h2>
 
@@ -323,7 +339,7 @@
 
         <h2>Identity Fusion: When "I Am the Founder" Becomes "I Am Nothing"</h2>
 
-        <p>Psychologists use the term <strong>identity fusion</strong> to describe the process by which an individual's sense of self becomes deeply merged with a role, a group, or a cause. In the startup context, this happens almost inevitably and it's not a weakness. It's actually what makes founders effective. The total identification with the mission, the refusal to separate "I" from "the company," is a large part of what drives the extraordinary investment of time and self that building something requires.</p>
+        <p>Psychologists use the term <strong><a href="founder-mental-health.html">identity fusion</a></strong> to describe the process by which an individual's sense of self becomes deeply merged with a role, a group, or a cause. In the startup context, this happens almost inevitably and it's not a weakness. It's actually what makes founders effective. The total identification with the mission, the refusal to separate "I" from "the company," is a large part of what drives the extraordinary investment of time and self that building something requires.</p>
 
         <p>The problem is structural: what makes you a compelling founder is exactly what makes the exit so destabilizing. The more completely your identity was organized around the company, the more complete the disruption when the company is no longer yours.</p>
 
@@ -345,7 +361,7 @@
         <p>Founder status is a specific kind of social capital in the startup ecosystem. It shapes how people interact with you, what rooms you're invited into, what authority you're assumed to carry. After the exit particularly after the transition period ends and you're no longer on the org chart that status doesn't disappear exactly, but it shifts in ways that can feel disorienting. You're a "former founder." The present tense is gone.</p>
 
         <h3>The urgency itself</h3>
-        <p>This one surprises people. Urgency, for most founders, was never just stress it was also aliveness. The high-stakes environment kept the nervous system activated in a way that felt, most of the time, like being fully engaged with the world. Without it, life can feel muted. Some founders describe it as a kind of chronic low-grade boredom that's embarrassing to admit to, because they're supposed to be grateful. They are grateful. And they're also understimulated in a way they didn't anticipate and don't know how to address.</p>
+        <p>This one surprises people. Urgency, for most founders, was never just stress it was also aliveness. The high-stakes environment <a href="founders-sleep-hypervigilance.html">kept the nervous system activated</a> in a way that felt, most of the time, like being fully engaged with the world. Without it, life can feel muted. Some founders describe it as a kind of chronic low-grade boredom that's embarrassing to admit to, because they're supposed to be grateful. They are grateful. And they're also understimulated in a way they didn't anticipate and don't know how to address.</p>
 
         <h2>Post-Exit Confusion vs. Clinical Depression</h2>
 
@@ -407,6 +423,13 @@
 
       </div>
     </article>
+
+    <!-- BACK TO HUB -->
+    <div class="article-hub-return" style="max-width:760px;margin:0 auto;padding:32px 24px 0;">
+      <p style="margin:0;font-size:13px;color:var(--text-light);">
+        <a href="../therapy-for-founders.html" style="color:var(--gold-dark);border-bottom:1px solid rgba(196,168,130,0.4);">&larr; Back to the Founder Mental Health Hub</a>
+      </p>
+    </div>
 
     <!-- RELATED READING -->
     <div class="article-related" style="max-width:760px;margin:0 auto var(--space-5);">
@@ -491,6 +514,15 @@
             <li><a href="../blog.html" class="footer__nav-link">Blog</a></li>
             <li><a href="../contact.html" class="footer__nav-link">Contact</a></li>
             <li><a href="../faq.html#good-faith-estimate" class="footer__nav-link">Good Faith Estimate</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="footer__col-heading">Recent Posts</h3>
+          <ul class="footer__nav-list">
+            <li><a href="../blog/emdr-for-executives.html" class="footer__nav-link">EMDR for executives</a></li>
+            <li><a href="../blog/founders-sleep-hypervigilance.html" class="footer__nav-link">Why founders don't sleep</a></li>
+            <li><a href="../blog/founder-mental-health.html" class="footer__nav-link">Founder mental health</a></li>
+            <li><a href="../blog/loneliness-of-leadership.html" class="footer__nav-link">The loneliness of leadership</a></li>
           </ul>
         </div>
 

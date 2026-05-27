@@ -144,6 +144,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [The Loneliness of Leadership](https://dianachutherapy.com/blog/loneliness-of-leadership.html): Why leadership loneliness is common among executives and founders, and what to do about it
 - [Do High Achievers Actually Need Therapy?](https://dianachutherapy.com/blog/do-i-need-therapy-executives.html): A direct answer for high-achievers who keep deferring therapy because they're functioning well on paper
 - [A Founder's First Therapy Session](https://dianachutherapy.com/blog/first-therapy-session-founder.html): What actually happens in a first therapy session when you're a founder, what the therapist is listening for, what they don't do, and how trust starts
+- [EMDR for Executives: When It Helps, When It Doesn't](https://dianachutherapy.com/blog/emdr-for-executives.html): A founder therapist on what EMDR actually is (the eight-phase Shapiro model, not just eye movements), when it helps with executive clients, when it doesn't, and three concrete patterns it tends to address: leadership templates laid down by an earlier boss, scarcity wired into the body, and anticipatory dread after a previous failure
 
 ## Site Pages
 
@@ -151,7 +152,8 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 - [About](https://dianachutherapy.com/about.html): Diana's background, credentials, clinical approach, Stanford GSB affiliation
 - [Services](https://dianachutherapy.com/services.html): Individual therapy, couples therapy, and telehealth details with pricing
 - [FAQ](https://dianachutherapy.com/faq.html): Fees, insurance, telehealth, confidentiality, Good Faith Estimate
-- [Blog](https://dianachutherapy.com/blog.html): Articles on executive mental health, leadership psychology, and high-performance well-being
+- [Blog](https://dianachutherapy.com/blog.html): Articles on executive mental health, leadership psychology, and high-performance well-being. Organized into four clusters: founder mental health, executive mental health, founder couples, and considering therapy
+- [Guides](https://dianachutherapy.com/guides.html): Index page for the long-form, research-backed guides
 - [Contact](https://dianachutherapy.com/contact.html): Book a free consultation
 - [Consulting](https://dianachutherapy.com/consulting.html): Consulting offering for leadership teams, family offices, and advisor networks who need a clinical perspective on the people they serve
 - [Therapy for Founders](https://dianachutherapy.com/therapy-for-founders.html): Topic hub on the patterns founders bring to therapy and how Diana works with them
@@ -170,6 +172,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 
 - [Founder Mental Health: What the Data Actually Shows](https://dianachutherapy.com/guides/founder-mental-health-statistics.html): Statistic-led pillar on founder mental health research, clinical patterns, and what moves the needle. Cites Freeman UCSF, Deloitte, Vistage, HBR, and APA; links to every related blog post on the site
 - [Best Therapist for Founders in California: What to Look For](https://dianachutherapy.com/guides/best-therapist-for-founders-california.html): Guide-format pillar on choosing a California-licensed therapist as a founder. Covers credentials, clinical depth, practice structure, red flags, cost expectations, geography, and consultation questions. Links to state and city pages, service pages, and related blog posts
+- [Business Therapist vs Regular Therapist: What Founders Should Look For](https://dianachutherapy.com/guides/business-therapist-vs-regular-therapist.html): Guide-format pillar on what a business therapist is, why business cultural competence matters clinically, the kinds of financial and structural knowledge a founder therapist should have (capital structure, debt, fundraising, governance, wealth structures), and how to test for it in a first session. Cites APA Multicultural Guidelines, Norcross & Wampold on therapeutic alliance, Freeman's UCSF founder mental health research, Goldbart & DiFuria on sudden wealth syndrome, Klontz on money scripts, and Tervalon & Murray-García on cultural humility
 
 ## Public Profiles and Verification
 
