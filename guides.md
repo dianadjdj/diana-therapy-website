@@ -1,4 +1,4 @@
-# In-Depth Guides | Founder Mental Health & Therapy | Diana Chu, LMFT
+# In-Depth Guides | Founder Mental Health | Diana Chu, LMFT
 
 > Long-form research-backed guides on founder mental health, choosing the right therapist, and what business-cultural competence looks like in a clinician.
 
