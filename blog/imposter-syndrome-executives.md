@@ -85,6 +85,20 @@ You built something real. You made decisions under genuine uncertainty that work
 
 You won't fully believe that until you've done the work to understand why you can't. That's not a criticism. It's just an honest description of how this particular thing gets better.
 
+## Common questions about executive imposter syndrome
+
+### What is executive imposter syndrome?
+
+Psychologists Pauline Clance and Suzanne Imes first described it in 1978: a persistent internalized fear of being exposed as fraudulent, despite clear external evidence of competence. The operative word is despite. The evidence is there. It just doesn't register the way logic says it should. That's why making a list of your accomplishments, a common piece of advice, doesn't touch it. You already know the accomplishments. The syndrome isn't about forgetting them.
+
+### Why does imposter syndrome get worse with success?
+
+Each promotion raises the stakes of being wrong and expands the comparison pool to people who are also extraordinary. Successes get attributed to context, timing, resources, and team, while failures feel like unambiguous evidence about you. The win goes to the tailwind. The loss goes to the self. Over time, every good outcome becomes further proof that you've fooled them again and that the moment of reckoning is just ahead.
+
+### How does imposter syndrome show up in executives and founders?
+
+The founder who closes a Series B and immediately starts worrying that investors will figure out they overpaid. The new C-suite executive who over-prepares for every board meeting because being caught without an answer feels catastrophic. Success paralysis, where a major win raises the bar so high that the next attempt feels too risky. And silence, because executives with imposter syndrome are often the last to name it. Naming it feels like the very exposure they're afraid of.
+
 ## References
 
 1. Clance, P. R., & Imes, S. A. (1978). The Impostor Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention. *Psychotherapy: Theory, Research & Practice*, 15(3), 241-247.

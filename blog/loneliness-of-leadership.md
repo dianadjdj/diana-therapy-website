@@ -79,6 +79,20 @@ The executives I work with who describe the most significant change in their qua
 
 Leadership loneliness doesn't have to be permanent. But naming it is the first step, and most executives skip it.
 
+## Common questions about the loneliness of leadership
+
+### Why is leadership so lonely?
+
+The isolation is built into the architecture of senior leadership. You can't be fully honest with your board; they need confidence in your leadership. You can't be fully honest with your team; they need psychological safety from you, not the other way around. Peers at your level are often competitors, and friends from before the role don't fully relate anymore. This isn't a personal failing. It's the job description.
+
+### What is the performance of certainty?
+
+Walking into a board meeting projecting clarity you may not fully feel. Giving the all-hands address with conviction about a direction that privately keeps you up at night. The performance isn't dishonest; it's part of the job. But when it becomes the only mode available, when you can't turn it off at home and can't find anyone who has earned the real version of you, it stops being a professional skill and starts being a prison.
+
+### What does sustained leadership isolation do over time?
+
+Irritability increases, and what's left of your patience gets directed at the people closest to you. Affect flattens: things that should feel meaningful start to feel neutral. Presence at home suffers, because dropping the guard is a skill that stops being available on demand when you haven't practiced it. And underneath it all, a quiet but persistent sense that no one really knows you, that even people who love you are responding to the role rather than the person.
+
 ## References
 
 1. Saporito, T. J. (2012, February 15). It's Time to Acknowledge CEO Loneliness. *Harvard Business Review*.

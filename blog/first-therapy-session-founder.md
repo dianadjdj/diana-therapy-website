@@ -75,6 +75,20 @@ The first session is not a diagnostic appointment, and it is not an intake. What
 
 If the first session is doing its job, it will feel a little strange, a little slow, and slightly less performed than the conversations the founder is usually having. They will leave not with a plan or a technique, but with a small amount of evidence that there is a place in their week that does not require them to be in charge. That evidence is what the rest of the work is built on.
 
+## Common questions about the first therapy session
+
+### What happens in a first therapy session?
+
+Most founders open with a tight, well-organized summary of the company, the co-founders, and the current pressure. I don't interrupt. I pay attention to the rhythm more than the content: where they slow down, where they speed up, which moments they covered in one sentence that their body language said was twenty. That gap is where the work starts.
+
+### Does the therapist give advice or homework in the first session?
+
+No advice, and no homework yet. No worksheets, no mood tracking on a scale of one to ten, no breathing technique on the first call. Leading with technique tends to reinforce the part of a founder's mind that wants to optimize around the feeling rather than feel it. There is also no hundred-question intake. Founders are already surrounded by people asking them questions; the first session works better when there is room for them to hear themselves think.
+
+### How does trust with a therapist actually develop?
+
+Trust in therapy does not come from credentials. It comes from the founder's nervous system deciding, over the course of a session, that the therapist is not going to minimize what they're saying, rush to reassurance, try to fix what isn't ready to be fixed, or position themselves above them. Founders are sensitive readers of these moves. They can feel when someone is performing care rather than giving it.
+
 ## References
 
 1. Horvath, A. O., Del Re, A. C., Flückiger, C., & Symonds, D. (2011). Alliance in individual psychotherapy. *Psychotherapy*, 48(1), 9-16.

@@ -79,6 +79,20 @@ And there's a practice dimension. Learning to tolerate the specific discomfort o
 
 High standards are worth keeping. The fear underneath the perfectionism, the fear that drives the endless revision and the inability to delegate and the moving goalposts, that's worth examining.
 
+## Common questions about perfectionism in leaders
+
+### What is the difference between adaptive and maladaptive perfectionism?
+
+Adaptive perfectionism involves high standards that motivate real effort, treat mistakes as information rather than verdicts, and allow work to be finished. Maladaptive perfectionism sets standards so high that finishing feels inherently risky, because finished work can be evaluated and found lacking. Mistakes feel catastrophic, and the pursuit of perfect consistently blocks good. Most high achievers start in the adaptive zone and drift toward maladaptive territory under sustained pressure.
+
+### Why do perfectionist leaders struggle to delegate?
+
+When your internal benchmark for quality is calibrated to your own peak performance, very few people can meet it. The leader becomes the bottleneck in their own company: decisions slow down, and people stop bringing their best thinking because they've learned it will be revised or redone. The pattern reinforces itself. The leader doesn't delegate, so the team doesn't develop. Because the team hasn't developed, the leader has even less confidence in delegating.
+
+### How does perfectionism cause decision paralysis?
+
+When every choice carries the weight of needing to be optimal, the cognitive cost of deciding goes up considerably. You research longer than necessary. You second-guess after you've already committed. You delay time-sensitive decisions waiting for certainty that isn't coming. In fast-moving environments this isn't caution, it's a liability: the cost of a delayed good decision often exceeds the cost of a slightly imperfect decision made on time.
+
 ## References
 
 1. Curran, T., & Hill, A. P. (2019). Perfectionism is increasing over time: A meta-analysis of birth cohort differences from 1989 to 2016. *Psychological Bulletin*, 145(4), 410-429.

@@ -111,6 +111,20 @@ The goal is not to help you do more. It's to help you figure out what's worth do
 
 That's slower work than most founders are accustomed to. It requires sitting with uncertainty in a way that building something rarely does. But the founders who do it who take the post-exit period seriously as a time for genuine reflection rather than immediate redeployment tend to build the next chapter with considerably more intentionality, and considerably less regret.
 
+## Common questions about founder identity after an exit
+
+### Why do founders feel empty after a successful exit?
+
+On paper, what you've lost is a company. In practice, what you've lost is a central organizing structure for your entire life: the reason you woke up with urgency, the container for your ambitions, your sense of being needed and useful. When ownership transfers, even on excellent terms, all of that goes with it. The money stays. The identity doesn't.
+
+### What is identity fusion in founders?
+
+Identity fusion is the process by which a person's sense of self becomes deeply merged with a role, a group, or a cause. In the startup context this happens almost inevitably, and it's not a weakness. The total identification with the mission is a large part of what drives the extraordinary investment that building something requires. The problem is structural: the more completely your identity was organized around the company, the more complete the disruption when the company is no longer yours.
+
+### When does post-exit disorientation hit hardest?
+
+Often two or three months after the transaction, when the close, the transition period, and the media attention have faded and the dust has settled. That's when the question arrives with real weight: who am I now? For founders who have never had to answer that question independent of the company, it's genuinely destabilizing. Not because they're fragile, but because they never had cause to build an identity architecture that didn't have the company at its center.
+
 ## References
 
 1. Ebaugh, H. R. F. (1988). *Becoming an Ex: The Process of Role Exit*. University of Chicago Press.

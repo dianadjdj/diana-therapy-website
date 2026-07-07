@@ -80,6 +80,20 @@ Therapy offers a specific kind of value here. Not productivity coaching. Not a b
 
 What it looks like when that work takes hold: decisions made from clarity rather than from a depleted, vigilant, fear-adjacent state. A sense of equanimity around choices that used to feel heavy. The ability to actually turn off at the end of the day because the system has genuinely recovered, not just numbed.
 
+## Common questions about decision fatigue
+
+### What is decision fatigue?
+
+Decision fatigue is the depletion of the brain's shared capacity for self-regulation, deliberate choice, and willpower. Every decision draws from the same finite pool, whether it involves a billion-dollar strategic call or a lunch order. By the end of a high-volume decision day, the prefrontal cortex, the region responsible for complex reasoning, impulse control, and judgment, is running on fumes. A depleted brain defaults to two strategies: the safe choice, or no choice at all.
+
+### Why does decision fatigue get worse the more senior you become?
+
+Your team resolves the straightforward decisions, so everything that reaches your desk is there because it couldn't be resolved below you. What you receive, all day, is the hard residue. The weight per decision also increases with seniority: at the executive level your decisions touch people's livelihoods, investors' returns, and customers' outcomes. And recovery time compresses, because executives often move from one high-stakes conversation directly into the next with no bandwidth to reset in between.
+
+### What are the signs of decision fatigue in executives?
+
+Irritability in the late afternoon that feels disproportionate to what's happening. Defaulting to the status quo because choosing feels like too much effort. Difficulty switching off after work. Small domestic decisions feeling genuinely overwhelming. Avoiding emails or conversations because they require a choice you don't have the bandwidth to make. Increasing reliance on alcohol or mindless scrolling to decompress. These tend to get dismissed as normal features of a demanding job rather than recognized as signals worth paying attention to.
+
 ## References
 
 1. Pignatiello, G. A., Martin, R. J., & Hickman Jr, R. L. (2020). Decision fatigue: A conceptual analysis. *Journal of Health Psychology*, 25(1), 123-135.

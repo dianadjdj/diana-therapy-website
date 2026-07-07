@@ -87,6 +87,20 @@ Most founders who do successful EMDR do not become different people. The same pe
 
 These changes are quiet. That is most of what makes the modality worth the trouble. When EMDR works for a founder, the loops stop existing rather than getting easier to live with.
 
+## Common questions about EMDR for executives
+
+### What is EMDR?
+
+EMDR is a structured, eight-phase psychotherapy developed by Francine Shapiro in 1989. The bilateral eye movements or tactile stimulation are the most visible piece, but they sit on top of a much larger therapeutic process. The other seven phases, including resource installation, targeting, body scanning, and closure, are doing most of the actual work.
+
+### Is EMDR only for trauma?
+
+No. The Adaptive Information Processing model that EMDR sits on treats unprocessed material more broadly than the colloquial definition of trauma allows for. It includes experiences that have shaped how a person responds to the present even when they would not register as trauma to the person who lived through them: a funding round that fell through and still affects how you enter meetings, a co-founder departure that ended cleanly on paper and never resolved.
+
+### When does EMDR help founders and executives?
+
+Three patterns come up most. When a current reaction is clearly out of proportion to its trigger. When a specific event has lodged itself in the body and is not being moved by talking about it. And when a founder has done significant insight work and remains stuck on the same pattern: the understanding has already happened, and what is needed is a re-integration that the talking did not produce on its own.
+
 ## References
 
 1. Shapiro, F. (2018). *Eye Movement Desensitization and Reprocessing (EMDR) Therapy: Basic Principles, Protocols, and Procedures* (3rd ed.). The Guilford Press.

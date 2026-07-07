@@ -91,6 +91,20 @@ You don't need to be in crisis to come. You don't need a diagnosis. You don't ne
 
 If any of what you've read here sounds familiar, it probably is. And familiar is enough to start. If you're curious what the first hour actually feels like before you decide, [here's what a founder's first therapy session actually looks like](first-therapy-session-founder.html).
 
+## Common questions about starting therapy as an executive
+
+### How do I know if I need therapy as an executive?
+
+The question isn't whether things are bad enough to warrant help. That framing assumes therapy is triage, a last resort for people who've run out of other options. The real question is whether your current psychological state is the one you want to be operating from, and whether your patterns are serving you or costing you. The executives who benefit most from therapy aren't the ones who hit rock bottom. They're the ones who noticed the drift early enough to do something about it.
+
+### Do I need to be in crisis to start therapy?
+
+No. People rarely walk in saying they need therapy. They say things like: I've been irritable with my family in a way I'm not proud of. I can't remember the last time I felt genuinely excited about something. I'm doing everything right on paper and I feel nothing. None of these are crises. All of them are worth talking about, and in most cases the person had spent months or years deciding they didn't quite qualify for help.
+
+### What is the cost of waiting to start therapy?
+
+Most people who eventually come to therapy say they wish they'd come sooner, because the patterns they came in with had calcified. Psychological patterns are easier to work with early, before they've been reinforced for another five years. The irritability that started as stress becomes the way you relate to your family. The numbness that started as protection becomes the way you move through work you once cared about.
+
 ## References
 
 1. American Psychological Association. *Understanding psychotherapy and how it works*.

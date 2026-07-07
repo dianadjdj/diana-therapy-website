@@ -92,6 +92,20 @@ Telehealth dramatically increases consistency for the executives I work with. Th
 
 [If you've been thinking about therapy](do-i-need-therapy-executives.html) and the logistics have been the obstacle, I'd encourage you to take that obstacle seriously. It's not a minor thing. The friction between where you are and where you're trying to go matters. Telehealth removes most of it.
 
+## Common questions about telehealth therapy
+
+### Is telehealth therapy as effective as in-person therapy?
+
+For the vast majority of concerns, including anxiety, depression, burnout, relationship difficulties, and stress management, telehealth therapy is clinically equivalent to in-person care. Meta-analyses covering tens of thousands of patients have found no meaningful difference in outcomes, and the therapeutic alliance, the single strongest predictor of outcomes in therapy, develops just as effectively over video. The narrow exceptions are certain trauma treatments that rely on specific somatic techniques and situations of acute psychiatric crisis.
+
+### How much time does telehealth therapy actually save?
+
+An in-person appointment costs a busy executive somewhere between two and three hours once you account for travel, parking, waiting room time, the session itself, return travel, and mental re-entry into work mode. With telehealth, a fifty-minute session is about fifty-five minutes: the session, plus five minutes to close the laptop, open the link, and settle in.
+
+### Is telehealth therapy private and secure?
+
+Telehealth is structurally private in a way in-person care can't be. There is no waiting room, and no one sees you arrive or leave. Sessions run on a HIPAA-compliant video platform, the same standard of security that healthcare providers are legally required to use for protected health information. For high-profile professionals, this is often the thing that makes the difference between doing therapy and not.
+
 ## References
 
 1. American Psychological Association (2013). Guidelines for the practice of telepsychology. *American Psychologist*, 68(9), 791-800.
