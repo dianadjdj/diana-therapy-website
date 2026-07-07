@@ -97,7 +97,7 @@ per 50-min session
 
 For dual-career couples and co-founders whose relationship has taken a back seat to everything else. We use the Gottman Method to work through real communication and connection problems, not just manage conflict.
 
-$500
+$530
 
 per 50-min session
 
