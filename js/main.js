@@ -460,6 +460,8 @@ function initExitIntent() {
     sessionStorage.setItem('exit-popup-shown', '1');
     popup.classList.add('visible');
     document.body.style.overflow = 'hidden';
+    // Move keyboard focus into the dialog so it's reachable and dismissible
+    popup.querySelector('.exit-popup__close')?.focus();
   }
 
   function closePopup() {
@@ -478,6 +480,7 @@ function initExitIntent() {
   }, 45000);
 
   popup.querySelector('.exit-popup__close')?.addEventListener('click', closePopup);
+  // Native <button> handles Enter/Space keyboard activation on its own
   popup.querySelector('.exit-popup__dismiss')?.addEventListener('click', closePopup);
   popup.querySelector('.exit-popup__backdrop')?.addEventListener('click', closePopup);
 

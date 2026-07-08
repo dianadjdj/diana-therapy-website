@@ -20,13 +20,15 @@
 
   /* Accent */
   --gold:        #C4A882;
-  --gold-dark:   #8B7355;
+  --gold-dark:   #786246; /* darkened from #8B7355 for WCAG AA contrast on light backgrounds */
   --gold-glow:   rgba(196, 168, 130, 0.15);
 
   /* Text */
   --text:        #3D3020;
+  --text-mid:    #5C4C39; /* defined: was referenced but missing, caused inherited fallback */
   --text-light:  #7A6850;
-  --text-xlight: #A89880;
+  --text-xlight: #726249; /* darkened from #A89880 for WCAG AA contrast */
+  --taupe-light: #A89880; /* defined: used for decorative breadcrumb separators */
   --white:       #FFFFFF;
 
   /* Typography */
@@ -1404,7 +1406,7 @@ h1, h2, h3, h4 {
   margin-top: var(--space-4);
   font-family: var(--font-sans);
   font-size: 12px;
-  color: rgba(245, 240, 234, 0.35);
+  color: rgba(245, 240, 234, 0.55); /* raised from 0.35 for WCAG AA contrast */
 }
 
 /* === FOOTER === */
@@ -1500,7 +1502,7 @@ h1, h2, h3, h4 {
 .footer__copy {
   font-family: var(--font-sans);
   font-size: 12px;
-  color: rgba(245, 240, 234, 0.3);
+  color: rgba(245, 240, 234, 0.5); /* raised from 0.3 for WCAG AA contrast */
 }
 .footer__legal {
   display: flex;
@@ -1509,10 +1511,10 @@ h1, h2, h3, h4 {
 .footer__legal-link {
   font-family: var(--font-sans);
   font-size: 12px;
-  color: rgba(245, 240, 234, 0.3);
+  color: rgba(245, 240, 234, 0.5); /* raised from 0.3 for WCAG AA contrast */
   transition: color var(--dur-micro) var(--ease-quick);
 }
-.footer__legal-link:hover { color: rgba(245, 240, 234, 0.6); }
+.footer__legal-link:hover { color: rgba(245, 240, 234, 0.8); }
 
 @media (max-width: 900px) {
   .footer__top {
@@ -2838,6 +2840,7 @@ h1, h2, h3, h4 {
 }
 .exit-popup__dismiss {
   display: block;
+  width: 100%;
   margin-top: 16px;
   font-size: 11px;
   color: var(--text-xlight);
