@@ -89,7 +89,7 @@ Seeking support isn't a sign you're not cut out for your role. It's a sign you t
 
 You don't need to be in crisis to come. You don't need a diagnosis. You don't need to have the answer to the question "what am I even trying to fix?" You just need to notice that something isn't the way you'd want it to be, and decide that's worth an hour of your time to explore.
 
-If any of what you've read here sounds familiar, it probably is. And familiar is enough to start. If you're curious what the first hour actually feels like before you decide, [here's what a founder's first therapy session actually looks like](first-therapy-session-founder.html).
+If any of what you've read here sounds familiar, it probably is. And familiar is enough to start. If you're still weighing it, the [considering therapy primer](../considering-therapy.html) covers the four questions most people ask before booking. If you're curious what the first hour actually feels like before you decide, [here's what a founder's first therapy session actually looks like](first-therapy-session-founder.html).
 
 ## Common questions about starting therapy as an executive
 

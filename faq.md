@@ -9,7 +9,7 @@ FAQ
 
 ## Frequently Asked Questions
 
-Everything you need to know before reaching out. Don't see your question? [Send a message.](contact.html)
+Everything you need to know before reaching out. Still weighing whether to start at all? The [considering therapy primer](considering-therapy.html) is a better place to begin. Don't see your question? [Send a message.](contact.html)
 
 ## Getting Started
 

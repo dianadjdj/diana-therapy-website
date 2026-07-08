@@ -70,7 +70,7 @@ One thing worth knowing: the session format itself doesn't change. We're not exc
 
 ## A Note on Licensing
 
-Therapy licensure in the United States is governed at the state level, which means a licensed therapist can only see clients who are physically located in states where they hold a license. I'm licensed in California and Florida which means I can work with you if you're physically located in either state, regardless of where you're originally from or where you're headquartered.
+Therapy licensure in the United States is governed at the state level, which means a licensed therapist can only see clients who are physically located in states where they hold a license. I'm licensed in California and Florida which means I can work with you if you're physically located in either state, regardless of where you're originally from or where you're headquartered. The [locations overview](../locations.html) breaks down how that works across both states and the cities within them.
 
 This comes up occasionally with clients who travel frequently. The rule is straightforward: what matters is where you are physically located during the session, not where your company is based or where you primarily live. If you're in California or Florida when we meet, we're in compliance.
 

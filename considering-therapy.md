@@ -21,6 +21,8 @@ The high achievers I work with usually spent months or years dismissing that que
 
 This page is for that moment. The four reads below cover what people in this position usually want to know.
 
+![A gravel path curving through trees into soft morning sunlight](images/considering-doorway.jpg)
+
 The Four Questions
 
 ## What People Actually Ask Before Booking.
@@ -33,6 +35,8 @@ The Four Questions
 | [Does telehealth actually work?](blog/telehealth-therapy-executives.html) | The research on outcomes, the practical time math for executives, and why the format that gets used is the one that gets results. |
 
 If you already know therapy is for you and want the topic map of what we would actually work on, see the [founder mental health hub](therapy-for-founders.html). For the research on why founder mental health is structurally different, see [what the data actually shows](guides/founder-mental-health-statistics.html).
+
+![A person standing in silhouette at a tall window, looking out over a hazy city skyline](images/considering-window.jpg)
 
 A Note on Threshold
 

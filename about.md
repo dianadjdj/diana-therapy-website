@@ -25,7 +25,7 @@ I hold a Master of Arts in Counseling Psychology from the California Institute o
 
 I also serve as an Interpersonal Dynamics Facilitator at Stanford University Graduate School of Business, working with MBA students and executives on emotional intelligence, communication, and self-awareness. That work gives me a close view of how high-achieving people actually function under pressure, in groups, and in relationships.
 
-Before building my private practice, I worked as an advisor to mental health tech startups. I understand the specific rhythm of building, the loneliness of leadership, and the psychological cost of decisions that affect other people's lives. You won't need to explain your world from scratch.
+Before building my private practice, I worked as an advisor to mental health tech startups. I understand the specific rhythm of building, the loneliness of leadership, and the psychological cost of decisions that affect other people's lives. You won't need to explain your world from scratch. That background also informs the [supervision, consultation, and corporate wellness](consulting.html) work I take on alongside my clinical practice.
 
 ## How I Work
 

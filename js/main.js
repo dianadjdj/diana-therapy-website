@@ -93,7 +93,7 @@ function initMobileNav() {
   const toggle = document.querySelector('.nav__toggle');
   if (!nav || !toggle) return;
 
-  const isMobile = () => window.matchMedia('(max-width: 900px)').matches;
+  const isMobile = () => window.matchMedia('(max-width: 1000px)').matches;
 
   toggle.addEventListener('click', () => {
     const open = nav.classList.toggle('mobile-open');

@@ -162,6 +162,15 @@ The data is clear: relationship instability is one of the top predictors of foun
 
 [Read Article →](blog/couples-therapy-founders.html)
 
+Founder Life
+July 2026
+
+### [Co-founder Conflict Is a Relationship Problem](blog/cofounder-conflict.html)
+
+Co-founder disputes get argued like strategy disagreements and behave like marriage problems. What actually drives the conflict, and what repair takes.
+
+[Read Article →](blog/cofounder-conflict.html)
+
 Cluster
 
 ## Considering therapy.

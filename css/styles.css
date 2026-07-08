@@ -243,6 +243,7 @@ h1, h2, h3, h4 {
   font-size: 18px;
   font-weight: 400;
   letter-spacing: 0.02em;
+  white-space: nowrap;
   color: var(--cream);
   transition: color var(--dur-fast) var(--ease);
 }
@@ -283,6 +284,7 @@ h1, h2, h3, h4 {
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
+  white-space: nowrap;
   padding: 12px 28px;
   border: 1px solid rgba(245, 240, 234, 0.5);
   color: var(--cream);
@@ -398,7 +400,12 @@ h1, h2, h3, h4 {
 .nav__toggle.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
 .nav__toggle.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
-@media (max-width: 900px) {
+@media (max-width: 1180px) {
+  .nav__links { gap: 22px; }
+  .nav__cta { padding: 12px 16px; }
+}
+
+@media (max-width: 1000px) {
   .nav { padding: 0 20px; }
   .nav__toggle { display: flex; }
   .nav__links {
@@ -1024,6 +1031,72 @@ h1, h2, h3, h4 {
   gap: 24px;
   padding: var(--space-7) 0;
 }
+/* Full-bleed image band — breaks up long-form text sections */
+.image-band {
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  background: var(--dark);
+}
+.image-band img {
+  width: 100%;
+  height: clamp(260px, 38vw, 440px);
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+.image-band figcaption {
+  max-width: var(--max-width);
+  margin: 12px auto 0;
+  padding: 0 40px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--text-light);
+}
+@media (max-width: 768px) {
+  .image-band img { height: clamp(200px, 46vw, 300px); }
+  .image-band figcaption { padding: 0 20px; }
+}
+
+/* Guide cards — index cards with a hero image above the text */
+.guide-card {
+  display: block;
+  background: var(--cream);
+  border-left: 3px solid var(--gold);
+  border-radius: 1px;
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  transition: transform var(--dur-fast) var(--ease), box-shadow var(--dur-fast) var(--ease);
+}
+.guide-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(44, 36, 22, 0.12);
+}
+.guide-card__image {
+  height: 190px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--dark);
+}
+.guide-card__body {
+  padding: 30px 36px 36px;
+}
+
+/* In-article prose links — make them visibly clickable (base <a> inherits body color) */
+.article-body__inner p a:not([class]),
+.article-body__inner li a:not([class]) {
+  color: var(--gold-dark);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+.article-body__inner p a:not([class]):hover,
+.article-body__inner li a:not([class]):hover {
+  color: var(--dark);
+}
+
 .editorial-img {
   position: relative;
   overflow: hidden;
@@ -1698,7 +1771,12 @@ h1, h2, h3, h4 {
 .service-sticky .btn {
   width: 100%;
   justify-content: center;
-  white-space: nowrap;
+  flex-wrap: wrap;
+  text-align: center;
+  white-space: normal;
+  padding: 15px 18px;
+  letter-spacing: 0.1em;
+  line-height: 1.4;
   margin-top: var(--space-4);
 }
 .service-main h2 {

@@ -100,7 +100,7 @@ In-Depth Guides
 
 ## For Founders Doing the Research.
 
-Two comprehensive guides for founders who want more than a short blog read. The first reviews the research behind founder mental health. The second walks through how to actually find a therapist who fits.
+Two comprehensive guides for founders who want more than a short blog read. The first reviews the research behind founder mental health. The second walks through how to actually find a therapist who fits. Both, along with the comparison guide on business versus general therapists, are indexed on the [guides page](guides.html).
 
 [Research Review  ·  14 min read
 
@@ -121,7 +121,7 @@ How the Work Happens
 
 ## The Approach.
 
-Sessions are 50 minutes, weekly or bi-weekly, by secure video. The pace depends on what you are working on. Some founders come in with a specific event they want to process, a botched fundraising call, a co-founder blowup, a year the runway got tight, and we use EMDR to work through it directly. That work is fast, structured, and often surprising in how much it changes what you carry into the next week.
+Sessions are 50 minutes, weekly or bi-weekly, by secure video. The pace depends on what you are working on. Some founders come in with a specific event they want to process, a botched fundraising call, a [co-founder blowup](blog/cofounder-conflict.html), a year the runway got tight, and we use EMDR to work through it directly. That work is fast, structured, and often surprising in how much it changes what you carry into the next week.
 
 Other founders come in because the pattern is chronic, not acute. The nervous system has been running in alert mode for years. The identity has fused with the company. The internal voice is relentless. For that kind of work, the repetition matters. The change comes from having a reliable place in your week where you are not performing, not pitching, not managing. Over months, your system starts to trust that place, and the baseline shifts.
 

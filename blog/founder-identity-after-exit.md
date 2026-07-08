@@ -93,7 +93,7 @@ The founders I work with who get through this transition most effectively are th
 
 ## What Therapy Helps With
 
-The specific value of [therapy for founders](../therapy-for-founders.html) after an exit is not crisis intervention. Most of these founders are not in crisis. It's the provision of a structured, confidential space to do the kind of reflective work that the previous years didn't allow for, with someone who has enough context to hold the complexity of what's actually happening.
+The specific value of [therapy for founders](../therapy-for-founders.html) after an exit is not crisis intervention. Most of these founders are not in crisis. It's the provision of a structured, confidential space to do the kind of reflective work that the previous years didn't allow for, with someone who has enough context to hold the complexity of what's actually happening. For founders whose post-exit life becomes managing significant family wealth, [therapy for family office principals](../family-office-therapy.html) addresses that specific version of the transition.
 
 ### Processing the relational losses
 
