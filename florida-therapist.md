@@ -11,11 +11,11 @@ Florida
 
 Telehealth therapy across the state. All sessions are virtual, so geography shapes context, not access.
 
-### [Miami & South Florida](miami-therapist.html)
+## [Miami & South Florida](miami-therapist.html)
 
 Founders and executives in Miami's fintech, crypto, and venture scenes, along with relocated leaders from New York, San Francisco, and Los Angeles.
 
-### [Tampa, Orlando, Jacksonville, and the Rest of Florida](tampa-orlando-jacksonville-therapist.html)
+## [Tampa, Orlando, Jacksonville, and the Rest of Florida](tampa-orlando-jacksonville-therapist.html)
 
 Executives across Tampa's professional services and healthcare industries, Orlando's tech and tourism leadership, Jacksonville's corporate community, and smaller cities across the state. One Florida license covers all of it.
 

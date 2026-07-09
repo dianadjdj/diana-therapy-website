@@ -19,14 +19,14 @@
   --dark-light:  #554534;
 
   /* Accent */
-  --gold:        #C4A882;
-  --gold-dark:   #786246; /* darkened from #8B7355 for WCAG AA contrast on light backgrounds */
+  --gold:        #C4A882; /* decorative only. 2.0:1 on cream. Never use for text. */
+  --gold-dark:   #766044; /* text-safe gold. 4.64:1 on --linen, the darkest light surface. Check contrast against --linen, not --warm-white. */
   --gold-glow:   rgba(196, 168, 130, 0.15);
 
   /* Text */
   --text:        #3D3020;
   --text-mid:    #5C4C39; /* defined: was referenced but missing, caused inherited fallback */
-  --text-light:  #7A6850;
+  --text-light:  #736149; /* 4.62:1 on --linen */
   --text-xlight: #726249; /* darkened from #A89880 for WCAG AA contrast */
   --taupe-light: #A89880; /* defined: used for decorative breadcrumb separators */
   --white:       #FFFFFF;
@@ -925,7 +925,7 @@ h1, h2, h3, h4 {
   font-family: var(--font-serif);
   font-size: 13px;
   font-style: italic;
-  color: var(--gold);
+  color: var(--gold-dark);
   padding-top: 6px;
 }
 .service-item__body {}
@@ -1752,7 +1752,7 @@ h1, h2, h3, h4 {
 .service-sticky__price-label {
   font-family: var(--font-sans);
   font-size: 11px;
-  color: rgba(245, 240, 234, 0.5);
+  color: rgba(245, 240, 234, 0.55); /* 4.6:1 on --dark */
   margin-bottom: var(--space-4);
 }
 .service-sticky__details {
@@ -1806,6 +1806,7 @@ h1, h2, h3, h4 {
   background: rgba(196, 168, 130, 0.06);
   border-top: 2px solid var(--gold);
 }
+.service-feature h2,
 .service-feature h3 {
   font-size: 16px;
   margin-bottom: var(--space-1);

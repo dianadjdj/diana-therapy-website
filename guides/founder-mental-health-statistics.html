@@ -178,7 +178,7 @@
       margin: 36px 0 14px;
     }
     .article-body__inner strong { color: var(--text); font-weight: 500; }
-    .article-body__inner a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+    .article-body__inner a:not(.btn) { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
     .article-body__inner a:hover { color: var(--dark); }
 
     .article-pullquote {
@@ -551,7 +551,7 @@
               What is the source of the 72% statistic on founder mental health?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Michael A. Freeman's 2015 UCSF working paper, <em>Are Entrepreneurs "Touched with Fire?"</em>, based on a survey of 242 entrepreneurs and 93 comparison subjects. A peer-reviewed expansion of this work was published in <em>Small Business Economics</em> in 2019.</p>
               </div>
@@ -563,7 +563,7 @@
               Are founder mental health statistics likely accurate?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>They are likely underestimates. Self-reported mental health data is prone to under-reporting, especially in populations with high stigma around appearing weak. The methodology is solid. The ceiling on those numbers sits higher than what surveys capture.</p>
               </div>
@@ -575,7 +575,7 @@
               Is entrepreneurship bad for mental health, or do people with certain profiles become entrepreneurs?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Both, and they compound. The research supports selection effects: people with certain psychological profiles are more likely to found companies. It also supports exposure effects: the structural conditions of founding produce additional mental health risk. These two pressures compound over the arc of a founder's career.</p>
               </div>
@@ -587,7 +587,7 @@
               Does therapy actually work for founders, or is it too generalized to help?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Evidence-based therapy works for the conditions founders most often present with: anxiety, depression, burnout, traumatic stress. What founders additionally need is a therapist who understands the context, because generalist work requires too much time spent explaining the terrain.</p>
               </div>
@@ -599,7 +599,7 @@
               How do I know if what I am experiencing is serious enough to warrant therapy?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>The framing of "serious enough" is the problem. Most founders reach a point where they are underperforming relative to what they could be doing. The threshold is whether there is a pattern you keep hitting that you cannot move on your own, not whether you are in crisis.</p>
               </div>
@@ -611,7 +611,7 @@
               How do I find a therapist who specializes in founder mental health?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Look for a licensed therapist with direct clinical experience working with entrepreneurs and executives, a private-pay structure that avoids insurance records, and familiarity with the specific structural conditions of founding a company. See the companion guide: <a href="best-therapist-for-founders-california.html">Best Therapist for Founders in California: What to Look For</a>.</p>
               </div>
@@ -728,6 +728,7 @@
         <p class="footer__copy">&copy; 2026 Diana Chu Therapy. All rights reserved.</p>
         <nav class="footer__legal" aria-label="Legal links">
           <a href="../privacy-policy.html" class="footer__legal-link">Privacy Policy</a>
+          <a href="../accessibility.html" class="footer__legal-link">Accessibility</a>
           <a href="../terms-of-service.html" class="footer__legal-link">Terms of Service</a>
           <a href="../faq.html#good-faith-estimate" class="footer__legal-link">Good Faith Estimate</a>
         </nav>

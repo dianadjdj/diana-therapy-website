@@ -35,7 +35,7 @@ Most regular therapists do not have this competence. The operating world is its 
 
 ## Regular therapist vs business therapist: a quick comparison
 
-|  | Regular therapist | Business therapist (founder-focused) |
+| Point of comparison | Regular therapist | Business therapist (founder-focused) |
 | --- | --- | --- |
 | Clinical license | Standard graduate licensure (LMFT, LCSW, LPCC, PsyD, MD) | Same standard licensure |
 | Familiarity with finance, fundraising, governance, and wealth structures | Variable, often limited | Working familiarity expected |

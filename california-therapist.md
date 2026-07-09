@@ -11,19 +11,19 @@ California
 
 Telehealth therapy across the state. All sessions are virtual, so geography shapes context, not access.
 
-### [San Francisco & the Bay Area](san-francisco-therapist.html)
+## [San Francisco & the Bay Area](san-francisco-therapist.html)
 
 Founders, executives, and operators across San Francisco, Oakland, Berkeley, and the broader Bay Area.
 
-### [Palo Alto & Silicon Valley](palo-alto-therapist.html)
+## [Palo Alto & Silicon Valley](palo-alto-therapist.html)
 
 Leaders at the intersection of Stanford, Sand Hill Road, and the Peninsula's concentration of experienced founders.
 
-### [Los Angeles](los-angeles-therapist.html)
+## [Los Angeles](los-angeles-therapist.html)
 
 LA founders and executives across entertainment, DTC brands, creator-economy companies, and the Westside tech cluster.
 
-### [San Diego](san-diego-therapist.html)
+## [San Diego](san-diego-therapist.html)
 
 San Diego biotech, medical device, and defense tech executives, along with founders in a quieter, more engineering-led startup community.
 

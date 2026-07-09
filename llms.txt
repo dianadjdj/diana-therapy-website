@@ -151,6 +151,7 @@ A: Diana serves as an Interpersonal Dynamics Facilitator at Stanford University 
 
 - [Home](https://dianachutherapy.com/): Overview, services, consultation CTA
 - [About](https://dianachutherapy.com/about.html): Diana's background, credentials, clinical approach, Stanford GSB affiliation
+- [Accessibility Statement](https://dianachutherapy.com/accessibility.html): WCAG 2.1 AA conformance target, known limitations, how to report a barrier
 - [Services](https://dianachutherapy.com/services.html): Individual therapy, couples therapy, and telehealth details with pricing
 - [FAQ](https://dianachutherapy.com/faq.html): Fees, insurance, telehealth, confidentiality, Good Faith Estimate
 - [Blog](https://dianachutherapy.com/blog.html): Articles on executive mental health, leadership psychology, and high-performance well-being. Organized into four clusters: founder mental health, executive mental health, founder couples, and considering therapy

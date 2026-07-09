@@ -216,7 +216,7 @@
       margin: 36px 0 14px;
     }
     .article-body__inner strong { color: var(--text); font-weight: 500; }
-    .article-body__inner a { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
+    .article-body__inner a:not(.btn) { color: var(--gold-dark); border-bottom: 1px solid rgba(139, 115, 85, 0.3); }
     .article-body__inner a:hover { color: var(--dark); }
 
     .article-pullquote {
@@ -588,7 +588,7 @@
               Do I need a therapist who specifically works with founders?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Not strictly, but it shortens the runway. A founder-specialized therapist does not need the founder to explain what a term sheet is, why a board meeting is not just a meeting, or why the company and the self have become difficult to separate. That translation work is what slows generalist therapy down.</p>
               </div>
@@ -600,7 +600,7 @@
               What credentials should a founder's therapist have in California?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>An active California license as an LMFT, LCSW, LPCC, or licensed psychologist (PhD or PsyD). Verify on the <a href="https://www.bbs.ca.gov/consumers/lic_lookup.html" target="_blank" rel="noopener">California Board of Behavioral Sciences</a> or Board of Psychology license lookup. Prefer clinicians with evidence-based training in what founders most often bring in: anxiety, burnout, trauma, couples work.</p>
               </div>
@@ -612,7 +612,7 @@
               Is it better to see a coach or a therapist as a founder?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Different tools. Coaches work on performance, decisions, and strategy in the present. Therapists work on mental health conditions, emotional patterns, relational wounds, and the internal structures that drive current behavior. Many founders benefit from both at different times. Only a licensed clinician can diagnose or treat a mental health condition.</p>
               </div>
@@ -624,7 +624,7 @@
               How much should I expect to pay for a founder-specialized therapist in California?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Private-pay rates for specialized clinicians in the Bay Area and Los Angeles typically range from $250 to $600 per 50-minute session. Rates above $500 are common for senior clinicians with executive clientele. Insurance-based therapists are cheaper but create records that pass through insurance systems, which is the primary reason most founders pay out of pocket.</p>
               </div>
@@ -636,7 +636,7 @@
               What are the main red flags when evaluating a therapist as a founder?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>Unlicensed or unverifiable credentials. Promises of specific outcomes. A confidentiality policy that relies on insurance billing. A consultation call that feels like a sales pitch. Discomfort with your income level or industry. Pressure to commit to a long contract in the first session.</p>
               </div>
@@ -648,7 +648,7 @@
               Can I do therapy with a California therapist if I travel a lot?
               <span class="faq-icon" aria-hidden="true"></span>
             </button>
-            <div class="faq-answer" role="region">
+            <div class="faq-answer">
               <div class="faq-answer__inner">
                 <p>California-licensed clinicians can legally treat clients who are physically located in California at the time of the session. If you travel out of state, sessions paused during travel is the cleanest approach. Some clinicians are licensed in additional states; confirm in advance which states they can see you in.</p>
               </div>
@@ -763,6 +763,7 @@
         <p class="footer__copy">&copy; 2026 Diana Chu Therapy. All rights reserved.</p>
         <nav class="footer__legal" aria-label="Legal links">
           <a href="../privacy-policy.html" class="footer__legal-link">Privacy Policy</a>
+          <a href="../accessibility.html" class="footer__legal-link">Accessibility</a>
           <a href="../terms-of-service.html" class="footer__legal-link">Terms of Service</a>
           <a href="../faq.html#good-faith-estimate" class="footer__legal-link">Good Faith Estimate</a>
         </nav>
