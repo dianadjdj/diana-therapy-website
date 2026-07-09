@@ -23,6 +23,8 @@ For the fintech, crypto, and web3 leaders who built here, the pressures are diff
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions

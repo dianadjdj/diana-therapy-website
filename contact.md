@@ -11,6 +11,13 @@ Book a Consultation
 
 Pick a time that works for you. Diana will call you at your scheduled time for a free 20-minute phone consultation. No pressure, no paperwork.
 
+Have questions about fees, insurance, or what to expect?
+[Read the FAQ first.](faq.html) It covers the most common ones.
+
+Prefer email? [dianachutherapy@gmail.com](mailto:dianachutherapy@gmail.com)
+  ·
+**Existing clients:** please reach out directly.
+
 The Consultation
 
 ## What to Expect
@@ -47,13 +54,6 @@ San Francisco, CA 94104
 [View on Google](https://share.google/8qhp60gUKz67ggrEi)
 
 Sessions are conducted via secure telehealth. The office address is for billing and correspondence.
-
-Have questions about fees, insurance, or what to expect?
-[Read the FAQ first.](faq.html) It covers the most common ones.
-
-Prefer email? [dianachutherapy@gmail.com](mailto:dianachutherapy@gmail.com)
-  ·
-**Existing clients:** please reach out directly.
 
 Important Note
 

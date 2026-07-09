@@ -23,6 +23,8 @@ Defense tech and tech-adjacent leadership in San Diego share a different variant
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions

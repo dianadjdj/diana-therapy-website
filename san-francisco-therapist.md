@@ -23,6 +23,8 @@ These aren't personal failings. They're the predictable outcomes of a specific e
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions

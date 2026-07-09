@@ -11,6 +11,8 @@ Executive Burnout
 
 Private telehealth sessions for senior leaders, founders, and high-performers whose burnout does not look like collapse. It looks like working harder, sleeping less, and wondering why nothing feels meaningful.
 
+[Book a Free Consultation →](contact.html)
+
 What It Actually Is
 
 ## Not the Version You've Read About.
@@ -22,6 +24,8 @@ The World Health Organization defines burnout as an occupational syndrome with t
 The most dangerous form of executive burnout is the one you do not notice. You adapt to it. You start running a new baseline where exhaustion is normal, irritability is normal, and the absence of any genuine pleasure in your life is normal. That is the version that tends to end with something unexpected: a health event, a relationship failure, a decision you would not have made if you were operating at full capacity. For a deeper breakdown of how this pattern unfolds, see [the hidden cost of high performance](blog/burnout-executives-high-performance.html).
 
 Session Details
+
+$500
 
 per 50-minute session
 

@@ -14,3 +14,17 @@
 
 /founder-mental-health-statistics.html        /guides/founder-mental-health-statistics.html        301
 /best-therapist-for-founders-california.html  /guides/best-therapist-for-founders-california.html  301
+
+# Legacy Squarespace URLs still in Google's index as 404s (GSC 2026-07)
+/parenting-coaching-1           /                 301
+/presentation-anxiety           /services.html    301
+/presentation-anxiety/          /services.html    301
+/personal-development-workshop  /consulting.html  301
+/personal-development-workshop/ /consulting.html  301
+
+# Consolidate extensionless duplicates to the canonical .html (GSC showed both forms indexed)
+/about       /about.html       301
+/contact     /contact.html     301
+/blog        /blog.html        301
+/consulting  /consulting.html  301
+/guides      /guides.html      301

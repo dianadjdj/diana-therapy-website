@@ -21,7 +21,7 @@ Diana Chu, LMFT, RDT
 
 LMFT, RDT · San Francisco, CA
 
-![Black-and-white photo of a man working at a laptop in front of a city skyline](../images/blog-executive.jpg)
+![Defocused night city street with blurred, colorful bokeh lights](../images/blog-emdr.jpg)
 
 By the time EMDR comes up in a session, most founders have already formed an opinion about it. Either they have read about it and are skeptical it works, or they have read about it and hope it will fix things faster than talk therapy would. Both reactions miss what it actually does.
 

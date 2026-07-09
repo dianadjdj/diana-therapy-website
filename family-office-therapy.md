@@ -11,6 +11,8 @@ For Family Offices and Advisors
 
 Clinical, licensed psychotherapy for principals, operating founders, and next-generation family members. The discretion, specificity, and multi-state coverage that family office relationships require, without spending the first ten sessions explaining what your life is.
 
+[Arrange a Consultation →](contact.html)
+
 Why This Requires Specialization
 
 ## Principals Don't Need a General Therapist.
@@ -23,7 +25,9 @@ This work sits inside a specific intersection: clinical psychotherapy, high-perf
 
 Referral Details
 
-per 50-minute session
+By referral
+
+Fees discussed in consultation
 
 Weekly or bi-weekly
 

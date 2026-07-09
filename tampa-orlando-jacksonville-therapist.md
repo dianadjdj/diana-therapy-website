@@ -25,6 +25,8 @@ Jacksonville is one of the largest cities in the country by area and one of the 
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions

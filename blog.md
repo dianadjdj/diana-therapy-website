@@ -1,4 +1,4 @@
-# Blog | Executive & Founder Mental Health | Diana Chu, LMFT
+# Founder & Executive Mental Health Blog | Diana Chu
 
 > Articles on executive mental health, founder burnout, peak performance psychology, and high-achieving relationships. Written by Diana Chu, LMFT, RDT.
 

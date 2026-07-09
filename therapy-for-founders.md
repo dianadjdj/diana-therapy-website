@@ -11,6 +11,8 @@ Founder Mental Health
 
 Private, specialist mental health care for the people building and running companies. A therapist who understands founder psychology and does not need the first ten sessions to be explaining your world.
 
+[Book a Free Consultation →](contact.html)
+
 Founder Mental Health
 
 ## What Founder Mental Health Actually Is.
@@ -51,6 +53,8 @@ The patterns that run through founder mental health are specific and they are pr
 The work I do is built around those patterns. It starts from the assumption that your life is complicated in specific ways that other clinical settings rarely encounter. For a deeper read on what founder life actually costs, see [founder mental health: what the job actually costs](blog/founder-mental-health.html). For the research behind these patterns, see [founder mental health: what the data actually shows](guides/founder-mental-health-statistics.html). For a guide to choosing a clinician, see [best therapist for founders in California](guides/best-therapist-for-founders-california.html).
 
 Session Details
+
+$500
 
 per 50-minute session
 

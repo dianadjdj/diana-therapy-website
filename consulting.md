@@ -1,4 +1,4 @@
-# Clinical Supervision & Corporate Wellness | Diana Chu, LMFT
+# Clinical Supervision & Corporate Wellness | Diana Chu
 
 > BBS-approved clinical supervision for associate MFTs, consultation groups for licensed clinicians, and corporate wellness for tech companies. Diana Chu, LMFT.
 

@@ -43,6 +43,8 @@ Processing exits, liquidity events, and the loss of the company as identity anch
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions
@@ -88,6 +90,8 @@ Rebuilding closeness after a fundraise, an exit, a hard season, or simply years 
 [Book a Free Consultation →](contact.html)
 
 Session Details
+
+$530
 
 per 50-minute session
 

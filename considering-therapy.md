@@ -50,6 +50,8 @@ If any of what the four reads describe sounds familiar, that is enough to start.
 
 Session Details
 
+$500
+
 per 50-minute session
 
 50-minute sessions
