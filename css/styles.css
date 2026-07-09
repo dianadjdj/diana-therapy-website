@@ -1221,6 +1221,10 @@ h1, h2, h3, h4 {
   background-image: url('../images/blog-telehealth.jpg');
   background-size: cover; background-position: center;
 }
+.blog-card__image-bg--emdr {
+  background-image: url('../images/blog-emdr.jpg');
+  background-size: cover; background-position: center;
+}
 .blog-card__image-bg--founder-exit {
   background-image: url('../images/blog-founder-exit.jpg');
   background-size: cover; background-position: center;
