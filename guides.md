@@ -32,6 +32,13 @@ Read Guide →](guides/best-therapist-for-founders-california.html)
 What a business therapist is, what cultural competence in business actually means, and how to tell in a first session whether a therapist has it. For founders who have tried generalist therapy and found it lacking.
 
 Read Guide →](guides/business-therapist-vs-regular-therapist.html)
+[Founder's Guide  ·  10 min read
+
+## Coaching vs Therapy for Founders: How to Tell Which One You Need
+
+Coaching works on the decisions in front of you. Therapy works on the inner life that shapes how you make them. Where the two overlap, why the line is blurrier than either profession admits, and how to tell which one the thing in your way calls for. From someone who works as both.
+
+Read Guide →](guides/coaching-vs-therapy-for-founders.html)
 
 For shorter reads on specific patterns, see the [blog](blog.html). For the founder mental health topic map and clinical overview, see the [founder mental health hub](therapy-for-founders.html).
 

@@ -38,6 +38,13 @@ Read Guide →](guides/best-therapist-for-founders-california.html)
 What business-cultural competence is, and how to tell in a first session whether a therapist actually has it.
 
 Read Guide →](guides/business-therapist-vs-regular-therapist.html)
+[Founder's Guide  ·  10 min read
+
+### Coaching vs Therapy for Founders: How to Tell Which One You Need
+
+What each is for, where they overlap for founders, and how to tell which one the thing in your way calls for. From someone who works as both.
+
+Read Guide →](guides/coaching-vs-therapy-for-founders.html)
 
 [Featured  ·  Executive Mental Health
 
@@ -170,6 +177,15 @@ July 2026
 Co-founder disputes get argued like strategy disagreements and behave like marriage problems. What actually drives the conflict, and what repair takes.
 
 [Read Article →](blog/cofounder-conflict.html)
+
+Founder Life
+August 2026
+
+### [Before the Hard Conversation With Your Co-founder](blog/cofounder-hard-conversations.html)
+
+Two co-founders in a bad meeting do not have a communication problem. They have a regulation problem. Why the scripts fail, and what has to come first.
+
+[Read Article →](blog/cofounder-hard-conversations.html)
 
 Cluster
 
