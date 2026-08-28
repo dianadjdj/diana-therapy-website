@@ -11,7 +11,7 @@ December 2025
 
 9 min read
 
-Updated May 2026
+Updated July 2026
 
 ## Why High-Achieving Couples Need a Different Kind of Therapy
 
@@ -53,7 +53,7 @@ High achievers have usually survived by minimizing visible weakness. They've bee
 
 ### Co-founder couples: when the business is the third person in the room
 
-Working together and living together creates a role-blur that most couples frameworks don't have language for. When the person you're trying to connect with emotionally is also the person you need to hold accountable professionally, and also the person who has the power to override your decision about hiring, the relationship becomes genuinely complex in ways that go well beyond communication style. The dynamics run close to the ones I described in [co-founder conflict more broadly](cofounder-conflict.html), with the added weight of a marriage sitting on top of them.
+Working together and living together creates a role-blur that most couples frameworks don't have language for. When the person you're trying to connect with emotionally is also the person you need to hold accountable professionally, and also the person who has the power to override your decision about hiring, the relationship becomes genuinely complex in ways that [go well beyond communication style](cofounder-hard-conversations.html). The dynamics run close to the ones I described in [co-founder conflict more broadly](cofounder-conflict.html), with the added weight of a marriage sitting on top of them.
 
 What I often see in co-founder couples is that they've become extraordinarily good at the business conversation clear, efficient, low-drama and have quietly let the intimate conversation atrophy. The debrief after a board meeting happens easily. The conversation about whether either of them actually feels seen in this relationship? That hasn't happened in months. Sometimes years.
 

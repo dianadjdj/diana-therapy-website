@@ -181,13 +181,13 @@ Look for a licensed therapist with direct clinical experience working with entre
 
 ## References
 
-1. Freeman, M. A., Johnson, S. L., Staudenmaier, P. J., & Zisser, M. R. (2015). *Are Entrepreneurs "Touched with Fire?"* University of California, San Francisco working paper.
-2. Freeman, M. A., Staudenmaier, P. J., Zisser, M. R., & Andresen, L. A. (2019). The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families. *Small Business Economics*, 53(2), 323-342.
-3. Deloitte (2022). *The C-suite's role in well-being: 2022 Global Well-being at Work survey*.
-4. Vistage. *CEO Confidence Index*.
-5. Saporito, T. J. (2012, February 15). It's Time to Acknowledge CEO Loneliness. *Harvard Business Review*.
+1. Freeman, M. A., Johnson, S. L., Staudenmaier, P. J., & Zisser, M. R. (2015). *Are Entrepreneurs "Touched with Fire?"* University of California, San Francisco working paper. [michaelafreemanmd.com](https://www.michaelafreemanmd.com/Research.html)
+2. Freeman, M. A., Staudenmaier, P. J., Zisser, M. R., & Andresen, L. A. (2019). The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families. *Small Business Economics*, 53(2), 323-342. [doi.org](https://doi.org/10.1007/s11187-018-0059-8)
+3. Deloitte (2022). *The C-suite's role in well-being: 2022 Global Well-being at Work survey*. [deloitte.com](https://www.deloitte.com/us/en/insights/topics/leadership/employee-wellness-in-the-corporate-workplace.html)
+4. Vistage. *CEO Confidence Index*. [vistage.com](https://www.vistage.com/vistage-ceo-confidence-index/)
+5. Saporito, T. J. (2012, February 15). It's Time to Acknowledge CEO Loneliness. *Harvard Business Review*. [hbr.org](https://hbr.org/2012/02/its-time-to-acknowledge-ceo-lo)
 6. First Round Review. *State of Startups* (annual).
-7. American Psychological Association (2017). *Clinical Practice Guideline for the Treatment of PTSD in Adults*.
+7. American Psychological Association (2017). *Clinical Practice Guideline for the Treatment of PTSD in Adults*. [apa.org](https://www.apa.org/about/policy/adults-ptsd-traumatic-stress-guidelines.pdf)
 
 Work Together
 

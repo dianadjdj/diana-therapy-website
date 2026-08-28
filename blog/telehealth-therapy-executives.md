@@ -11,7 +11,7 @@ November 2025
 
 7 min read
 
-Updated April 2026
+Updated July 2026
 
 ## The Case for Telehealth: Why Busy Executives Choose Remote Therapy
 

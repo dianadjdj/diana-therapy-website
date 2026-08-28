@@ -4,8 +4,6 @@ User-agent: *
 Allow: /
 Crawl-delay: 1
 Disallow: /404.html
-Disallow: /privacy-policy.html
-Disallow: /terms-of-service.html
 
 # Google — no crawl delay
 User-agent: Googlebot

@@ -11,7 +11,7 @@ October 2025
 
 10 min read
 
-Updated April 2026
+Updated July 2026
 
 ## The Identity Crisis After the Exit: What Happens When Founders Sell
 

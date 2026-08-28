@@ -11,7 +11,7 @@ March 2026
 
 8 min read
 
-Updated May 2026
+Updated July 2026
 
 ## What No One Tells You About Founder Mental Health
 
@@ -109,8 +109,8 @@ Yes. Dr. Michael Freeman's UCSF research found that 72% of entrepreneurs reporte
 
 ## References
 
-1. Freeman, M. A., Johnson, S. L., Staudenmaier, P. J., & Zisser, M. R. (2015). *Are Entrepreneurs "Touched with Fire?"* University of California, San Francisco working paper.
-2. Freeman, M. A., Staudenmaier, P. J., Zisser, M. R., & Andresen, L. A. (2019). The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families. *Small Business Economics*, 53(2), 323-342.
+1. Freeman, M. A., Johnson, S. L., Staudenmaier, P. J., & Zisser, M. R. (2015). *Are Entrepreneurs "Touched with Fire?"* University of California, San Francisco working paper. [michaelafreemanmd.com](https://www.michaelafreemanmd.com/Research.html)
+2. Freeman, M. A., Staudenmaier, P. J., Zisser, M. R., & Andresen, L. A. (2019). The prevalence and co-occurrence of psychiatric conditions among entrepreneurs and their families. *Small Business Economics*, 53(2), 323-342. [doi.org](https://doi.org/10.1007/s11187-018-0059-8)
 3. For a full research review with clinical context, see [Founder Mental Health: What the Data Actually Shows](../guides/founder-mental-health-statistics.html).
 
 Work Together

@@ -77,7 +77,7 @@ Some of this work happens with one founder in individual therapy, learning to se
 
 ## When to bring someone in
 
-The signs are unglamorous. You communicate through other people, routing decisions around each other via the exec team. You rehearse conversations you never have. The one-on-one keeps getting moved. You have started building the case file, saving the screenshots, drafting the story you would tell the board. Or you notice a small fantasy, arriving uninvited, in which the other person simply leaves.
+The signs are unglamorous. You communicate through other people, routing decisions around each other via the exec team. You [rehearse conversations you never have](cofounder-hard-conversations.html). The one-on-one keeps getting moved. You have started building the case file, saving the screenshots, drafting the story you would tell the board. Or you notice a small fantasy, arriving uninvited, in which the other person simply leaves.
 
 None of these mean the partnership is over. They mean the relationship is running on protocol instead of trust, and that repair has a shorter runway than it appears to. Founders wait, on average, well past the point where the work would have been easy, for the same reason married couples wait: starting the conversation feels like making the problem real. It was already real, and waiting mostly raises the price.
 
