@@ -21,7 +21,7 @@ Diana Chu, LMFT, RDT
 
 LMFT, RDT · San Francisco, CA
 
-![Black-and-white photo of a person working at a laptop in front of a city skyline](../images/blog-executive.jpg)
+![Two identical square windows set into a warm ochre wall](../images/coaching-vs-therapy.jpg)
 
 I work as both an executive coach and a therapist. That is not the usual arrangement. Most people in my field pick one side and defend the border. So when a founder asks me whether they need coaching or therapy, they are usually surprised that I do not answer quickly. The honest answer depends on what is actually in their way, and the two are easier to confuse than the professions let on.
 
@@ -44,7 +44,7 @@ The clearest structural difference is regulation. Therapy requires a graduate de
 | Regulation | Largely unregulated, no license required | Graduate degree and state license required |
 | Can diagnose or treat a mental health condition | No | Yes |
 | Typical question | What do I do about this, and who do I need to become to do it well | Why does this keep happening, and what is it costing me |
-| Insurance | Not a healthcare service, paid privately or by the company | A clinical service, sometimes covered, often private-pay |
+| Investment | Paid privately or by the company. A business expense, not a medical one | A clinical service, so a medical expense. Sometimes covered by insurance, often private-pay |
 
 ## What coaching is genuinely good at
 
