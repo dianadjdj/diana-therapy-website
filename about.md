@@ -35,7 +35,7 @@ My approach is relational, direct, and collaborative. I work with the whole pers
 
 Eye Movement Desensitization and Reprocessing: an evidence-based approach for processing the experiences, early patterns, and accumulated stress that shape how you respond under pressure today.
 
-### Gottman Method Couples Therapy
+### Gottman Method
 
 A research-based framework for understanding and rebuilding the patterns of communication, conflict, and connection in intimate partnerships and co-founding relationships.
 
@@ -55,6 +55,8 @@ Credentials
 - TPMF785, Florida
 - RDT #659, Registered Drama Therapist
 - MA Counseling Psychology, CIIS
+- EMDR-trained (EMDRIA-approved basic training)
+- Gottman-trained
 - Interpersonal Dynamics Facilitator, Stanford GSB
 - Board Member, Telegraph Hill Neighborhood Center
 - Telehealth Practice Only

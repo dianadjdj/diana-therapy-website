@@ -11,7 +11,7 @@ July 2025
 
 6 min read
 
-Updated April 2026
+Updated September 2026
 
 ## Executive Imposter Syndrome: Why Success Doesn't Fix It
 
@@ -44,6 +44,8 @@ This is the part that trips people up most. There's an intuitive assumption that
 Each promotion raises the stakes of being wrong. Each step up expands the visibility of your decisions and the consequences of your failures. The higher you go, the more intimidating the comparison pool becomes, because you're now comparing yourself to people who are also extraordinary. And critically: the higher you go, the more your successes get attributed to context, timing, resources, and team, while your failures feel like unambiguous evidence about you.
 
 This attribution asymmetry is one of the most consistent features of imposter syndrome in executives. The win goes to the tailwind. The loss goes to the self. Over time, success literally strengthens the syndrome: every good outcome becomes further proof that you've fooled them again, that the luck held one more time, that the moment of reckoning is just ahead.
+
+A neighboring pattern is worth naming here, because the two often get confused. Some founders know the success is theirs and it still refuses to register. That is a different mechanism, and I've written about it separately in [why you feel like you're failing when the company is doing well](why-success-feels-like-failing.html).
 
 "Imposter syndrome tells you that you got lucky, that you fooled them, that it's only a matter of time. What it doesn't tell you is that almost everyone at the table is thinking the same thing."
 

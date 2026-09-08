@@ -94,6 +94,15 @@ Selling your company is supposed to feel like a win. For many founders, it trigg
 
 [Read Article →](blog/founder-identity-after-exit.html)
 
+Founder Life
+September 2026
+
+### [Why You Feel Like You're Failing When the Company Is Doing Well](blog/why-success-feels-like-failing.html)
+
+The company is on plan and the feeling says otherwise. On plans that move when you reach them, good news with nowhere to land, and what the feeling is actually measuring.
+
+[Read Article →](blog/why-success-feels-like-failing.html)
+
 Cluster
 
 ## Executive mental health.

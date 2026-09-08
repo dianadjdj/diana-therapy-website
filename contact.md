@@ -51,7 +51,7 @@ San Francisco, CA 94104
 
 [(415) 890-3040](tel:+14158903040)
 [dianachutherapy@gmail.com](mailto:dianachutherapy@gmail.com)
-[View on Google](https://share.google/8qhp60gUKz67ggrEi)
+[View on Google](https://maps.app.goo.gl/k6buwuiUTb67ae9i8)
 
 Sessions are conducted via secure telehealth. The office address is for billing and correspondence.
 

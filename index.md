@@ -95,7 +95,7 @@ per 50-min session
 
 ### Couples Therapy
 
-For dual-career couples and co-founders whose relationship has taken a back seat to everything else. We use the Gottman Method to work through real communication and connection problems, not just manage conflict.
+For dual-career couples and co-founders whose relationship has taken a back seat to everything else. We draw on the Gottman Method to work through real communication and connection problems, not just manage conflict.
 
 $530
 

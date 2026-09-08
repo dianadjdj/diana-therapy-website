@@ -11,7 +11,7 @@ August 2025
 
 7 min read
 
-Updated April 2026
+Updated September 2026
 
 ## The Perfectionism Trap: When High Standards Become a Liability
 
@@ -25,7 +25,7 @@ LMFT, RDT · San Francisco, CA
 
 ![Close-up of a dark geometric steel lattice forming an architectural facade](../images/blog-performance.jpg)
 
-Picture the executive who won't delegate because no one else will do it right. The founder who rewrites the same email six times before sending it. The leader who hears about a win and immediately starts cataloging what's still imperfect about it. In each of these cases, perfectionism doesn't present as a flaw. It presents as high standards, care, and rigor. It can look, from the outside, like exactly what made them successful.
+Picture the executive who won't delegate because no one else will do it right. The founder who rewrites the same email six times before sending it. The leader who hears about a win and immediately starts cataloging what's still imperfect about it, which is close cousin to the founder who [feels like they're failing while the company is doing well](why-success-feels-like-failing.html). In each of these cases, perfectionism doesn't present as a flaw. It presents as high standards, care, and rigor. It can look, from the outside, like exactly what made them successful.
 
 Which is part of what makes it so hard to address.
 
