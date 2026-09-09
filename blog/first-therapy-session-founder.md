@@ -27,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 Most founders have had a therapist before. Or they've tried one. Or a friend sent them the name of someone who was supposed to be great, and they sat through two sessions and then quietly stopped booking. By the time they land in my calendar, they have a rehearsed version of their life and a fairly specific sense of what they expect therapy to be.
 
-The first session is about getting past all of that. A founder's first session with me is not an intake. There are no forms to fill out first, no advice, and no homework. It is 50 minutes of conversation, and most of what I learn comes from what the prepared version of the story leaves out.
+The first session is about getting past all of that. A founder's first session with me is an intake, and a short one. There are a few forms before we meet. Then we spend the 50 minutes on what you are struggling with, what you want to be different, and an honest look at the resources you have right now: sleep, support, time, money. Most of what I learn comes from what the prepared version of the story leaves out.
 
 Almost every founder who books with me opens the first 20 minutes the same way. They give me a tight summary of the company, the co-founders, the stage of the business, the current pressure. It is efficient. It is well organized. It is also a version of themselves they have given many times, to many audiences. It is not what I am there to listen for.
 
@@ -73,7 +73,7 @@ This is not a judgment on the therapist. Different clients need different therap
 
 ## What the first session is actually for
 
-The first session is not a diagnostic appointment, and it is not an intake. What it is, really, is the first attempt at something specific: a relationship in which a founder who has been performing for years, in all directions, can briefly stop. Just for 50 minutes. That is most of what makes therapy work over time.
+The first session is not a diagnostic appointment, and the intake part of it is short. What it is, really, is the first attempt at something specific: a relationship in which a founder who has been performing for years, in all directions, can briefly stop. Just for 50 minutes. That is most of what makes therapy work over time.
 
 If the first session is doing its job, it will feel a little strange, a little slow, and slightly less performed than the conversations the founder is usually having. They will leave not with a plan or a technique, but with a small amount of evidence that there is a place in their week that does not require them to be in charge. That evidence is what the rest of the work is built on.
 
@@ -93,7 +93,7 @@ Trust in therapy does not come from credentials. It comes from the founder's ner
 
 ### Do I need to prepare for a first therapy session?
 
-No. Most founders arrive with a prepared summary of the company and the current pressure, and that is fine, but it is the part of the session I am listening past. There is nothing to bring, no forms to fill out in advance, and no intake questionnaire. The session is 50 minutes over secure video. A free 20-minute consultation comes before it, so by the first session we have already spoken once.
+No. Most founders arrive with a prepared summary of the company and the current pressure, and that is fine, but it is the part of the session I am listening past. There are a few forms to complete before we meet, and nothing else to bring. The session is 50 minutes over secure video, and part of it is a short intake: what you are struggling with, what you want to be different, and what resources you have right now. A free 20-minute consultation comes before it, so by the first session we have already spoken once.
 
 ### How do I know if a therapist is the right fit after the first session?
 
