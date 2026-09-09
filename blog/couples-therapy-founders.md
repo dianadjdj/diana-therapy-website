@@ -148,6 +148,8 @@ A free 20-minute consultation is the right first step for you individually, or t
 
 [← Back to the Founder Mental Health Hub](../therapy-for-founders.html)
 
+Part of the [founder couples hub](../founder-couples.html)
+
 Related Reading
 
 [Founder's Guide

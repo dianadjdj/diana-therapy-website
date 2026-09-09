@@ -19,6 +19,8 @@ Founders and executives in Miami's fintech, crypto, and venture scenes, along wi
 
 Executives across Tampa's professional services and healthcare industries, Orlando's tech and tourism leadership, Jacksonville's corporate community, and smaller cities across the state. One Florida license covers all of it.
 
+I am a Licensed Marriage and Family Therapist in Florida (TPMF785) as well as California (LMFT #105546). The Florida licence is issued directly by the Florida Board of Clinical Social Work, Marriage and Family Therapy and Mental Health Counseling, and I answer to that board for every session with a Florida client. That is a different arrangement from the out-of-state telehealth registration many therapists based elsewhere use to see Florida clients.
+
 Based elsewhere in Florida? Gainesville, Naples, Fort Lauderdale, St. Petersburg, and the rest of the state are all covered by the same telehealth license, which follows the client rather than the office. The [locations overview](locations.html) explains how that works across Florida and California. [Get in touch](contact.html) to talk through fit.
 
 If reading first is useful: [executive burnout in high performers](blog/burnout-executives-high-performance.html) covers the most common pattern. [Founder identity after exit](blog/founder-identity-after-exit.html) is relevant for anyone who relocated to Florida around a major liquidity event. [The case for telehealth](blog/telehealth-therapy-executives.html) addresses the format directly.

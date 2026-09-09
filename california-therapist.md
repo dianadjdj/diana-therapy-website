@@ -25,7 +25,7 @@ LA founders and executives across entertainment, DTC brands, creator-economy com
 
 ## [San Diego](san-diego-therapist.html)
 
-San Diego biotech, medical device, and defense tech executives, along with founders in a quieter, more engineering-led startup community.
+San Diego biotech, medical device, and defense [tech executives](therapy-for-tech-executives.html), along with founders in a quieter, more engineering-led startup community.
 
 Based elsewhere in California? Sacramento, San Jose, Marin, Orange County, Fresno, and the rest of the state are all covered by the same telehealth license, which follows the client rather than the office. The [locations overview](locations.html) explains how that works across California and Florida. [Get in touch](contact.html) to talk through fit.
 

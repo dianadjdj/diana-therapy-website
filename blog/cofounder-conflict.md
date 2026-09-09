@@ -94,6 +94,8 @@ A free 20-minute consultation is a low-stakes way to start, whether you come alo
 
 [Book a Free Consultation](../contact.html)
 
+Part of the [founder couples hub](../founder-couples.html)
+
 Related Reading
 
 [Couples & Relationships

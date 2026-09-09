@@ -11,6 +11,8 @@ June 2025
 
 8 min read
 
+Updated September 2026
+
 ## A Founder's First Therapy Session
 
 Most founders arrive with a rehearsed version of their life and a set of expectations about what therapy will be. The first session is about getting past all of that, and starting the slow work of whether trust is possible at all.
@@ -25,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 Most founders have had a therapist before. Or they've tried one. Or a friend sent them the name of someone who was supposed to be great, and they sat through two sessions and then quietly stopped booking. By the time they land in my calendar, they have a rehearsed version of their life and a fairly specific sense of what they expect therapy to be.
 
-The first session is about getting past all of that.
+The first session is about getting past all of that. A founder's first therapy session with me is not an intake and not a diagnostic appointment. There is no hundred-question form, no advice, and no homework. It is 50 minutes in which someone who has been performing in every direction gets to stop, and I listen for what the rehearsed story leaves out.
 
 Almost every founder who books with me opens the first 20 minutes the same way. They give me a tight summary of the company, the co-founders, the stage of the business, the current pressure. It is efficient. It is well organized. It is also a version of themselves they have given many times, to many audiences. It is not what I am there to listen for.
 
@@ -88,6 +90,14 @@ No advice, and no homework yet. No worksheets, no mood tracking on a scale of on
 ### How does trust with a therapist actually develop?
 
 Trust in therapy does not come from credentials. It comes from the founder's nervous system deciding, over the course of a session, that the therapist is not going to minimize what they're saying, rush to reassurance, try to fix what isn't ready to be fixed, or position themselves above them. Founders are sensitive readers of these moves. They can feel when someone is performing care rather than giving it.
+
+### Do I need to prepare for a first therapy session?
+
+No. Most founders arrive with a prepared summary of the company and the current pressure, and that is fine, but it is the part of the session I am listening past. There is nothing to bring, no forms to fill out in advance, and no intake questionnaire. The session is 50 minutes over secure video. A free 20-minute consultation comes before it, so by the first session we have already spoken once.
+
+### How do I know if a therapist is the right fit after the first session?
+
+Good signs: you said things you did not plan to say, the therapist tracked something you barely said out loud, and the conversation had some friction in it. At some point you felt slightly exposed and the therapist did not look away. Less good signs: you walked out feeling like you had given a good interview, the therapist seemed impressed by your company, or the session felt relaxing but not specific to you. If it did not feel right, try a different therapist. Most founders who have done therapy well had one or two first sessions that did not work before they found the person who did.
 
 ## References
 

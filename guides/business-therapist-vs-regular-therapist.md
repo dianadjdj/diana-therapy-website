@@ -11,6 +11,8 @@ May 2026
 
 9 min read
 
+Updated September 2026
+
 ## Business Therapist vs Regular Therapist: What Founders Should Look For
 
 A business therapist is a clinician with cultural competence in the operating life of founders and executives. Here is what that means in practice, what to ask in a first session, and where most regular therapists fall short.
@@ -25,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 ## What is a "business therapist"?
 
-A business therapist is a licensed mental health clinician who has built cultural competence in the world of business: finance, fundraising, governance, and the wealth structures that come with all of it. The phrase has no formal definition in the field, and there is no separate credential called "business therapist." The label usually refers to a therapist whose clients do not have to translate the operating reality of their lives before the clinical work can begin.
+A business therapist is a licensed mental health clinician who has built cultural competence in the operating world of founders and executives: finance, fundraising, governance, and the wealth structures that come with all of it. "Business therapist" is not a licence and not a credential, and there is no licensing board for it. The clinician behind the label holds the same licence as any other therapist, an LMFT, LCSW, LPCC, psychologist, or psychiatrist, and the label describes who they have learned to work with. The simplest test of whether you need one is whether you have to translate your working life before the clinical work can begin. If you do, the competence is missing.
 
 Calling it cultural competence is deliberate. The American Psychological Association's *Multicultural Guidelines* identify socioeconomic status, education, and employment as cultural dimensions a clinician is expected to engage with skillfully, alongside the more familiar dimensions of race, ethnicity, gender, religion, and sexual orientation [[1]](#ref-1). A therapist who works with refugees needs cultural competence in displacement. A therapist who works with religious minorities needs cultural competence in the specific religious texture of their clients' lives. A therapist who works with founders and executives needs cultural competence in business.
 
@@ -132,6 +134,10 @@ Most therapists who specialize in founders and executives work outside of insura
 ### Is a business therapist different from couples therapy for founders?
 
 Yes, though both can be useful. Business therapy is typically individual work focused on the founder's inner life as it intersects with the operating reality of the company. Couples therapy for founders addresses the relationship system, often between co-founders or between a founder and their partner. The two are sometimes combined or sequenced depending on what the founder is working through. See [Couples Therapy for Founders](../blog/couples-therapy-founders.html) for more on the relationship side.
+
+### What is the difference between a business therapist and a business coach?
+
+A coach helps you think through decisions inside your company. A business therapist helps you with the inner work that runs in parallel to those decisions, while being able to hear the company-level context without being brought up to speed. The dividing line is the problem itself. If the problem is a decision, a strategy, or accountability, that is coaching. If the problem is what the decision is doing to you, your sleep, your relationships, or the pattern you keep repeating, that is therapy. A founder often needs both. They should not come from the same person in the same session. For the longer comparison, see [Coaching vs Therapy for Founders](coaching-vs-therapy-for-founders.html).
 
 ## References
 

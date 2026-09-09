@@ -21,6 +21,8 @@ For founders who relocated, the adjustment is often harder than they expected. Y
 
 For the fintech, crypto, and web3 leaders who built here, the pressures are different. Market volatility lives in your body. Regulatory uncertainty is a permanent background. And the Miami scene is visible in a way that makes it hard to be publicly uncertain. For more on what this does to the nervous system over time, see [why founders don't sleep: the psychology of hypervigilance](blog/founders-sleep-hypervigilance.html).
 
+I hold a full Florida licence as a Marriage and Family Therapist (TPMF785), alongside my California licence (LMFT #105546). The Florida Board of Clinical Social Work, Marriage and Family Therapy and Mental Health Counseling issued it directly, and I am accountable to that board for my work with Florida clients. That is different from the out-of-state telehealth registration many therapists based elsewhere use to see Florida clients.
+
 Session Details
 
 $500

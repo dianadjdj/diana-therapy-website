@@ -23,6 +23,8 @@ Orlando's executive population splits between the tourism and hospitality giants
 
 Jacksonville is one of the largest cities in the country by area and one of the least visible in the founder conversation. Financial services, logistics, healthcare, and a large military-adjacent community. The executives here are often running operations at real scale without the cultural permission to talk about what that costs them personally. The Navy presence shapes the leadership culture in ways that go unacknowledged: stoicism, self-reliance, discomfort with asking for help.
 
+I am licensed in Florida as a Marriage and Family Therapist (TPMF785), and in California (LMFT #105546). The Florida licence comes directly from the Florida Board of Clinical Social Work, Marriage and Family Therapy and Mental Health Counseling, so I am accountable to that board for every Florida session. Many therapists based in other states see Florida clients under an out-of-state telehealth registration instead, which is a different arrangement.
+
 Session Details
 
 $500

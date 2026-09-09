@@ -11,6 +11,8 @@ May 2026
 
 10 min read
 
+Updated September 2026
+
 ## EMDR for Executives: When It Helps, When It Doesn't
 
 A founder therapist on what EMDR actually is, when it helps with executive clients, when it doesn't, and the paradox of how efficient it can feel.
@@ -25,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 By the time EMDR comes up in a session, most founders have already formed an opinion about it. Either they have read about it and are skeptical it works, or they have read about it and hope it will fix things faster than talk therapy would. Both reactions miss what it actually does.
 
-I use EMDR regularly with executive and founder clients. It is one of the modalities I trained in early and the one I reach for most often when something specific is needed. But it is not the right tool for everything, and the gap between when it helps and when it does not is bigger than most clients expect.
+I use EMDR regularly with executive and founder clients, and the rule for when it fits is simple. EMDR is the right tool for an executive when a specific reaction is out of proportion to its trigger, when a specific event has lodged in the body and talking about it has not moved it, or when the insight is complete and the pattern still has not changed. It is the wrong tool during acute crisis, before the working relationship is solid, and for questions of meaning or what to do next, which a conversation answers better. The gap between those two lists is bigger than most clients expect.
 
 The first thing worth saying is that EMDR is more than the technique it is usually reduced to. It is a structured, eight-phase psychotherapy developed by Francine Shapiro in 1989 [[1]](#ref-1). The part that gets all the attention, the bilateral eye movements or tactile stimulation, is the most visible piece, but it sits on top of a much larger therapeutic process. The other seven phases, including resource installation, targeting, body scanning, and closure, are doing most of the actual work.
 
@@ -97,9 +99,17 @@ EMDR is a structured, eight-phase psychotherapy developed by Francine Shapiro in
 
 No. The Adaptive Information Processing model that EMDR sits on treats unprocessed material more broadly than the colloquial definition of trauma allows for. It includes experiences that have shaped how a person responds to the present even when they would not register as trauma to the person who lived through them: a funding round that fell through and still affects how you enter meetings, a co-founder departure that ended cleanly on paper and never resolved.
 
-### When does EMDR help founders and executives?
+### Does EMDR work for executives?
 
-Three patterns come up most. When a current reaction is clearly out of proportion to its trigger. When a specific event has lodged itself in the body and is not being moved by talking about it. And when a founder has done significant insight work and remains stuck on the same pattern: the understanding has already happened, and what is needed is a re-integration that the talking did not produce on its own.
+Yes, for a specific set of problems. It is the right tool when a reaction is out of proportion to its trigger, when a specific event has lodged in the body and talking has not moved it, or when a founder understands the pattern completely and it still has not changed. In my practice the clearest results are with a funding round that fell through and still shapes how someone enters meetings, a leadership template laid down by an earlier boss, or a previous public failure the body treats as ongoing. When it works, the memory stays intact and the charge goes.
+
+### When is EMDR the wrong choice for an executive?
+
+During acute crisis, when the work is stabilization first: sleep, basic regulation, the relationship between us. Before the working relationship is solid enough to hold the vulnerability the sessions require. And when the question is about meaning, identity, or what to do next with your life, which EMDR is not built to answer; the conversation is the answer. Highly intellectualized clients who dissociate from the body need preparatory work before EMDR can do anything useful. Forcing it into the wrong territory produces session after session of nothing happening.
+
+### How many EMDR sessions does an executive need?
+
+There is no fixed number. A single target that has sat underneath a pattern for fifteen years can shift in one or two sessions, and the shift tends to hold. But those sessions sit inside a larger course of therapy. The eight-phase protocol includes history, preparation, and closure, and those phases do most of the work. Some clients are ready in the first month. Others need longer, especially if the body has to become reachable first. The pace of the sessions themselves is slower than founders expect, and that slowness is part of what makes it work.
 
 ## References
 

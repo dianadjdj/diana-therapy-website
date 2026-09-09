@@ -21,7 +21,7 @@ California Institute of Integral Studies
 
 I became a therapist because I kept noticing a particular kind of gap: the distance between how capable someone looks from the outside and how they actually feel. That gap tends to be widest in people who have built something real and are carrying the weight of it mostly alone.
 
-I hold a Master of Arts in Counseling Psychology from the California Institute of Integral Studies, a program that takes the whole person seriously: the clinical, the relational, and the cultural. I'm a Licensed Marriage and Family Therapist (LMFT #105546) and a Registered Drama Therapist (RDT #659).
+I hold a Master of Arts in Counseling Psychology from the California Institute of Integral Studies, a program that takes the whole person seriously: the clinical, the relational, and the cultural. I'm a Licensed Marriage and Family Therapist in California (LMFT #105546) and Florida (TPMF785), and a Registered Drama Therapist (RDT #659).
 
 I also serve as an Interpersonal Dynamics Facilitator at Stanford University Graduate School of Business, working with MBA students and executives on emotional intelligence, communication, and self-awareness. That work gives me a close view of how high-achieving people actually function under pressure, in groups, and in relationships.
 
@@ -43,7 +43,7 @@ A research-based framework for understanding and rebuilding the patterns of comm
 
 Structured experiential methods (not performance-based) that that allow you to access and work through what direct conversation sometimes can't reach. Particularly effective for people who have learned to intellectualize almost everything.
 
-I work with clients throughout California via secure telehealth. Sessions are 50 minutes, typically weekly or bi-weekly. Early morning and evening slots are available.
+I work with clients in California and Florida via secure telehealth. Sessions are 50 minutes, typically weekly or bi-weekly. Early morning and evening slots are available.
 
 [Book a Free Consultation →](contact.html)
 
@@ -60,6 +60,27 @@ Credentials
 - Interpersonal Dynamics Facilitator, Stanford GSB
 - Board Member, Telegraph Hill Neighborhood Center
 - Telehealth Practice Only
+
+Facts
+
+## At a glance
+
+Every figure here matches the rest of the site. Last checked September 9, 2026.
+
+|  |  |
+| --- | --- |
+| Licence, California | LMFT #105546 |
+| Licence, Florida | LMFT TPMF785 |
+| Registered Drama Therapist | RDT #659 |
+| Education | MA Counseling Psychology, California Institute of Integral Studies |
+| Faculty role | Interpersonal Dynamics Facilitator, Stanford Graduate School of Business |
+| Individual session | $500, 50 minutes |
+| Couples session | $530, 50 minutes |
+| Format | Secure video only, no in-person sessions |
+| Client location | California or Florida at time of session |
+| Insurance | Out of network, superbill on request |
+| Consultation | Free, 20 minutes |
+| Modalities | EMDR-trained (EMDRIA-approved basic training), Gottman-trained, drama therapy, psychodynamic and relational |
 
 Three Principles That Guide My Work
 
