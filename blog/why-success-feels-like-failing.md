@@ -21,7 +21,7 @@ Diana Chu, LMFT, RDT
 
 LMFT, RDT · San Francisco, CA
 
-![The San Francisco skyline at golden hour seen from across the bay, with the Salesforce Tower and Transamerica Pyramid catching low sunlight and a marina in the foreground](../images/why-success-feels-like-failing.jpg)
+![A two-lane road running straight through a wide valley of yellow autumn grass toward distant hills, under a low grey sky](../images/why-success-feels-like-failing.jpg)
 
 A founder sits down and walks me through the quarter. Revenue is up. The team held together through a hard stretch. A hire they had been chasing since spring finally signed. Then they get to the end of the update and tell me they feel like they are failing.
 
