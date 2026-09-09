@@ -81,6 +81,7 @@ Every figure here matches the rest of the site. Last checked September 9, 2026.
 | Insurance | Out of network, superbill on request |
 | Consultation | Free, 20 minutes |
 | Modalities | EMDR-trained (EMDRIA-approved basic training), Gottman-trained, drama therapy, psychodynamic and relational |
+| Languages | English and Cantonese |
 
 Three Principles That Guide My Work
 

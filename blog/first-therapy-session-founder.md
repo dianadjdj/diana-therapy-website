@@ -27,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 Most founders have had a therapist before. Or they've tried one. Or a friend sent them the name of someone who was supposed to be great, and they sat through two sessions and then quietly stopped booking. By the time they land in my calendar, they have a rehearsed version of their life and a fairly specific sense of what they expect therapy to be.
 
-The first session is about getting past all of that. A founder's first therapy session with me is not an intake and not a diagnostic appointment. There is no hundred-question form, no advice, and no homework. It is 50 minutes in which someone who has been performing in every direction gets to stop, and I listen for what the rehearsed story leaves out.
+The first session is about getting past all of that. A founder's first session with me is not an intake. There are no forms to fill out first, no advice, and no homework. It is 50 minutes of conversation, and most of what I learn comes from what the prepared version of the story leaves out.
 
 Almost every founder who books with me opens the first 20 minutes the same way. They give me a tight summary of the company, the co-founders, the stage of the business, the current pressure. It is efficient. It is well organized. It is also a version of themselves they have given many times, to many audiences. It is not what I am there to listen for.
 

@@ -27,7 +27,7 @@ LMFT, RDT · San Francisco, CA
 
 By the time EMDR comes up in a session, most founders have already formed an opinion about it. Either they have read about it and are skeptical it works, or they have read about it and hope it will fix things faster than talk therapy would. Both reactions miss what it actually does.
 
-I use EMDR regularly with executive and founder clients, and the rule for when it fits is simple. EMDR is the right tool for an executive when a specific reaction is out of proportion to its trigger, when a specific event has lodged in the body and talking about it has not moved it, or when the insight is complete and the pattern still has not changed. It is the wrong tool during acute crisis, before the working relationship is solid, and for questions of meaning or what to do next, which a conversation answers better. The gap between those two lists is bigger than most clients expect.
+I use EMDR regularly with executive and founder clients, and the rule for when it fits is simple. EMDR is the right tool for an executive when a specific reaction is out of proportion to its trigger, when a specific event has lodged in the body and talking about it has not moved it, or when the insight is complete and the pattern still has not changed. It is the wrong tool for questions of meaning or what to do next, which a conversation answers better, and it asks a lot of the client, so in an acute crisis the question is whether the founder has the resources to spend on it. The gap between those two lists is bigger than most clients expect.
 
 The first thing worth saying is that EMDR is more than the technique it is usually reduced to. It is a structured, eight-phase psychotherapy developed by Francine Shapiro in 1989 [[1]](#ref-1). The part that gets all the attention, the bilateral eye movements or tactile stimulation, is the most visible piece, but it sits on top of a much larger therapeutic process. The other seven phases, including resource installation, targeting, body scanning, and closure, are doing most of the actual work.
 
@@ -61,7 +61,7 @@ A third pattern involves anticipatory dread after a previous failure. A founder 
 
 There are cases where I do not reach for EMDR, even when a founder asks for it directly.
 
-If a client is in acute crisis, EMDR is not the right starting point. The work before EMDR is stabilization. Sleep, basic regulation, the relationship between us. EMDR can come later. Trying to do it under crisis conditions tends to dysregulate the client further rather than help them.
+EMDR can work in an acute crisis. It also costs the client a lot of energy, and a founder in the middle of one may not have it to spend. The question is what resources the person has right now: sleep, support, some steadiness between us. When those are thin, the work starts with stabilization and EMDR comes after. When they are there, it can begin sooner.
 
 If a client has not yet built the relational trust required to do the work, I also wait. EMDR sessions, when they are working, involve a level of vulnerability that depends on the therapeutic alliance being solid. Some clients are ready in the first month. Others take longer. The work I am willing to do in week three is different from what I am willing to do in month six. For more on how that trust gets built, see [A Founder's First Therapy Session](first-therapy-session-founder.html).
 
@@ -105,7 +105,7 @@ Yes, for a specific set of problems. It is the right tool when a reaction is out
 
 ### When is EMDR the wrong choice for an executive?
 
-During acute crisis, when the work is stabilization first: sleep, basic regulation, the relationship between us. Before the working relationship is solid enough to hold the vulnerability the sessions require. And when the question is about meaning, identity, or what to do next with your life, which EMDR is not built to answer; the conversation is the answer. Highly intellectualized clients who dissociate from the body need preparatory work before EMDR can do anything useful. Forcing it into the wrong territory produces session after session of nothing happening.
+When the question is about meaning, identity, or what to do next with your life, which EMDR is not built to answer; the conversation is the answer. In an acute crisis it depends on the founder's resources, because EMDR takes a lot of energy, and if sleep and support are thin the work starts with stabilization. Highly intellectualized clients who dissociate from the body need preparatory work before EMDR can do anything useful. Forcing it into the wrong territory produces session after session of nothing happening.
 
 ### How many EMDR sessions does an executive need?
 

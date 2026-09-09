@@ -111,7 +111,7 @@ Common Questions
 
 Do you work with tech executives who are not founders?
 
-Yes. About half of the practice is executives who did not start the company: CTOs, VPs of engineering, heads of product, general managers, and partners at venture firms. The pressures overlap with founder pressures but are not identical. An executive answers to a founder or a board without the founder's ownership, and that gap shows up in sessions constantly.
+Yes. Most of the practice is founders, and executives who did not start the company are a smaller part of it: CTOs, VPs of engineering, heads of product, general managers, and partners at venture firms. The pressures overlap with founder pressures but are not identical. An executive answers to a founder or a board without the founder's ownership, and that gap shows up in sessions constantly.
 
 Are you licensed in Florida or registered for telehealth?
 
