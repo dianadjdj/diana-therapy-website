@@ -17,7 +17,7 @@ Who This Is For
 
 ## Senior People in Tech Who Are Still Performing.
 
-The practice works with CTOs, VPs of engineering, heads of product, general managers, founders at every stage, and partners at venture firms. The common thread is not the title. It is that the person is still delivering, often visibly well, while something underneath has stopped working. Sleep is short. Irritability is out of proportion. Wins do not register. The company is doing fine and you are not.
+I work with CTOs, VPs of engineering, heads of product, general managers, founders at every stage, and partners at venture firms. The common thread is not the title. It is that the person is still delivering, often visibly well, while something underneath has stopped working. Sleep is short. Irritability is out of proportion. The body does not feel good and no scan or supplement explains why. The company is doing fine and you are not.
 
 Tech has a particular version of this. Reorgs and layoffs land on people who have to run them and then absorb them. Equity ties your net worth to a number you cannot control. A board or a founder above you can end your role in a single meeting. Vesting cliffs make leaving feel impossible for years at a time. Public visibility, on LinkedIn or in the press, means every stumble has an audience. None of this is treated as clinical in most therapy offices, and it should be.
 
@@ -53,11 +53,11 @@ Constant mental rehearsal, over-preparation, an inability to enjoy a win before 
 
 ### Hypervigilance at 2am
 
-The nervous system learned that scanning for problems is the job, and it does not stop when you close the laptop. [Why founders don't sleep.](blog/founders-sleep-hypervigilance.html)
+The nervous system learned that scanning for problems is the job, and it does not stop when you close the laptop. You are awake at 2am with a racing heart and a tight chest, working a problem that can wait until morning. By day the body runs on adrenaline and caffeine and never quite settles. [Why founders don't sleep.](blog/founders-sleep-hypervigilance.html)
 
 ### Burnout That Looks Like Success
 
-Full calendar, strong reviews, and nothing feels like anything. [The hidden cost of high performance.](blog/burnout-executives-high-performance.html)
+Full calendar, strong reviews, and nothing feels like anything. Wins do not register, and somewhere along the way you stopped celebrating them. [The hidden cost of high performance.](blog/burnout-executives-high-performance.html)
 
 ### Decision Fatigue
 
@@ -75,11 +75,11 @@ How the Work Goes
 
 ## Direct, Clinical, and Built Around Your Calendar.
 
-Sessions are 50 minutes by secure video, weekly or every other week, with early morning and evening slots. There are no intake forms to fill out before the first conversation. The first session is a conversation about what is happening now and what you want to be different, and it usually gets somewhere real inside the first twenty minutes. [What a first session actually looks like.](blog/first-therapy-session-founder.html)
+Sessions are 50 minutes by secure video, weekly or every other week. The free consultation needs no paperwork. If we decide to work together, there is a short intake form to complete before the first session. The first session itself is a conversation about what is happening now and what you want to be different, and it usually gets somewhere real inside the first twenty minutes. [What a first session actually looks like.](blog/first-therapy-session-founder.html)
 
-The clinical approach is relational and experiential. EMDR is used for specific high-stakes events that the body has not put down: the layoff you ran, the board meeting that went sideways, the quarter the company nearly died. Drama therapy and psychodynamic work reach the patterns underneath, the ones that predate the current role and keep choosing it. Diana is EMDR-trained, Gottman-trained for couples work, and a Registered Drama Therapist. [When EMDR helps an executive and when it does not.](blog/emdr-for-executives.html)
+The approach is relational and experiential. Drama therapy and psychodynamic work reach the patterns underneath, the ones that predate the current role and keep choosing it. I am Gottman-trained for couples work and a Registered Drama Therapist.
 
-Confidentiality is structural. The practice is cash-pay and out of network, so no claim goes to an insurer and nothing reaches a benefits administrator. Your employer is never contacted. Video sessions mean no waiting room and no office to be seen walking into.
+Everything is confidential. The practice is cash-pay and out of network, so no claim goes to an insurer and nothing reaches a benefits administrator. Your employer is never contacted. Video sessions mean no waiting room and no office to be seen walking into.
 
 About Diana
 
@@ -133,7 +133,7 @@ Get Started
 
 ## Twenty minutes to see if this fits.
 
-Book a free consultation. We talk about what is happening and whether working together makes sense. No forms first.
+Book a free consultation. We talk about what is happening and whether working together makes sense. No forms until you decide to start.
 
 [Book a Free Consultation →](contact.html)
 [Read the FAQ](faq.html)
