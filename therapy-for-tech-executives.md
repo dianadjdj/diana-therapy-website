@@ -111,23 +111,23 @@ Common Questions
 
 Do you work with tech executives who are not founders?
 
-Yes. Most of the practice is founders, and executives who did not start the company are a smaller part of it: CTOs, VPs of engineering, heads of product, general managers, and partners at venture firms. The pressures overlap with founder pressures but are not identical. An executive answers to a founder or a board without the founder's ownership, and that gap shows up in sessions constantly.
+Yes. Most of my practice is founders, and executives who did not start the company are a smaller part of it: CTOs, VPs of engineering, heads of product, general managers, and partners at venture firms. The pressures overlap with founder pressures but are not identical. An executive answers to a founder or a board without the founder's ownership, and that gap shows up in sessions constantly.
 
 Are you licensed in Florida or registered for telehealth?
 
-Licensed. Diana Chu holds a full Florida Licensed Marriage and Family Therapist licence (TPMF785) issued by the Florida Department of Health, in addition to her California licence (LMFT #105546). Many out-of-state therapists see Florida clients under a telehealth registration, which is a different status. A licence means she is accountable to the Florida board directly.
+Licensed. I hold a full Florida Licensed Marriage and Family Therapist licence (TPMF785) issued by the Florida Department of Health, in addition to my California licence (LMFT #105546). Many out-of-state therapists see Florida clients under a telehealth registration, which is a different status. A licence means I am accountable to the Florida board directly.
 
 How much does therapy for a tech executive cost?
 
-$500 per 50-minute individual session and $530 per 50-minute couples session. No sliding scale. Diana is out of network with all insurers and provides a superbill on request for PPO plans with out-of-network mental health benefits. The 20-minute consultation is free.
+$500 per 50-minute individual session and $530 per 50-minute couples session. No sliding scale. I am out of network with all insurers and provide a superbill on request for PPO plans with out-of-network mental health benefits. The 20-minute consultation is free.
 
 Can I do therapy if I travel between California and Florida?
 
-Yes, as long as you are physically in California or Florida at the time of each session. The licence follows where the client is sitting, not where the therapist is. Executives who split time between the Bay Area and South Florida are a normal part of the practice, and no paperwork changes when you move between the two states.
+Yes, as long as you are physically in California or Florida at the time of each session. The licence follows where the client is sitting, not where the therapist is. Executives who split time between the Bay Area and South Florida are a normal part of my practice, and no paperwork changes when you move between the two states.
 
 Is this therapy or executive coaching?
 
-Therapy. Sessions are clinical work with a licensed therapist, covered by confidentiality law and clinical ethics. Diana also facilitates Interpersonal Dynamics at Stanford Graduate School of Business, so leadership questions are not out of bounds, but the frame is treatment, not performance coaching. If what you need is coaching, she will say so in the consultation. [Coaching vs therapy, compared.](guides/coaching-vs-therapy-for-founders.html)
+Therapy. Sessions are clinical work with a licensed therapist, covered by confidentiality law and clinical ethics. I also facilitate Interpersonal Dynamics at Stanford Graduate School of Business, so leadership questions are not out of bounds, but the frame is treatment, not performance coaching. If what you need is coaching, I will say so in the consultation. [Coaching vs therapy, compared.](guides/coaching-vs-therapy-for-founders.html)
 
 Get Started
 
