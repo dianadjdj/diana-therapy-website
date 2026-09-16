@@ -60,7 +60,7 @@ What is missing matters more than what is present. Couples who run a company tog
 
 This couple arrives with a different shape. The founder is often the one who books, sometimes for something else, and gets to the marriage within the first month. The partner has been carrying the house, and the children if there are any, through a fundraise or a layoff or a pivot they did not choose and could not vote on. What they say in the first session is some version of: I am proud of you, and I cannot keep doing this. The founder hears an ultimatum. It is usually a request to be counted.
 
-The company is in the room whether or not it is on the agenda. Part of the work is naming what it has cost, out loud, with both people present, and deciding together what it gets to take from here. Part of it is the founder learning to come home without the board meeting. Part of it is the partner getting to say what they want without it landing as an attack on the company.
+The company is in the room whether or not it is on the agenda. Part of the work is naming what it has cost, out loud, with both people present, and deciding together what it gets to take from here. The rest is the founder learning to come home without the board meeting, and the partner getting to say what they want without it landing as an attack on the company.
 
 In both cases the work starts lower down than most couples therapy: with what each person's nervous system is doing in the room, and with the trust that dropped without anyone naming it. Often it starts with one of you alone. The other comes later, or does not, and the work still holds.
 

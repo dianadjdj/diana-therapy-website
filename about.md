@@ -61,11 +61,9 @@ Credentials
 - Board Member, Telegraph Hill Neighborhood Center
 - Telehealth Practice Only
 
-Facts
+At a Glance
 
-## At a glance
-
-Every figure here matches the rest of the site. Last checked September 9, 2026.
+## Licences, training, and fees.
 
 |  |  |
 | --- | --- |
