@@ -135,7 +135,7 @@ For most founders, the presenting issue is none of these. It is some combination
 
 ## A note on couples work
 
-Roughly half of the work I do is couples therapy. Founder couples, co-founder pairs, dual-career partnerships. The [clinical considerations are different enough](../blog/couples-therapy-founders.html) that the criteria in this guide need some adjustment when the work is couples-focused.
+Roughly half of the work I do is couples therapy: couples who run a company together, and couples where one partner is the founder. The [clinical considerations are different enough](../blog/couples-therapy-founders.html) that the criteria in this guide need some adjustment when the work is couples-focused.
 
 For couples, look specifically for Gottman Method certification or training (which is evidence-based and research-grounded), EFT (Emotionally Focused Therapy) training, or PACT (Psychobiological Approach to Couple Therapy) training. Generalist couples work by a therapist without structured couples training tends to drift into unproductive territory. Also ask whether the clinician has experience with co-founder dynamics specifically, which are structurally different from romantic couples even when both apply.
 

@@ -95,7 +95,7 @@ per 50-min session
 
 ### Couples Therapy
 
-For dual-career couples and co-founders whose relationship has taken a back seat to everything else. We draw on the Gottman Method to work through real communication and connection problems, not just manage conflict.
+For founder couples: partners who run a company together, and couples where one of you is the founder and the other lives with it. We draw on the Gottman Method to work through the communication and connection problems underneath the conflict.
 
 $530
 
