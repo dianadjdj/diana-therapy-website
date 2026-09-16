@@ -31,7 +31,7 @@ This page is not for a co-founder pair with no romantic relationship. That is a 
 
 I am Gottman-trained and work with both kinds of couple. Sessions are 50 minutes, $530, by secure video, for people in California and Florida. The three reads below are where to start.
 
-![Two light wooden chairs facing each other across a small round table, in front of loft windows looking onto a brick street](images/cofounder-hard-conversations.jpg)
+![A kitchen table with two wicker chairs under a window, morning light across the tabletop](images/founder-couples.jpg)
 
 Three Reads
 

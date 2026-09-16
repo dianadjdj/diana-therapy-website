@@ -13,6 +13,8 @@ Diana Chu is a licensed therapist for tech executives, startup founders, and ven
 
 [Book a Free Consultation →](contact.html)
 
+![An empty office at night, a lit tower in the distance through the windows and a patch of warm light on the floor](images/therapy-for-tech-executives.jpg)
+
 Who This Is For
 
 ## Senior People in Tech Who Are Still Performing.

@@ -13,6 +13,8 @@ Private, specialist mental health care for the people building and running compa
 
 [Book a Free Consultation →](contact.html)
 
+![Two metal chairs at a plain table in a dim room, late sun falling in stripes across the wall](images/therapy-for-founders.jpg)
+
 Founder Mental Health
 
 ## What Founder Mental Health Actually Is.
