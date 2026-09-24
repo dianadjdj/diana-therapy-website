@@ -25,7 +25,7 @@ The most dangerous form of executive burnout is the one you do not notice. You a
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

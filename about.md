@@ -72,8 +72,8 @@ At a Glance
 | Registered Drama Therapist | RDT #659 |
 | Education | MA Counseling Psychology, California Institute of Integral Studies |
 | Faculty role | Interpersonal Dynamics Facilitator, Stanford Graduate School of Business |
-| Individual session | $500, 50 minutes |
-| Couples session | $530, 50 minutes |
+| Individual session | $600, 50 minutes |
+| Couples session | $630, 50 minutes |
 | Format | Secure video only, no in-person sessions |
 | Client location | California or Florida at time of session |
 | Insurance | Out of network, superbill on request |

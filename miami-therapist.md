@@ -25,7 +25,7 @@ I hold a full Florida licence as a Marriage and Family Therapist (TPMF785), alon
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

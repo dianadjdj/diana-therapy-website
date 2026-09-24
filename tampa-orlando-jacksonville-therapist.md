@@ -27,7 +27,7 @@ I am licensed in Florida as a Marriage and Family Therapist (TPMF785), and in Ca
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

@@ -23,7 +23,7 @@ This is the particular psychology I work with. The founder who has done everythi
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

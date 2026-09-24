@@ -56,7 +56,7 @@ The work I do is built around those patterns. It starts from the assumption that
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

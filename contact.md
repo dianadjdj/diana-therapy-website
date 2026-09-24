@@ -34,7 +34,7 @@ Cost
 Free, no commitment
 
 Session fee
-$500 individual · $530 couples / 50 minutes
+$600 individual · $630 couples / 50 minutes
 
 Telehealth
 California & Florida only

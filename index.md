@@ -85,7 +85,7 @@ Each service is built around the specific demands of high-achievement. This isn'
 
 One-on-one telehealth sessions for executives, CEOs, and founders dealing with burnout, leadership anxiety, career transitions, or the accumulated weight of a high-stakes life. We work on what's actually going on, not just the surface.
 
-$500
+$600
 
 per 50-min session
 
@@ -97,7 +97,7 @@ per 50-min session
 
 For founder couples: partners who run a company together, and couples where one of you is the founder and the other lives with it. We draw on the Gottman Method to work through the communication and connection problems underneath the conflict.
 
-$530
+$630
 
 per 50-min session
 

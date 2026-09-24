@@ -25,7 +25,7 @@ There is also a real tension between LA's surface and what sits underneath. The 
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 

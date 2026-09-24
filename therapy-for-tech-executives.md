@@ -1,6 +1,6 @@
 # Therapist for Tech Executives, CA and FL | Diana Chu, LMFT
 
-> Therapy for tech executives, founders, and venture-backed CEOs. Licensed in California and Florida, secure video only, $500 a session. Free 20-minute consult.
+> Therapy for tech executives, founders, and venture-backed CEOs. Licensed in California and Florida, secure video only, $600 a session. Free 20-minute consult.
 
 Canonical URL: https://dianachutherapy.com/therapy-for-tech-executives.html
 
@@ -9,7 +9,7 @@ Tech Executives
 
 ## Therapy for Tech Executives.
 
-Diana Chu is a licensed therapist for tech executives, startup founders, and venture-backed CEOs in California and Florida. Secure video only. $500 per 50-minute session. Licensed in both states, not registered.
+Diana Chu is a licensed therapist for tech executives, startup founders, and venture-backed CEOs in California and Florida. Secure video only. $600 per 50-minute session. Licensed in both states, not registered.
 
 [Book a Free Consultation →](contact.html)
 
@@ -27,7 +27,7 @@ If you are the founder rather than the executive, the [founder hub](therapy-for-
 
 Session Details
 
-$500
+$600
 
 per 50-minute session
 
@@ -121,7 +121,7 @@ Licensed. I hold a full Florida Licensed Marriage and Family Therapist licence (
 
 How much does therapy for a tech executive cost?
 
-$500 per 50-minute individual session and $530 per 50-minute couples session. No sliding scale. I am out of network with all insurers and provide a superbill on request for PPO plans with out-of-network mental health benefits. The 20-minute consultation is free.
+$600 per 50-minute individual session and $630 per 50-minute couples session. No sliding scale. I am out of network with all insurers and provide a superbill on request for PPO plans with out-of-network mental health benefits. The 20-minute consultation is free.
 
 Can I do therapy if I travel between California and Florida?
 

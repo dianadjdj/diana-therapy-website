@@ -1,6 +1,6 @@
 # Therapy for Founder Couples, CA and FL | Diana Chu, LMFT
 
-> Couples therapy for founder couples in California and Florida: the married couple who run a company together, and the couple where one partner is the founder. Gottman-trained, $530 a session.
+> Couples therapy for founder couples in California and Florida: the married couple who run a company together, and the couple where one partner is the founder. Gottman-trained, $630 a session.
 
 Canonical URL: https://dianachutherapy.com/founder-couples.html
 
@@ -29,7 +29,7 @@ One of you runs a company. The other has a career, or the children, or both, and
 
 This page is not for a co-founder pair with no romantic relationship. That is a different piece of work, and a founder in that situation can bring it to individual sessions through the [founder hub](therapy-for-founders.html).
 
-I am Gottman-trained and work with both kinds of couple. Sessions are 50 minutes, $530, by secure video, for people in California and Florida. The three reads below are where to start.
+I am Gottman-trained and work with both kinds of couple. Sessions are 50 minutes, $630, by secure video, for people in California and Florida. The three reads below are where to start.
 
 ![A kitchen table with two wicker chairs under a window, morning light across the tabletop](images/founder-couples.jpg)
 
@@ -66,7 +66,7 @@ In both cases the work starts lower down than most couples therapy: with what ea
 
 Session Details
 
-$530
+$630
 
 per 50-minute couples session
 

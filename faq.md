@@ -37,7 +37,7 @@ We will talk about your goals from the start and check in as we go. You are neve
 
 What are your fees?
 
-Individual sessions are **$500** and couples sessions are **$530**, each 50 minutes. Diana does not offer sliding scale at this time.
+Individual sessions are **$600** and couples sessions are **$630**, each 50 minutes. Diana does not offer sliding scale at this time.
 
 Do you accept insurance?
 
@@ -51,7 +51,7 @@ Under the No Surprises Act (effective January 1, 2022), you have the right to re
 
 **Provider:** Diana Chu, LMFT #105546, RDT #659
 **Service:** Individual or couples psychotherapy via telehealth
-**Session fee:** $500 per 50-minute individual session; $530 per 50-minute couples session
+**Session fee:** $600 per 50-minute individual session; $630 per 50-minute couples session
 **Frequency:** Typically weekly or biweekly, depending on your needs
 **Estimated annual cost:** Individual: $6,500 (13 sessions) to $26,000 (52 sessions). Couples: $6,890 (13 sessions) to $27,560 (52 sessions)
 
