@@ -71,7 +71,7 @@ Facts to check
 | Licence, Florida | LMFT, TPMF785 |
 | Credential | Registered Drama Therapist, RDT #659 |
 | Education | MA Counseling Psychology, California Institute of Integral Studies |
-| Faculty role | Interpersonal Dynamics Facilitator, Stanford Graduate School of Business |
+| Stanford | Executive coach and Interpersonal Dynamics Facilitator, Stanford Graduate School of Business |
 | Therapy practice | Diana Chu Therapy, telehealth only, California and Florida |
 | Coaching practice | Refactor=EQ, [refactoreq.com](https://refactoreq.com), founders and founder couples |
 | Based in | San Francisco |
