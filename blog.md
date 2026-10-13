@@ -103,6 +103,15 @@ The company is on plan and the feeling says otherwise. On plans that move when y
 
 [Read Article →](blog/why-success-feels-like-failing.html)
 
+Founder Life
+October 2026
+
+### [When Everyone Around You Has a Stake](blog/when-everyone-around-you-has-a-stake.html)
+
+You chose to be the face of the company and it worked. On what being known does to ordinary trust, the working self that gets the compliments, and the page written about you that you cannot edit.
+
+[Read Article →](blog/when-everyone-around-you-has-a-stake.html)
+
 Cluster
 
 ## Executive mental health.

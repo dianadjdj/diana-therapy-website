@@ -38,6 +38,7 @@ This page is the topic map. The clinical patterns founders bring in, the researc
 | [Loneliness of leadership](blog/loneliness-of-leadership.html) | The specific isolation of being surrounded by people who all need something from you, with no one you can be fully honest with. |
 | [Identity after exit](blog/founder-identity-after-exit.html) | What happens to selfhood when the role that organized it ends. The grief no one warned you about. |
 | [Co-founder and partner strain](blog/couples-therapy-founders.html) | When the company starts costing the primary relationship. Couples work for co-founder couples and founder families. |
+| [Being the public face](blog/when-everyone-around-you-has-a-stake.html) | You chose to be known and it worked. Now every relationship carries a second possible motive, and the founder checks what each person wants before the warmth can land. |
 | [Founder mental health, in full](blog/founder-mental-health.html) | The overview of what the job costs and what clinical work meets it with. |
 
 For founders considering therapy for the first time: [do high achievers actually need therapy](blog/do-i-need-therapy-executives.html) and [what a founder's first session actually looks like](blog/first-therapy-session-founder.html). For the research review: [founder mental health, what the data shows](guides/founder-mental-health-statistics.html). For finding a clinician: [best therapist for founders in California](guides/best-therapist-for-founders-california.html).

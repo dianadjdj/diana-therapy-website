@@ -39,6 +39,13 @@ Read Guide →](guides/business-therapist-vs-regular-therapist.html)
 Coaching works on the decisions in front of you. Therapy works on the inner life that shapes how you make them. Where the two overlap, why the line is blurrier than either profession admits, and how to tell which one the thing in your way calls for. From someone who works as both.
 
 Read Guide →](guides/coaching-vs-therapy-for-founders.html)
+[Founder's Guide  ·  9 min read
+
+## Finding a Therapist When You Are a Public Figure
+
+What confidentiality protects in California and Florida, where the real leaks are, why cash pay is a privacy feature, what to ask a therapist before you say anything that matters, and how to check the answers yourself.
+
+Read Guide →](guides/therapist-for-public-figures.html)
 
 For shorter reads on specific patterns, see the [blog](blog.html). For the founder mental health topic map and clinical overview, see the [founder mental health hub](therapy-for-founders.html).
 
